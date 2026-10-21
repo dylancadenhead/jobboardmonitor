@@ -34,36 +34,36 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://boards.greenhouse.io/6sense/jobs/8153840?gh_jid=8153840
 - **adyen**:  Account Manager | Paris | location: Paris
   https://job-boards.greenhouse.io/adyen/jobs/7586281
-- **adyen**: Account Manager | Brussel | location: Brussel
-  https://job-boards.greenhouse.io/adyen/jobs/8243147
+- **adyen**: Account Manager | Mexico City | location: Mexico City
+  https://job-boards.greenhouse.io/adyen/jobs/8099261
 - **adyen**: Account Manager | Kuala Lumpur | location: Kuala Lumpur
   https://job-boards.greenhouse.io/adyen/jobs/7938074
 - **adyen**: Account Manager | Singapore | location: Singapore
   https://job-boards.greenhouse.io/adyen/jobs/8155652
+- **adyen**: Account Manager | Brussel | location: Brussel
+  https://job-boards.greenhouse.io/adyen/jobs/8243147
+- **adyen**: Account Manager | Amsterdam | location: Amsterdam
+  https://job-boards.greenhouse.io/adyen/jobs/7436701
 - **adyen**: Account Manager | São Paulo | location: São Paulo
   https://job-boards.greenhouse.io/adyen/jobs/7095302
 - **adyen**: Account Manager | Shanghai | location: Shanghai
   https://job-boards.greenhouse.io/adyen/jobs/5359280
-- **adyen**: Account Manager | Mexico City | location: Mexico City
-  https://job-boards.greenhouse.io/adyen/jobs/8099261
-- **adyen**: Account Manager | Amsterdam | location: Amsterdam
-  https://job-boards.greenhouse.io/adyen/jobs/7436701
 - **adyen**: Account Manager  | Stockholm | location: Stockholm
   https://job-boards.greenhouse.io/adyen/jobs/8145128
 - **adyen**: Account Manager (Affirmative Action for Black Community) | São Paulo | location: São Paulo
   https://job-boards.greenhouse.io/adyen/jobs/7128210
-- **adyen**: Enterprise Account Manager | Stockholm | location: Stockholm
-  https://job-boards.greenhouse.io/adyen/jobs/8145968
-- **adyen**: Enterprise Account Manager | Paris | location: Paris
-  https://job-boards.greenhouse.io/adyen/jobs/6918826
-- **adyen**: Enterprise Account Manager | Milan | location: Milan
-  https://job-boards.greenhouse.io/adyen/jobs/8094027
-- **adyen**: Enterprise Account Manager | New York | location: New York
-  https://job-boards.greenhouse.io/adyen/jobs/6762275
-- **adyen**: Enterprise Account Manager | San Francisco | location: San Francisco
-  https://job-boards.greenhouse.io/adyen/jobs/6762094
 - **adyen**: Enterprise Account Manager | Amsterdam | location: Amsterdam
   https://job-boards.greenhouse.io/adyen/jobs/6762133
+- **adyen**: Enterprise Account Manager | San Francisco | location: San Francisco
+  https://job-boards.greenhouse.io/adyen/jobs/6762094
+- **adyen**: Enterprise Account Manager | New York | location: New York
+  https://job-boards.greenhouse.io/adyen/jobs/6762275
+- **adyen**: Enterprise Account Manager | Milan | location: Milan
+  https://job-boards.greenhouse.io/adyen/jobs/8094027
+- **adyen**: Enterprise Account Manager | Paris | location: Paris
+  https://job-boards.greenhouse.io/adyen/jobs/6918826
+- **adyen**: Enterprise Account Manager | Stockholm | location: Stockholm
+  https://job-boards.greenhouse.io/adyen/jobs/8145968
 - **adyen**: Enterprise Account Manager, Adyen for Platforms  | London | location: London
   https://job-boards.greenhouse.io/adyen/jobs/7342860
 - **adyen**: Enterprise Account Manager, Platforms | Sydney | location: Sydney
@@ -1376,7 +1376,7 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/cultureamp/jobs/8263267
 - **cultureamp**: Senior Customer Success Manager (French-speaking) | London | location: London
   https://job-boards.greenhouse.io/cultureamp/jobs/8187902
-- **cultureamp**: Senior Customer Success Manager, Enterprise | Austin | location: Austin
+- **cultureamp**: Senior Customer Success Manager, (Enterprise-at-scale) | Austin | location: Austin
   https://job-boards.greenhouse.io/cultureamp/jobs/8263268
 - **cursor**: Account Executive - Commercial | Singapore (remote) | location: Singapore (remote)
   https://jobs.ashbyhq.com/cursor/bff67718-1dbf-4d66-bcef-8b68d93d716f
@@ -1974,6 +1974,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/elevenlabs/a571b8e4-8176-4e31-aab6-2287ee810236
 - **elevenlabs**: Account Manager - Japan | Japan (remote) | location: Japan (remote)
   https://jobs.ashbyhq.com/elevenlabs/15eb4b53-fdd8-49e6-8c7c-0951f6e40b99
+- **elevenlabs**: Enterprise Account Executive - India  | India (remote) | location: India (remote)
+  https://jobs.ashbyhq.com/elevenlabs/277de6ad-3db5-4b96-afb5-cec3d797e788
 - **elevenlabs**: Nordics Strategic Account Executive - BFSI & Regulated Industries | Sweden; Denmark; Stockholm | location: Sweden; Denmark; Stockholm
   https://jobs.ashbyhq.com/elevenlabs/34e9eed1-3fd4-4a25-8f02-dff7f12bebf6
 - **elevenlabs**: Nordics Strategic Account Executive - Retail & Consumer | Sweden; Denmark; Stockholm | location: Sweden; Denmark; Stockholm
@@ -3544,6 +3546,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.samsara.com/company/careers/roles/7818248?gh_jid=7818248
 - **samsara**: Select Major Account Executive (EST) | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/7663706?gh_jid=7663706
+- **samsara**: Select Major Account Executive, UK&I | United Kingdom | location: United Kingdom
+  https://www.samsara.com/company/careers/roles/8249717?gh_jid=8249717
 - **samsara**: Senior Enterprise Implementation Consultant | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/8121968?gh_jid=8121968
 - **samsara**: Senior Partner Account Executive, UK - Insurance | London - UK2 | location: London - UK2
@@ -4245,13 +4249,13 @@ Title matched a sales style role but the location rule rejected it. Read these f
 - **twilio**: Strategic Account Excecutive | Remote - Mexico | location: Remote - Mexico
   https://job-boards.greenhouse.io/twilio/jobs/8076981
 - **twilio**: Strategic Account Executive | Remote - United Kingdom | location: Remote - United Kingdom
+  https://job-boards.greenhouse.io/twilio/jobs/7785025
+- **twilio**: Strategic Account Executive | Remote - United Kingdom | location: Remote - United Kingdom
   https://job-boards.greenhouse.io/twilio/jobs/8243069
-- **twilio**: Strategic Account Executive | Remote - Singapore | location: Remote - Singapore
-  https://job-boards.greenhouse.io/twilio/jobs/8178812
 - **twilio**: Strategic Account Executive | Remote - United Kingdom | location: Remote - United Kingdom
   https://job-boards.greenhouse.io/twilio/jobs/8160532
-- **twilio**: Strategic Account Executive | Remote - United Kingdom | location: Remote - United Kingdom
-  https://job-boards.greenhouse.io/twilio/jobs/7785025
+- **twilio**: Strategic Account Executive | Remote - Singapore | location: Remote - Singapore
+  https://job-boards.greenhouse.io/twilio/jobs/8178812
 - **twilio**: Strategic Account Executive 4 | Remote - US | location: Remote - US
   https://job-boards.greenhouse.io/twilio/jobs/8056267
 - **twilio**: Strategic Account Executive 4 - Regverts | Remote - US | location: Remote - US
