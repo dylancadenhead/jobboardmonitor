@@ -1,4 +1,4 @@
-# Dropped on location 2026-10-28
+# Dropped on location 2026-10-29
 
 Title matched a sales style role but the location rule rejected it. Read these for near misses (for example a role that allows remote Spain).
 
@@ -27,23 +27,21 @@ Title matched a sales style role but the location rule rejected it. Read these f
 - **6sense**: Senior Account Executive | United States, Remote | location: United States, Remote
   https://boards.greenhouse.io/6sense/jobs/8015936?gh_jid=8015936
 - **6sense**: Senior Advertising Account Executive | United States, Remote | location: United States, Remote
-  https://boards.greenhouse.io/6sense/jobs/8153838?gh_jid=8153838
-- **6sense**: Senior Advertising Account Executive | United States, Remote | location: United States, Remote
   https://boards.greenhouse.io/6sense/jobs/8153824?gh_jid=8153824
+- **6sense**: Senior Advertising Account Executive | United States, Remote | location: United States, Remote
+  https://boards.greenhouse.io/6sense/jobs/8153838?gh_jid=8153838
 - **6sense**: Senior Customer Success Manager, EMEA | London, England, United Kingdom | location: London, England, United Kingdom
   https://boards.greenhouse.io/6sense/jobs/8282150?gh_jid=8282150
 - **6sense**: Sr. Manager, Enterprise Analytics - G&A | Bengaluru, Karnataka, India | location: Bengaluru, Karnataka, India
   https://boards.greenhouse.io/6sense/jobs/8238331?gh_jid=8238331
-- **6sense**: Strategic Advertising Account Executive | United States, Remote | location: United States, Remote
-  https://boards.greenhouse.io/6sense/jobs/8153840?gh_jid=8153840
 - **adyen**:  Account Manager | Paris | location: Paris
   https://job-boards.greenhouse.io/adyen/jobs/7586281
-- **adyen**: Account Manager | Shanghai | location: Shanghai
-  https://job-boards.greenhouse.io/adyen/jobs/5359280
 - **adyen**: Account Manager | Kuala Lumpur | location: Kuala Lumpur
   https://job-boards.greenhouse.io/adyen/jobs/7938074
 - **adyen**: Account Manager | Brussel | location: Brussel
   https://job-boards.greenhouse.io/adyen/jobs/8243147
+- **adyen**: Account Manager | Shanghai | location: Shanghai
+  https://job-boards.greenhouse.io/adyen/jobs/5359280
 - **adyen**: Account Manager | São Paulo | location: São Paulo
   https://job-boards.greenhouse.io/adyen/jobs/7095302
 - **adyen**: Account Manager | Amsterdam | location: Amsterdam
@@ -54,32 +52,32 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/adyen/jobs/7128210
 - **adyen**: Enterprise Account Manager | Milan | location: Milan
   https://job-boards.greenhouse.io/adyen/jobs/8094027
+- **adyen**: Enterprise Account Manager | Paris | location: Paris
+  https://job-boards.greenhouse.io/adyen/jobs/6918826
 - **adyen**: Enterprise Account Manager | Amsterdam | location: Amsterdam
   https://job-boards.greenhouse.io/adyen/jobs/6762133
 - **adyen**: Enterprise Account Manager | San Francisco | location: San Francisco
   https://job-boards.greenhouse.io/adyen/jobs/6762094
-- **adyen**: Enterprise Account Manager | New York | location: New York
-  https://job-boards.greenhouse.io/adyen/jobs/6762275
-- **adyen**: Enterprise Account Manager | Paris | location: Paris
-  https://job-boards.greenhouse.io/adyen/jobs/6918826
 - **adyen**: Enterprise Account Manager | Stockholm | location: Stockholm
   https://job-boards.greenhouse.io/adyen/jobs/8145968
-- **adyen**: Enterprise Account Manager, Adyen for Platforms  | London | location: London
-  https://job-boards.greenhouse.io/adyen/jobs/7342860
+- **adyen**: Enterprise Account Manager | New York | location: New York
+  https://job-boards.greenhouse.io/adyen/jobs/6762275
 - **adyen**: Enterprise Account Manager, Adyen for Platforms  | San Francisco | location: San Francisco
   https://job-boards.greenhouse.io/adyen/jobs/6762044
+- **adyen**: Enterprise Account Manager, Adyen for Platforms  | London | location: London
+  https://job-boards.greenhouse.io/adyen/jobs/7342860
 - **adyen**: Enterprise Account Manager, Platforms | Toronto | location: Toronto
   https://job-boards.greenhouse.io/adyen/jobs/7837380
 - **adyen**: Enterprise Account Manager, Platforms | Sydney | location: Sydney
   https://job-boards.greenhouse.io/adyen/jobs/8260386
 - **adyen**: Enterprise Business Development | São Paulo | location: São Paulo
   https://job-boards.greenhouse.io/adyen/jobs/8264733
+- **adyen**: Enterprise Sales Manager | London | location: London
+  https://job-boards.greenhouse.io/adyen/jobs/8104096
 - **adyen**: Enterprise Sales Manager | Shanghai | location: Shanghai
   https://job-boards.greenhouse.io/adyen/jobs/7995074
 - **adyen**: Enterprise Sales Manager | Warsaw | location: Warsaw
   https://job-boards.greenhouse.io/adyen/jobs/8190516
-- **adyen**: Enterprise Sales Manager | London | location: London
-  https://job-boards.greenhouse.io/adyen/jobs/8104096
 - **adyen**: Global Alliances Partner Manager | London | location: London
   https://job-boards.greenhouse.io/adyen/jobs/8255687
 - **adyen**: Sales Manager (Enterprise) | Tokyo | location: Tokyo
@@ -125,11 +123,11 @@ Title matched a sales style role but the location rule rejected it. Read these f
 - **airwallex**: Account Executive, Commercial | CA - Toronto (remote) | location: CA - Toronto (remote)
   https://jobs.ashbyhq.com/airwallex/1343b227-7205-4bbf-b0c9-098295c261fd
 - **airwallex**: Account Executive, Commercial (Eastern Time Zone) | US - Remote; US - Philadelphia; US - Miami; US - Washington DC; US - Tampa; US - Indianapolis; US - Charlotte; US - Raleigh; US - Atlanta; US - Boston | location: US - Remote; US - Philadelphia; US - Miami; US - Washington 
-  https://jobs.ashbyhq.com/airwallex/318c9378-f3fb-46df-88d0-6f272267dd49
+  https://jobs.ashbyhq.com/airwallex/f40aad10-a3c9-4e6b-b48b-8b8f571cf269
 - **airwallex**: Account Executive, Commercial (Mountain / Central Time Zone) | US - Remote; US - Denver; US - Dallas; US - Salt Lake City; US - Kansas City; US - Houston; US - Minneapolis; US - Oklahoma City; US - Phoenix; US - Boise; US - Milwaukee; US - Nashville; US - Chicago | location: US - Remote; US - Denver; US - Dallas; US - Salt Lake City; 
-  https://jobs.ashbyhq.com/airwallex/2f34dc78-7ab1-40cf-a3c5-774906c87606
+  https://jobs.ashbyhq.com/airwallex/0f66da1a-50c0-4f68-8152-460376b4d897
 - **airwallex**: Account Executive, Commercial (Pacific Time Zone) | US - Remote; US - Portland; US - Sacramento; US - Seattle; US - San Diego; US - Irvine; US - Las Vegas; US - Los Angeles | location: US - Remote; US - Portland; US - Sacramento; US - Seattle; U
-  https://jobs.ashbyhq.com/airwallex/981ede2e-2ff3-46a9-8798-40a79fbb1d30
+  https://jobs.ashbyhq.com/airwallex/a8bff7ef-4e50-470f-a827-42ed28120278
 - **airwallex**: Account Executive, Commerical | US - San Francisco; US - New York (remote) | location: US - San Francisco; US - New York (remote)
   https://jobs.ashbyhq.com/airwallex/b64a0b9d-3cee-408c-9290-1587f6608389
 - **airwallex**: Account Executive, Enterprise Payments - Benelux and Nordics  | NL - Amsterdam | location: NL - Amsterdam
@@ -292,10 +290,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/alan/548b8108-6960-4e35-bbdc-97168b736102
 - **algolia**: Account Manager - Dutch speaking  | Remote - Netherlands | location: Remote - Netherlands
   https://job-boards.greenhouse.io/algolia/jobs/6206200004
-- **algolia**: Account Manager - Dutch speaking  | Paris, France | location: Paris, France
-  https://job-boards.greenhouse.io/algolia/jobs/6194391004
 - **algolia**: Account Manager - Dutch speaking  | London, England | location: London, England
   https://job-boards.greenhouse.io/algolia/jobs/6141481004
+- **algolia**: Account Manager - Dutch speaking  | Paris, France | location: Paris, France
+  https://job-boards.greenhouse.io/algolia/jobs/6194391004
 - **algolia**: Commercial Account Executive, DACH | London, England | location: London, England
   https://job-boards.greenhouse.io/algolia/jobs/5854568004
 - **algolia**: Commercial Account Executive, DACH | Paris, France | location: Paris, France
@@ -312,8 +310,14 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/algolia/jobs/6149894004
 - **amplitude**: Enterprise Account Executive | London | location: London
   https://jobs.ashbyhq.com/amplitude/1031ce70-90e7-446d-be99-123a8058e686
-- **amplitude**: Enterprise Account Executive | ADD LOCATION; New York City; Remote - Massachusetts; Boston; Remote - New Hampshire; Remote - Connecticut | location: ADD LOCATION; New York City; Remote - Massachusetts; Boston;
+- **amplitude**: Enterprise Account Executive | Remote - Texas; Dallas; Austin; Houston | location: Remote - Texas; Dallas; Austin; Houston
+  https://jobs.ashbyhq.com/amplitude/5be2be8e-c1e4-4f85-bab6-e8c11e14d603
+- **amplitude**: Enterprise Account Executive | Remote-NAMER; New York City; Remote - Massachusetts; Boston; Remote - New Hampshire; Remote - Connecticut | location: Remote-NAMER; New York City; Remote - Massachusetts; Boston;
   https://jobs.ashbyhq.com/amplitude/7e773392-9aaf-4c56-b289-8083c2ea96de
+- **amplitude**: Enterprise Account Executive | Remote-Canada | location: Remote-Canada
+  https://jobs.ashbyhq.com/amplitude/fb0db5a8-37c7-43cb-a6f8-2c8741bdd14e
+- **amplitude**: Enterprise Account Executive | Remote-California; Seattle; Salt Lake City; Portland; San Francisco  | location: Remote-California; Seattle; Salt Lake City; Portland; San Fr
+  https://jobs.ashbyhq.com/amplitude/5ffa2512-3841-497a-9404-e99f54a1f4a3
 - **amplitude**: Partner Sales Manager | Brazil (Remote) | location: Brazil (Remote)
   https://jobs.ashbyhq.com/amplitude/30186963-df04-4434-a04e-fcd63e2252d3
 - **amplitude**: Senior Customer Success Architect | Remote-India (PEO) | location: Remote-India (PEO)
@@ -332,12 +336,12 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/anaplan/jobs/8634024002
 - **anaplan**: Customer Success Business Partner, UAE & Emerging | Dubai, United Arab Emirates | location: Dubai, United Arab Emirates
   https://job-boards.greenhouse.io/anaplan/jobs/8906522002
-- **anaplan**: Director of Partner Success - AMER | New York City, United States | location: New York City, United States
-  https://job-boards.greenhouse.io/anaplan/jobs/8780097002
-- **anaplan**: Director of Partner Success - AMER | Minneapolis, United States | location: Minneapolis, United States
-  https://job-boards.greenhouse.io/anaplan/jobs/8772310002
 - **anaplan**: Director of Partner Success - AMER | Miami, United States | location: Miami, United States
   https://job-boards.greenhouse.io/anaplan/jobs/8780100002
+- **anaplan**: Director of Partner Success - AMER | Minneapolis, United States | location: Minneapolis, United States
+  https://job-boards.greenhouse.io/anaplan/jobs/8772310002
+- **anaplan**: Director of Partner Success - AMER | New York City, United States | location: New York City, United States
+  https://job-boards.greenhouse.io/anaplan/jobs/8780097002
 - **anaplan**: Director, Customer Success - FSI | New York City, United States | location: New York City, United States
   https://job-boards.greenhouse.io/anaplan/jobs/8859671002
 - **anaplan**: Enterprise Account Executive | Vancouver, Canada | location: Vancouver, Canada
@@ -372,18 +376,18 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/anaplan/jobs/8346451002
 - **anaplan**: Strategic Alliances Director, ISV & Strategic Growth | New York City, United States | location: New York City, United States
   https://job-boards.greenhouse.io/anaplan/jobs/8805253002
-- **anaplan**: Strategic Alliances Director, ISV & Strategic Growth | San Francisco, United States | location: San Francisco, United States
-  https://job-boards.greenhouse.io/anaplan/jobs/8805255002
-- **anaplan**: Strategic Alliances Director, ISV & Strategic Growth | Minneapolis, United States | location: Minneapolis, United States
-  https://job-boards.greenhouse.io/anaplan/jobs/8805249002
 - **anaplan**: Strategic Alliances Director, ISV & Strategic Growth | Miami, United States | location: Miami, United States
   https://job-boards.greenhouse.io/anaplan/jobs/8805251002
+- **anaplan**: Strategic Alliances Director, ISV & Strategic Growth | Minneapolis, United States | location: Minneapolis, United States
+  https://job-boards.greenhouse.io/anaplan/jobs/8805249002
+- **anaplan**: Strategic Alliances Director, ISV & Strategic Growth | San Francisco, United States | location: San Francisco, United States
+  https://job-boards.greenhouse.io/anaplan/jobs/8805255002
 - **anaplan**: 大手直販営業 (Enterprise Account Executive) - Services | Tokyo, Japan | location: Tokyo, Japan
   https://job-boards.greenhouse.io/anaplan/jobs/8878191002
-- **anaplan**: 大手直販営業 (Enterprise Account Executive)- Manufacturing | Tokyo, Japan | location: Tokyo, Japan
-  https://job-boards.greenhouse.io/anaplan/jobs/8878190002
 - **anaplan**: 大手直販営業 (Enterprise Account Executive)- Manufacturing | Tokyo | location: Tokyo
   https://job-boards.greenhouse.io/anaplan/jobs/8568192002
+- **anaplan**: 大手直販営業 (Enterprise Account Executive)- Manufacturing | Tokyo, Japan | location: Tokyo, Japan
+  https://job-boards.greenhouse.io/anaplan/jobs/8878190002
 - **anthropic**: 	Enterprise Account Executive, Automotive | Paris, France | location: Paris, France
   https://job-boards.greenhouse.io/anthropic/jobs/5391293008
 - **anthropic**:  Head of Customer Success, APAC  | Sydney, Australia | location: Sydney, Australia
@@ -398,10 +402,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/anthropic/jobs/4461450008
 - **anthropic**: Account Executive, Nonprofit  | San Francisco, CA | New York City, NY | location: San Francisco, CA | New York City, NY
   https://job-boards.greenhouse.io/anthropic/jobs/4976314008
-- **anthropic**: Account Executive, Startups | Dublin, IE | location: Dublin, IE
-  https://job-boards.greenhouse.io/anthropic/jobs/5391313008
 - **anthropic**: Account Executive, Startups | San Francisco, CA | New York City, NY | location: San Francisco, CA | New York City, NY
   https://job-boards.greenhouse.io/anthropic/jobs/5400138008
+- **anthropic**: Account Executive, Startups | Dublin, IE | location: Dublin, IE
+  https://job-boards.greenhouse.io/anthropic/jobs/5391313008
 - **anthropic**: Applied AI Architect, Enterprise Tech | San Francisco, CA | New York City, NY | Seattle, WA | location: San Francisco, CA | New York City, NY | Seattle, WA
   https://job-boards.greenhouse.io/anthropic/jobs/5383335008
 - **anthropic**: Applied AI Architect, Strategic Enterprise Tech | San Francisco, CA | New York City, NY | Seattle, WA | location: San Francisco, CA | New York City, NY | Seattle, WA
@@ -412,10 +416,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/anthropic/jobs/5441387008
 - **anthropic**: Customer Success | Singapore | location: Singapore
   https://job-boards.greenhouse.io/anthropic/jobs/5433878008
-- **anthropic**: Customer Success Manager | London, UK | location: London, UK
-  https://job-boards.greenhouse.io/anthropic/jobs/5391102008
 - **anthropic**: Customer Success Manager | Seoul, South Korea | location: Seoul, South Korea
   https://job-boards.greenhouse.io/anthropic/jobs/5391112008
+- **anthropic**: Customer Success Manager | London, UK | location: London, UK
+  https://job-boards.greenhouse.io/anthropic/jobs/5391102008
 - **anthropic**: Customer Success Manager | Tokyo, Japan | location: Tokyo, Japan
   https://job-boards.greenhouse.io/anthropic/jobs/5456491008
 - **anthropic**: Customer Success Manager, Commercial  | San Francisco, CA | New York City, NY | location: San Francisco, CA | New York City, NY
@@ -438,8 +442,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/anthropic/jobs/5341664008
 - **anthropic**: Enterprise Account Executive - Healthcare & Life Science | Seoul, South Korea | location: Seoul, South Korea
   https://job-boards.greenhouse.io/anthropic/jobs/5432590008
-- **anthropic**: Enterprise Account Executive - Industries Generalist | Sydney, Australia | location: Sydney, Australia
-  https://job-boards.greenhouse.io/anthropic/jobs/5391322008
 - **anthropic**: Enterprise Account Executive - Industries Generalist (ASEAN) | Singapore | location: Singapore
   https://job-boards.greenhouse.io/anthropic/jobs/5391372008
 - **anthropic**: Enterprise Account Executive - Manufacturing | Seoul, South Korea | location: Seoul, South Korea
@@ -484,10 +486,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/anthropic/jobs/5390956008
 - **anthropic**: Growth Account Executive, AI Native | San Francisco, CA | New York City, NY | location: San Francisco, CA | New York City, NY
   https://job-boards.greenhouse.io/anthropic/jobs/4423394008
-- **anthropic**: Growth Account Executive, Startups | Dublin, IE | location: Dublin, IE
-  https://job-boards.greenhouse.io/anthropic/jobs/5440799008
 - **anthropic**: Growth Account Executive, Startups | New York City, NY; San Francisco, CA | location: New York City, NY; San Francisco, CA
   https://job-boards.greenhouse.io/anthropic/jobs/5079916008
+- **anthropic**: Growth Account Executive, Startups | Dublin, IE | location: Dublin, IE
+  https://job-boards.greenhouse.io/anthropic/jobs/5440799008
 - **anthropic**: Head of Strategic Startups | San Francisco, CA | location: San Francisco, CA
   https://job-boards.greenhouse.io/anthropic/jobs/5419210008
 - **anthropic**: Manager, Account Executive | Tokyo, Japan | location: Tokyo, Japan
@@ -552,16 +554,14 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/anthropic/jobs/5133331008
 - **anthropic**: Strategic Sourcing Business Partner, R&D Operations | San Francisco, CA | Seattle, WA | location: San Francisco, CA | Seattle, WA
   https://job-boards.greenhouse.io/anthropic/jobs/5394993008
-- **appian**: Account Executive | Melbourne, Australia | location: Melbourne, Australia
-  https://job-boards.greenhouse.io/appian/jobs/8278280
-- **appian**: Account Executive | Milan, Italy | location: Milan, Italy
-  https://job-boards.greenhouse.io/appian/jobs/8213846
-- **appian**: Account Executive | London, United Kingdom | location: London, United Kingdom
-  https://job-boards.greenhouse.io/appian/jobs/8030538
 - **appian**: Account Executive | Paris, France | location: Paris, France
   https://job-boards.greenhouse.io/appian/jobs/8281603
-- **appian**: Account Executive - Northern Europe | Stockholm, Sweden | location: Stockholm, Sweden
-  https://job-boards.greenhouse.io/appian/jobs/7841078
+- **appian**: Account Executive | London, United Kingdom | location: London, United Kingdom
+  https://job-boards.greenhouse.io/appian/jobs/8030538
+- **appian**: Account Executive | Milan, Italy | location: Milan, Italy
+  https://job-boards.greenhouse.io/appian/jobs/8213846
+- **appian**: Account Executive | Melbourne, Australia | location: Melbourne, Australia
+  https://job-boards.greenhouse.io/appian/jobs/8278280
 - **appian**: Account Executive - Northern Europe | Amsterdam, Netherlands | location: Amsterdam, Netherlands
   https://job-boards.greenhouse.io/appian/jobs/8069139
 - **appian**: Area Vice President - US Public Sector Customer Success Program Management Office | McLean, Virginia | location: McLean, Virginia
@@ -572,34 +572,30 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/appian/jobs/8302435
 - **appian**: Enterprise Account Executive - Federal  | Ottawa, Canada | location: Ottawa, Canada
   https://job-boards.greenhouse.io/appian/jobs/8249456
-- **appian**: Enterprise Account Executive - HHS | McLean, Virginia | location: McLean, Virginia
-  https://job-boards.greenhouse.io/appian/jobs/8035233
-- **appian**: Enterprise Account Executive - Intelligence Community | Dallas, Texas | location: Dallas, Texas
-  https://job-boards.greenhouse.io/appian/jobs/8127023
 - **appian**: Enterprise Account Executive - Intelligence Community | McLean, Virginia | location: McLean, Virginia
   https://job-boards.greenhouse.io/appian/jobs/8077282
+- **appian**: Enterprise Account Executive - Intelligence Community | Dallas, Texas | location: Dallas, Texas
+  https://job-boards.greenhouse.io/appian/jobs/8127023
 - **appian**: Enterprise Account Executive - JPMC | New York, New York | location: New York, New York
   https://job-boards.greenhouse.io/appian/jobs/8180829
 - **appian**: Enterprise Account Executive - State Department | McLean, Virginia | location: McLean, Virginia
   https://job-boards.greenhouse.io/appian/jobs/8281467
-- **appian**: Enterprise Account Executive - US Army | McLean, Virginia | location: McLean, Virginia
-  https://job-boards.greenhouse.io/appian/jobs/8077278
 - **appian**: Enterprise Account Executive - US Army | Huntsville, Alabama | location: Huntsville, Alabama
   https://job-boards.greenhouse.io/appian/jobs/8127015
+- **appian**: Enterprise Account Executive - US Army | McLean, Virginia | location: McLean, Virginia
+  https://job-boards.greenhouse.io/appian/jobs/8077278
 - **appian**: Enterprise Account Executive - US Department of Agriculture | McLean, Virginia | location: McLean, Virginia
   https://job-boards.greenhouse.io/appian/jobs/8180831
-- **appian**: Enterprise Platform Advisor | Boston, Massachusetts; Denver, Colorado; Madison, Wisconsin; Raleigh, North Carolina | location: Boston, Massachusetts; Denver, Colorado; Madison, Wisconsin;
-  https://job-boards.greenhouse.io/appian/jobs/8119770
 - **appian**: Enterprise Platform Advisor | McLean, Virginia | location: McLean, Virginia
   https://job-boards.greenhouse.io/appian/jobs/8074551
+- **appian**: Enterprise Platform Advisor | Boston, Massachusetts; Denver, Colorado; Madison, Wisconsin; Raleigh, North Carolina | location: Boston, Massachusetts; Denver, Colorado; Madison, Wisconsin;
+  https://job-boards.greenhouse.io/appian/jobs/8119770
 - **appian**: Enterprise Platform Advisor (Public Sector) | McLean, Virginia | location: McLean, Virginia
   https://job-boards.greenhouse.io/appian/jobs/8261265
 - **appian**: Lead Strategist, Customer Success Strategy and Operations | McLean, Virginia | location: McLean, Virginia
   https://job-boards.greenhouse.io/appian/jobs/8026088
 - **appian**: Partner Account Director - Public Sector | McLean, Virginia; New York, New York; Philadelphia, Pennsylvania; Richmond, Virginia | location: McLean, Virginia; New York, New York; Philadelphia, Pennsylv
   https://job-boards.greenhouse.io/appian/jobs/7997452
-- **appian**: Partner Sales Director, UKI | London, United Kingdom | location: London, United Kingdom
-  https://job-boards.greenhouse.io/appian/jobs/8066946
 - **appian**: Renewal Account Manager | McLean, Virginia | location: McLean, Virginia
   https://job-boards.greenhouse.io/appian/jobs/8231904
 - **ashby**: Enterprise Account Executive - Americas (East) | Remote - US; Austin; Atlanta; Waterloo; Boston; Remote - Canada; New York; Montreal; Ann Arbor; Toronto; Chicago; Raleigh | location: Remote - US; Austin; Atlanta; Waterloo; Boston; Remote - Can
@@ -632,32 +628,28 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/braze/jobs/8232684
 - **braze**: Account Executive, Emerging Enterprise | London | location: London
   https://job-boards.greenhouse.io/braze/jobs/8170786
+- **braze**: Account Executive, Emerging Enterprise, Financial Services | Chicago | location: Chicago
+  https://job-boards.greenhouse.io/braze/jobs/8013294
+- **braze**: Account Executive, Emerging Enterprise, Financial Services | New York City | location: New York City
+  https://job-boards.greenhouse.io/braze/jobs/8013411
 - **braze**: Account Executive, Emerging Enterprise, Financial Services | San Francisco | location: San Francisco
   https://job-boards.greenhouse.io/braze/jobs/8013433
 - **braze**: Account Executive, Emerging Enterprise, Financial Services | Austin | location: Austin
   https://job-boards.greenhouse.io/braze/jobs/8013410
-- **braze**: Account Executive, Emerging Enterprise, Financial Services | New York City | location: New York City
-  https://job-boards.greenhouse.io/braze/jobs/8013411
-- **braze**: Account Executive, Emerging Enterprise, Financial Services | Chicago | location: Chicago
-  https://job-boards.greenhouse.io/braze/jobs/8013294
-- **braze**: Account Executive, Enterprise | Dubai | location: Dubai
-  https://job-boards.greenhouse.io/braze/jobs/8236472
-- **braze**: Account Executive, Enterprise | Tokyo | location: Tokyo
-  https://job-boards.greenhouse.io/braze/jobs/7984560
-- **braze**: Account Executive, Enterprise | London | location: London
-  https://job-boards.greenhouse.io/braze/jobs/8186090
-- **braze**: Account Executive, Enterprise | Paris | location: Paris
-  https://job-boards.greenhouse.io/braze/jobs/8147280
-- **braze**: Account Executive, Enterprise | Austin | location: Austin
-  https://job-boards.greenhouse.io/braze/jobs/8155340
-- **braze**: Account Executive, Enterprise | Paris | location: Paris
-  https://job-boards.greenhouse.io/braze/jobs/8147282
-- **braze**: Account Executive, Enterprise | San Francisco | location: San Francisco
-  https://job-boards.greenhouse.io/braze/jobs/8139393
 - **braze**: Account Executive, Enterprise | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8139390
 - **braze**: Account Executive, Enterprise | Chicago | location: Chicago
   https://job-boards.greenhouse.io/braze/jobs/8128818
+- **braze**: Account Executive, Enterprise | Dubai | location: Dubai
+  https://job-boards.greenhouse.io/braze/jobs/8236472
+- **braze**: Account Executive, Enterprise | Paris | location: Paris
+  https://job-boards.greenhouse.io/braze/jobs/8147280
+- **braze**: Account Executive, Enterprise | Austin | location: Austin
+  https://job-boards.greenhouse.io/braze/jobs/8155340
+- **braze**: Account Executive, Enterprise | London | location: London
+  https://job-boards.greenhouse.io/braze/jobs/8186090
+- **braze**: Account Executive, Enterprise | Tokyo | location: Tokyo
+  https://job-boards.greenhouse.io/braze/jobs/7984560
 - **braze**: Account Executive, Enterprise | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8072802
 - **braze**: Account Executive, Enterprise | San Francisco | location: San Francisco
@@ -666,92 +658,94 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/braze/jobs/8079476
 - **braze**: Account Executive, Enterprise | Austin | location: Austin
   https://job-boards.greenhouse.io/braze/jobs/8079491
+- **braze**: Account Executive, Enterprise | Paris | location: Paris
+  https://job-boards.greenhouse.io/braze/jobs/8147282
+- **braze**: Account Executive, Enterprise | San Francisco | location: San Francisco
+  https://job-boards.greenhouse.io/braze/jobs/8139393
 - **braze**: Account Executive, Enterprise - Financial Services | Sydney | location: Sydney
   https://job-boards.greenhouse.io/braze/jobs/8284843
+- **braze**: Account Executive, Enterprise Retail | Austin | location: Austin
+  https://job-boards.greenhouse.io/braze/jobs/8078036
+- **braze**: Account Executive, Enterprise Retail | Chicago | location: Chicago
+  https://job-boards.greenhouse.io/braze/jobs/8073084
 - **braze**: Account Executive, Enterprise Retail | San Francisco | location: San Francisco
   https://job-boards.greenhouse.io/braze/jobs/8078042
 - **braze**: Account Executive, Enterprise Retail | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8078035
-- **braze**: Account Executive, Enterprise Retail | Chicago | location: Chicago
-  https://job-boards.greenhouse.io/braze/jobs/8073084
-- **braze**: Account Executive, Enterprise Retail | Austin | location: Austin
-  https://job-boards.greenhouse.io/braze/jobs/8078036
-- **braze**: Account Executive, Enterprise, Financial Services | Chicago | location: Chicago
-  https://job-boards.greenhouse.io/braze/jobs/8146087
 - **braze**: Account Executive, Enterprise, Financial Services | Austin | location: Austin
   https://job-boards.greenhouse.io/braze/jobs/8159264
 - **braze**: Account Executive, Enterprise, Financial Services | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8159260
 - **braze**: Account Executive, Enterprise, Financial Services | San Francisco | location: San Francisco
   https://job-boards.greenhouse.io/braze/jobs/8159345
+- **braze**: Account Executive, Enterprise, Financial Services | Chicago | location: Chicago
+  https://job-boards.greenhouse.io/braze/jobs/8146087
 - **braze**: Account Executive, Retail Scale | Chicago | location: Chicago
   https://job-boards.greenhouse.io/braze/jobs/8075042
 - **braze**: Account Executive, Retail Scale | San Francisco | location: San Francisco
   https://job-boards.greenhouse.io/braze/jobs/8097449
 - **braze**: Account Executive, Retail Scale | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8097447
+- **braze**: Account Executive, Scale | Chicago | location: Chicago
+  https://job-boards.greenhouse.io/braze/jobs/8039118
+- **braze**: Account Executive, Scale | New York City | location: New York City
+  https://job-boards.greenhouse.io/braze/jobs/8039626
 - **braze**: Account Executive, Scale | London | location: London
   https://job-boards.greenhouse.io/braze/jobs/8301790
 - **braze**: Account Executive, Scale | Austin | location: Austin
   https://job-boards.greenhouse.io/braze/jobs/8039620
-- **braze**: Account Executive, Scale | Chicago | location: Chicago
-  https://job-boards.greenhouse.io/braze/jobs/8039118
 - **braze**: Account Executive, Scale | San Francisco | location: San Francisco
   https://job-boards.greenhouse.io/braze/jobs/8039627
-- **braze**: Account Executive, Scale | New York City | location: New York City
-  https://job-boards.greenhouse.io/braze/jobs/8039626
 - **braze**: Account Executive, Scale (Thailand and Vietnam market) | Singapore | location: Singapore
   https://job-boards.greenhouse.io/braze/jobs/8079466
 - **braze**: Account Executive, Scale - Mexico and Central America | Mexico | location: Mexico
   https://job-boards.greenhouse.io/braze/jobs/8167589
-- **braze**: Account Executive, Scale, Financial Services | San Francisco | location: San Francisco
-  https://job-boards.greenhouse.io/braze/jobs/8129303
-- **braze**: Account Executive, Scale, Financial Services | Chicago | location: Chicago
-  https://job-boards.greenhouse.io/braze/jobs/8129299
 - **braze**: Account Executive, Scale, Financial Services | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8129309
 - **braze**: Account Executive, Scale, Financial Services | Austin | location: Austin
   https://job-boards.greenhouse.io/braze/jobs/8128627
+- **braze**: Account Executive, Scale, Financial Services | Chicago | location: Chicago
+  https://job-boards.greenhouse.io/braze/jobs/8129299
+- **braze**: Account Executive, Scale, Financial Services | San Francisco | location: San Francisco
+  https://job-boards.greenhouse.io/braze/jobs/8129303
+- **braze**: Account Executive, Scale, MEGS | New York City | location: New York City
+  https://job-boards.greenhouse.io/braze/jobs/8180534
 - **braze**: Account Executive, Scale, MEGS | Chicago | location: Chicago
   https://job-boards.greenhouse.io/braze/jobs/8157337
 - **braze**: Account Executive, Scale, MEGS | San Francisco | location: San Francisco
   https://job-boards.greenhouse.io/braze/jobs/8180540
-- **braze**: Account Executive, Scale, MEGS | New York City | location: New York City
-  https://job-boards.greenhouse.io/braze/jobs/8180534
 - **braze**: Account Executive, Scale, MEGS | Austin | location: Austin
   https://job-boards.greenhouse.io/braze/jobs/8180530
 - **braze**: Account Manager, Emerging Enterprise | Chicago | location: Chicago
   https://job-boards.greenhouse.io/braze/jobs/8209139
-- **braze**: Account Manager, Emerging Enterprise | San Francisco | location: San Francisco
-  https://job-boards.greenhouse.io/braze/jobs/8212005
 - **braze**: Account Manager, Emerging Enterprise | Austin | location: Austin
   https://job-boards.greenhouse.io/braze/jobs/8212006
+- **braze**: Account Manager, Emerging Enterprise | San Francisco | location: San Francisco
+  https://job-boards.greenhouse.io/braze/jobs/8212005
 - **braze**: Account Manager, Emerging Enterprise | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8211991
-- **braze**: Account Manager, Enterprise | Sydney | location: Sydney
-  https://job-boards.greenhouse.io/braze/jobs/8132272
 - **braze**: Account Manager, Enterprise | Australia | location: Australia
   https://job-boards.greenhouse.io/braze/jobs/8138346
+- **braze**: Account Manager, Enterprise | Sydney | location: Sydney
+  https://job-boards.greenhouse.io/braze/jobs/8132272
 - **braze**: Account Manager, Scale | Sydney | location: Sydney
   https://job-boards.greenhouse.io/braze/jobs/8131845
 - **braze**: Customer Account Executive, Strategic Enterprise | San Francisco | location: San Francisco
   https://job-boards.greenhouse.io/braze/jobs/8285499
 - **braze**: Customer Account Executive, Strategic Enterprise | Chicago | location: Chicago
   https://job-boards.greenhouse.io/braze/jobs/8146089
-- **braze**: Customer Account Executive, Strategic Enterprise | Austin | location: Austin
-  https://job-boards.greenhouse.io/braze/jobs/8285481
 - **braze**: Customer Account Executive, Strategic Enterprise | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8285494
-- **braze**: Director, Business Development JAPAC | Singapore | location: Singapore
-  https://job-boards.greenhouse.io/braze/jobs/8130911
-- **braze**: Director, Customer Success, Enterprise | Austin | location: Austin
-  https://job-boards.greenhouse.io/braze/jobs/8164560
-- **braze**: Director, Customer Success, Enterprise | Chicago | location: Chicago
-  https://job-boards.greenhouse.io/braze/jobs/8164569
+- **braze**: Customer Account Executive, Strategic Enterprise | Austin | location: Austin
+  https://job-boards.greenhouse.io/braze/jobs/8285481
 - **braze**: Director, Customer Success, Enterprise | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8164546
 - **braze**: Director, Customer Success, Enterprise | San Francisco | location: San Francisco
   https://job-boards.greenhouse.io/braze/jobs/8162066
+- **braze**: Director, Customer Success, Enterprise | Austin | location: Austin
+  https://job-boards.greenhouse.io/braze/jobs/8164560
+- **braze**: Director, Customer Success, Enterprise | Chicago | location: Chicago
+  https://job-boards.greenhouse.io/braze/jobs/8164569
 - **braze**: Enterprise Account Executive | London | location: London
   https://job-boards.greenhouse.io/braze/jobs/8303847
 - **braze**: Enterprise Account Executive, Brazil | São Paulo | location: São Paulo
@@ -762,32 +756,32 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/braze/jobs/8280791
 - **braze**: Partner Account Director | São Paulo | location: São Paulo
   https://job-boards.greenhouse.io/braze/jobs/8286853
-- **braze**: Partner Account Director - Platinum Partner Development | Austin | location: Austin
-  https://job-boards.greenhouse.io/braze/jobs/8122380
 - **braze**: Partner Account Director - Platinum Partner Development | Chicago | location: Chicago
   https://job-boards.greenhouse.io/braze/jobs/8122381
 - **braze**: Partner Account Director - Platinum Partner Development | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8110410
-- **braze**: Partner Sales Director | Chicago | location: Chicago
-  https://job-boards.greenhouse.io/braze/jobs/8274874
+- **braze**: Partner Account Director - Platinum Partner Development | Austin | location: Austin
+  https://job-boards.greenhouse.io/braze/jobs/8122380
+- **braze**: Partner Sales Director | San Francisco | location: San Francisco
+  https://job-boards.greenhouse.io/braze/jobs/8201264
 - **braze**: Partner Sales Director | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8274796
 - **braze**: Partner Sales Director | Austin | location: Austin
   https://job-boards.greenhouse.io/braze/jobs/8274862
+- **braze**: Partner Sales Director | Chicago | location: Chicago
+  https://job-boards.greenhouse.io/braze/jobs/8274874
 - **braze**: Partner Sales Director | London | location: London
   https://job-boards.greenhouse.io/braze/jobs/8181443
-- **braze**: Partner Sales Director | San Francisco | location: San Francisco
-  https://job-boards.greenhouse.io/braze/jobs/8201264
 - **braze**: Partner Sales Manager Singapore (South East Asia) | Singapore | location: Singapore
   https://job-boards.greenhouse.io/braze/jobs/8223954
 - **braze**: Principal, Strategic AI Sales | Austin | location: Austin
   https://job-boards.greenhouse.io/braze/jobs/8189634
-- **braze**: Principal, Strategic AI Sales | New York City | location: New York City
-  https://job-boards.greenhouse.io/braze/jobs/8189650
-- **braze**: Principal, Strategic AI Sales | San Francisco | location: San Francisco
-  https://job-boards.greenhouse.io/braze/jobs/8189655
 - **braze**: Principal, Strategic AI Sales | Chicago | location: Chicago
   https://job-boards.greenhouse.io/braze/jobs/8185916
+- **braze**: Principal, Strategic AI Sales | San Francisco | location: San Francisco
+  https://job-boards.greenhouse.io/braze/jobs/8189655
+- **braze**: Principal, Strategic AI Sales | New York City | location: New York City
+  https://job-boards.greenhouse.io/braze/jobs/8189650
 - **braze**: Sales Director, Emerging Enterprise | Paris | location: Paris
   https://job-boards.greenhouse.io/braze/jobs/8324873
 - **braze**: Sales Director, Enterprise | Tokyo | location: Tokyo
@@ -798,18 +792,18 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/braze/jobs/8069434
 - **braze**: Senior Account Executive, Emerging Enterprise | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8074838
-- **braze**: Senior Account Executive, Strategic Enterprise | Chicago | location: Chicago
-  https://job-boards.greenhouse.io/braze/jobs/8014513
 - **braze**: Senior Account Executive, Strategic Enterprise | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8010543
 - **braze**: Senior Account Executive, Strategic Enterprise | Austin | location: Austin
   https://job-boards.greenhouse.io/braze/jobs/8014514
-- **braze**: Senior Account Executive, Strategic Enterprise MEGS | Austin | location: Austin
-  https://job-boards.greenhouse.io/braze/jobs/8171470
+- **braze**: Senior Account Executive, Strategic Enterprise | Chicago | location: Chicago
+  https://job-boards.greenhouse.io/braze/jobs/8014513
 - **braze**: Senior Account Executive, Strategic Enterprise MEGS | San Francisco | location: San Francisco
   https://job-boards.greenhouse.io/braze/jobs/8171465
 - **braze**: Senior Account Executive, Strategic Enterprise MEGS | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8140005
+- **braze**: Senior Account Executive, Strategic Enterprise MEGS | Austin | location: Austin
+  https://job-boards.greenhouse.io/braze/jobs/8171470
 - **braze**: Senior Account Executive, Strategic Enterprise MEGS | Chicago | location: Chicago
   https://job-boards.greenhouse.io/braze/jobs/8171477
 - **braze**: Senior Business Development Respresentative - French Speaker  | Paris | location: Paris
@@ -818,48 +812,54 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/braze/jobs/8274247
 - **braze**: Senior Business Development Respresentative - Spanish Speaker  | Paris | location: Paris
   https://job-boards.greenhouse.io/braze/jobs/8274237
-- **braze**: Senior CSM, Financial Services | Chicago | location: Chicago
-  https://job-boards.greenhouse.io/braze/jobs/8285446
-- **braze**: Senior CSM, Financial Services | Austin | location: Austin
-  https://job-boards.greenhouse.io/braze/jobs/8306869
 - **braze**: Senior CSM, Financial Services | San Francisco | location: San Francisco
   https://job-boards.greenhouse.io/braze/jobs/8306881
 - **braze**: Senior CSM, Financial Services | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8306885
-- **braze**: Senior CSM, Media and Entertainment | Austin | location: Austin
-  https://job-boards.greenhouse.io/braze/jobs/8285443
+- **braze**: Senior CSM, Financial Services | Austin | location: Austin
+  https://job-boards.greenhouse.io/braze/jobs/8306869
+- **braze**: Senior CSM, Financial Services | Chicago | location: Chicago
+  https://job-boards.greenhouse.io/braze/jobs/8285446
 - **braze**: Senior CSM, Media and Entertainment | Chicago | location: Chicago
   https://job-boards.greenhouse.io/braze/jobs/8315913
-- **braze**: Senior CSM, Media and Entertainment | New York City | location: New York City
-  https://job-boards.greenhouse.io/braze/jobs/8315917
 - **braze**: Senior CSM, Media and Entertainment | San Francisco | location: San Francisco
   https://job-boards.greenhouse.io/braze/jobs/8315921
-- **braze**: Senior Customer Success Manager | Austin | location: Austin
-  https://job-boards.greenhouse.io/braze/jobs/8155119
+- **braze**: Senior CSM, Media and Entertainment | Austin | location: Austin
+  https://job-boards.greenhouse.io/braze/jobs/8285443
+- **braze**: Senior CSM, Media and Entertainment | New York City | location: New York City
+  https://job-boards.greenhouse.io/braze/jobs/8315917
 - **braze**: Senior Customer Success Manager | San Francisco | location: San Francisco
   https://job-boards.greenhouse.io/braze/jobs/8155118
-- **braze**: Senior Customer Success Manager | Chicago | location: Chicago
-  https://job-boards.greenhouse.io/braze/jobs/8142617
+- **braze**: Senior Customer Success Manager | Austin | location: Austin
+  https://job-boards.greenhouse.io/braze/jobs/8155119
+- **braze**: Senior Customer Success Manager | Tokyo | location: Tokyo
+  https://job-boards.greenhouse.io/braze/jobs/8327012
 - **braze**: Senior Customer Success Manager | London | location: London
   https://job-boards.greenhouse.io/braze/jobs/8195767
 - **braze**: Senior Customer Success Manager | Seoul | location: Seoul
   https://job-boards.greenhouse.io/braze/jobs/8090590
-- **braze**: Senior Customer Success Manager | Tokyo | location: Tokyo
-  https://job-boards.greenhouse.io/braze/jobs/8327012
+- **braze**: Senior Customer Success Manager | Chicago | location: Chicago
+  https://job-boards.greenhouse.io/braze/jobs/8142617
 - **braze**: Senior Customer Success Manager | New York City | location: New York City
   https://job-boards.greenhouse.io/braze/jobs/8155117
 - **braze**: Senior Customer Success Manager (Thai Speaking) | Singapore | location: Singapore
   https://job-boards.greenhouse.io/braze/jobs/8161761
-- **braze**: Senior Partner Account Director - Technology Partnerships - AWS | Chicago | location: Chicago
-  https://job-boards.greenhouse.io/braze/jobs/8145903
-- **braze**: Senior Partner Account Director - Technology Partnerships - AWS | New York City | location: New York City
-  https://job-boards.greenhouse.io/braze/jobs/8115092
-- **braze**: Senior Partner Account Director - Technology Partnerships - AWS | San Francisco | location: San Francisco
-  https://job-boards.greenhouse.io/braze/jobs/8145908
 - **braze**: Senior Partner Account Director - Technology Partnerships - AWS | Austin | location: Austin
   https://job-boards.greenhouse.io/braze/jobs/8145911
+- **braze**: Senior Partner Account Director - Technology Partnerships - AWS | Denver | location: Denver
+  https://job-boards.greenhouse.io/braze/jobs/8331540
+- **braze**: Senior Partner Account Director - Technology Partnerships - AWS | New York City | location: New York City
+  https://job-boards.greenhouse.io/braze/jobs/8115092
+- **braze**: Senior Partner Account Director - Technology Partnerships - AWS | Seattle | location: Seattle
+  https://job-boards.greenhouse.io/braze/jobs/8329145
+- **braze**: Senior Partner Account Director - Technology Partnerships - AWS | Chicago | location: Chicago
+  https://job-boards.greenhouse.io/braze/jobs/8145903
+- **braze**: Senior Partner Account Director - Technology Partnerships - AWS | San Francisco | location: San Francisco
+  https://job-boards.greenhouse.io/braze/jobs/8145908
 - **brevo**: Account Executive Enterprise - French speaker | Paris, France | location: Paris, France
   https://jobs.lever.co/brevo/f43e76f4-b929-48c3-92c9-a20388022df4
+- **brevo**: Account Executive Pro - English & Italian speaker | Paris, France | location: Paris, France
+  https://jobs.lever.co/brevo/eea565cd-f41a-457a-b6c6-99e1001ef6dd
 - **brevo**: Customer Success Manager | Austin, Texas | location: Austin, Texas
   https://jobs.lever.co/brevo/448e5b9c-9e8e-47b8-afb6-7755045d6d46
 - **brevo**: Digital Customer Success Manager - German/English | Paris, France | location: Paris, France
@@ -910,30 +910,32 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/celonis/jobs/7822051003?gh_jid=7822051003
 - **celonis**: Lead - Data Partnerships Business Development | New York, US, New York | location: New York, US, New York
   https://job-boards.greenhouse.io/celonis/jobs/7790947003?gh_jid=7790947003
-- **celonis**: Principal Enterprise Architect | Raleigh, US, North Carolina | location: Raleigh, US, North Carolina
-  https://job-boards.greenhouse.io/celonis/jobs/7711288003?gh_jid=7711288003
-- **celonis**: Principal Enterprise Architect | Stockholm, Sweden | location: Stockholm, Sweden
-  https://job-boards.greenhouse.io/celonis/jobs/7800476003?gh_jid=7800476003
+- **celonis**: Principal Enterprise Architect | Redwood City, US, California | location: Redwood City, US, California
+  https://job-boards.greenhouse.io/celonis/jobs/7819753003?gh_jid=7819753003
+- **celonis**: Principal Enterprise Architect | Bangalore, India | location: Bangalore, India
+  https://job-boards.greenhouse.io/celonis/jobs/7618692003?gh_jid=7618692003
 - **celonis**: Principal Enterprise Architect | Copenhagen, Denmark | location: Copenhagen, Denmark
   https://job-boards.greenhouse.io/celonis/jobs/7830985003?gh_jid=7830985003
-- **celonis**: Principal Enterprise Architect | Milan, Italy | location: Milan, Italy
-  https://job-boards.greenhouse.io/celonis/jobs/7974122003?gh_jid=7974122003
 - **celonis**: Principal Enterprise Architect | Paris, France | location: Paris, France
   https://job-boards.greenhouse.io/celonis/jobs/7974130003?gh_jid=7974130003
 - **celonis**: Principal Enterprise Architect | Remote, US, Washington | location: Remote, US, Washington
   https://job-boards.greenhouse.io/celonis/jobs/7819752003?gh_jid=7819752003
-- **celonis**: Principal Enterprise Architect | New York, US, New York | location: New York, US, New York
-  https://job-boards.greenhouse.io/celonis/jobs/7618724003?gh_jid=7618724003
-- **celonis**: Principal Enterprise Architect | Bangalore, India | location: Bangalore, India
-  https://job-boards.greenhouse.io/celonis/jobs/7618692003?gh_jid=7618692003
+- **celonis**: Principal Enterprise Architect | Milan, Italy | location: Milan, Italy
+  https://job-boards.greenhouse.io/celonis/jobs/7974122003?gh_jid=7974122003
 - **celonis**: Principal Enterprise Architect | Amsterdam, Netherlands | location: Amsterdam, Netherlands
   https://job-boards.greenhouse.io/celonis/jobs/7539051003?gh_jid=7539051003
 - **celonis**: Principal Enterprise Architect | London, United Kingdom | location: London, United Kingdom
   https://job-boards.greenhouse.io/celonis/jobs/7548628003?gh_jid=7548628003
-- **celonis**: Principal Enterprise Architect | Redwood City, US, California | location: Redwood City, US, California
-  https://job-boards.greenhouse.io/celonis/jobs/7819753003?gh_jid=7819753003
+- **celonis**: Principal Enterprise Architect | Stockholm, Sweden | location: Stockholm, Sweden
+  https://job-boards.greenhouse.io/celonis/jobs/7800476003?gh_jid=7800476003
+- **celonis**: Principal Enterprise Architect | New York, US, New York | location: New York, US, New York
+  https://job-boards.greenhouse.io/celonis/jobs/7618724003?gh_jid=7618724003
+- **celonis**: Principal Enterprise Architect | Raleigh, US, North Carolina | location: Raleigh, US, North Carolina
+  https://job-boards.greenhouse.io/celonis/jobs/7711288003?gh_jid=7711288003
 - **chainguard**: Commercial Account Executive - Benelux | Netherlands - Remote | location: Netherlands - Remote
   https://job-boards.greenhouse.io/chainguard/jobs/4676998006
+- **chainguard**: Commercial Account Executive - Brazil  | Brazil - Remote | location: Brazil - Remote
+  https://job-boards.greenhouse.io/chainguard/jobs/4725598006
 - **chainguard**: Commercial Account Executive - Singapore | Singapore - Remote | location: Singapore - Remote
   https://job-boards.greenhouse.io/chainguard/jobs/4714154006
 - **chainguard**: Corporate Account Executive - Central | United States - Remote | location: United States - Remote
@@ -948,6 +950,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/chainguard/jobs/4702604006
 - **chainguard**: Enterprise Account Executive - Benelux | Netherlands - Remote | location: Netherlands - Remote
   https://job-boards.greenhouse.io/chainguard/jobs/4702637006
+- **chainguard**: Enterprise Account Executive - Brazil  | Brazil - Remote | location: Brazil - Remote
+  https://job-boards.greenhouse.io/chainguard/jobs/4725582006
 - **chainguard**: Enterprise Account Executive - UK | United Kingdom - Remote | location: United Kingdom - Remote
   https://job-boards.greenhouse.io/chainguard/jobs/4695878006
 - **chainguard**: Manager, Enterprise Business Development - APJ | Australia - Remote | location: Australia - Remote
@@ -958,6 +962,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/chainguard/jobs/4723854006
 - **chainguard**: Senior Customer Success Manager - Scaled | United States - Remote | location: United States - Remote
   https://job-boards.greenhouse.io/chainguard/jobs/4723233006
+- **chainguard**: Senior Customer Success Manager, Enterprise - West | United States - Remote | location: United States - Remote
+  https://job-boards.greenhouse.io/chainguard/jobs/4723252006
 - **chainguard**: Senior Manager, Customer Success Management - EMEA/APJ | United Kingdom - Remote | location: United Kingdom - Remote
   https://job-boards.greenhouse.io/chainguard/jobs/4707928006
 - **chainguard**: Senior Partner Manager - NY Metro | New York - Remote | location: New York - Remote
@@ -1046,6 +1052,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://boards.greenhouse.io/cloudflare/jobs/8266408?gh_jid=8266408
 - **cloudflare**: Program Lead Strategic CDN Accounts GTM | Distributed | location: Distributed
   https://boards.greenhouse.io/cloudflare/jobs/8279302?gh_jid=8279302
+- **cloudflare**: Sales Manager, UAE & Oman | Hybrid | location: Hybrid
+  https://boards.greenhouse.io/cloudflare/jobs/8226448?gh_jid=8226448
 - **cloudflare**: Senior Account Executive, Chile | Hybrid | location: Hybrid
   https://boards.greenhouse.io/cloudflare/jobs/8097869?gh_jid=8097869
 - **cloudflare**: Senior Account Executive, Colombia | Hybrid | location: Hybrid
@@ -1107,9 +1115,9 @@ Title matched a sales style role but the location rule rejected it. Read these f
 - **cloudflare**: Senior Majors Account Executive, Toronto  | Distributed | location: Distributed
   https://boards.greenhouse.io/cloudflare/jobs/7474034?gh_jid=7474034
 - **cloudflare**: Senior Named Account Executive | Hybrid | location: Hybrid
-  https://boards.greenhouse.io/cloudflare/jobs/8180521?gh_jid=8180521
-- **cloudflare**: Senior Named Account Executive | Hybrid | location: Hybrid
   https://boards.greenhouse.io/cloudflare/jobs/8071416?gh_jid=8071416
+- **cloudflare**: Senior Named Account Executive | Hybrid | location: Hybrid
+  https://boards.greenhouse.io/cloudflare/jobs/8180521?gh_jid=8180521
 - **cloudflare**: Senior Named Account Executive (AI & Digital Natives) | Hybrid | location: Hybrid
   https://boards.greenhouse.io/cloudflare/jobs/8089141?gh_jid=8089141
 - **cloudflare**: Senior Named Account Executive (Dallas ) | Distributed | location: Distributed
@@ -1138,8 +1146,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://boards.greenhouse.io/cloudflare/jobs/8081326?gh_jid=8081326
 - **cloudflare**: Senior Named Account Executive, Federal Government (Ottawa) | Distributed | location: Distributed
   https://boards.greenhouse.io/cloudflare/jobs/8109416?gh_jid=8109416
-- **cloudflare**: Senior Named Account Executive, Idaho | Distributed | location: Distributed
-  https://boards.greenhouse.io/cloudflare/jobs/8067630?gh_jid=8067630
 - **cloudflare**: Senior Named Account Executive, Israel - Digital Natives | Hybrid | location: Hybrid
   https://boards.greenhouse.io/cloudflare/jobs/7462504?gh_jid=7462504
 - **cloudflare**: Senior Named Account Executive, Israel - Digital Natives Enterprise | Hybrid | location: Hybrid
@@ -1192,6 +1198,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://boards.greenhouse.io/cloudflare/jobs/8181043?gh_jid=8181043
 - **cloudflare**: Senior Territory Account Executive - Little Rock, AR | Hybrid | location: Hybrid
   https://boards.greenhouse.io/cloudflare/jobs/8211848?gh_jid=8211848
+- **cloudflare**: Senior Territory Account Executive - Shanghai  | Distributed | location: Distributed
+  https://boards.greenhouse.io/cloudflare/jobs/8323918?gh_jid=8323918
 - **cloudflare**: Senior Territory Account Executive, Central Eastern Europe - Digital Natives | Hybrid | location: Hybrid
   https://boards.greenhouse.io/cloudflare/jobs/8203752?gh_jid=8203752
 - **cloudflare**: Senior Territory Account Executive, Digital Native (Hong Kong) | Hybrid | location: Hybrid
@@ -1238,6 +1246,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://boards.greenhouse.io/cloudflare/jobs/8187921?gh_jid=8187921
 - **cloudflare**: Territory Account Executive, Montreal | Distributed | location: Distributed
   https://boards.greenhouse.io/cloudflare/jobs/8233344?gh_jid=8233344
+- **cloudflare**: Territory Account Executive, Philippines | Hybrid | location: Hybrid
+  https://boards.greenhouse.io/cloudflare/jobs/8329671?gh_jid=8329671
 - **cloudflare**: Territory Account Executive, Qatar | Hybrid | location: Hybrid
   https://boards.greenhouse.io/cloudflare/jobs/8045309?gh_jid=8045309
 - **cloudflare**: Territory Account Executive, Saudi Arabia - Startups | Hybrid | location: Hybrid
@@ -1250,6 +1260,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.eu.greenhouse.io/cognite/jobs/4948187101
 - **cognite**: Senior Account Manager | UAE Abu Dhabi | location: UAE Abu Dhabi
   https://job-boards.eu.greenhouse.io/cognite/jobs/4776347101
+- **cognite**: Strategic Account Manager | England, United Kingdom | location: England, United Kingdom
+  https://job-boards.eu.greenhouse.io/cognite/jobs/5015526101
 - **cohere**: Account Executive Japan | Tokyo (remote) | location: Tokyo (remote)
   https://jobs.ashbyhq.com/cohere/85e808ab-ee45-4944-bedc-832bf933d0b6
 - **cohere**: Account Executive, SLED (West) | United States; Phoenix; Seattle; California; Denver (remote) | location: United States; Phoenix; Seattle; California; Denver (remote)
@@ -1294,20 +1306,18 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/conga/jobs/5071361007
 - **conga**: Account Executive, Commercial | US - Missouri; US - Oklahoma; US - Texas | location: US - Missouri; US - Oklahoma; US - Texas
   https://job-boards.greenhouse.io/conga/jobs/5246063007
-- **conga**: Account Executive, Commercial | US - California; US - Idaho; US - Montana; US - Oregon; US - Washington | location: US - California; US - Idaho; US - Montana; US - Oregon; US -
-  https://job-boards.greenhouse.io/conga/jobs/5246065007
 - **conga**: Account Executive, Commercial | US - Alabama; US - Arkansas; US - Florida; US - Georgia; US - Louisiana; US - South Carolina | location: US - Alabama; US - Arkansas; US - Florida; US - Georgia; US 
   https://job-boards.greenhouse.io/conga/jobs/5246061007
+- **conga**: Account Executive, Enterprise | US - Maryland; US - New Jersey; US - Virginia; US - Washington | location: US - Maryland; US - New Jersey; US - Virginia; US - Washingt
+  https://job-boards.greenhouse.io/conga/jobs/5246129007
 - **conga**: Account Executive, Enterprise | US - New York; US - Virginia | location: US - New York; US - Virginia
   https://job-boards.greenhouse.io/conga/jobs/5246127007
 - **conga**: Account Executive, Enterprise | Remote United States | location: Remote United States
   https://job-boards.greenhouse.io/conga/jobs/5207014007
-- **conga**: Account Executive, Enterprise | US - Maryland; US - New Jersey; US - Virginia; US - Washington | location: US - Maryland; US - New Jersey; US - Virginia; US - Washingt
-  https://job-boards.greenhouse.io/conga/jobs/5246129007
-- **conga**: Account Executive, Enterprise | US - Montana; US - Pennsylvania; US - Wyoming | location: US - Montana; US - Pennsylvania; US - Wyoming
-  https://job-boards.greenhouse.io/conga/jobs/5194698007
 - **conga**: Account Executive, Enterprise | US - Minnesota | location: US - Minnesota
   https://job-boards.greenhouse.io/conga/jobs/5246125007
+- **conga**: Account Executive, Enterprise | US - Montana; US - Pennsylvania; US - Wyoming | location: US - Montana; US - Pennsylvania; US - Wyoming
+  https://job-boards.greenhouse.io/conga/jobs/5194698007
 - **conga**: Account Executive, Enterprise | US - Illinois | location: US - Illinois
   https://job-boards.greenhouse.io/conga/jobs/5246123007
 - **conga**: Account Executive, Enterprise | US - Iowa; US - Kansas; US - Missouri | location: US - Iowa; US - Kansas; US - Missouri
@@ -1396,14 +1406,14 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/cultureamp/jobs/8304707
 - **cultureamp**: Director, Customer Success | Austin TX | location: Austin TX
   https://job-boards.greenhouse.io/cultureamp/jobs/8304706
-- **cultureamp**: Enterprise Account Executive | Sydney | location: Sydney
-  https://job-boards.greenhouse.io/cultureamp/jobs/8304919
 - **cultureamp**: Enterprise Account Executive | Melbourne | location: Melbourne
   https://job-boards.greenhouse.io/cultureamp/jobs/8304917
-- **cultureamp**: Enterprise Account Manager | Sydney | location: Sydney
-  https://job-boards.greenhouse.io/cultureamp/jobs/8260735
+- **cultureamp**: Enterprise Account Executive | Sydney | location: Sydney
+  https://job-boards.greenhouse.io/cultureamp/jobs/8304919
 - **cultureamp**: Enterprise Account Manager | Melbourne | location: Melbourne
   https://job-boards.greenhouse.io/cultureamp/jobs/8260732
+- **cultureamp**: Enterprise Account Manager | Sydney | location: Sydney
+  https://job-boards.greenhouse.io/cultureamp/jobs/8260735
 - **cultureamp**: Lead Enterprise Account Executive (French-speaking) | London | location: London
   https://job-boards.greenhouse.io/cultureamp/jobs/8243597
 - **cultureamp**: Senior Account Executive, Commercial | Melbourne | location: Melbourne
@@ -1416,8 +1426,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/cursor/bff67718-1dbf-4d66-bcef-8b68d93d716f
 - **cursor**: Account Executive, Commercial | New York | location: New York
   https://jobs.ashbyhq.com/cursor/13ceadb8-638f-40c7-a59d-70dab2f4de0b
-- **cursor**: Account Executive, Commercial  | London (remote) | location: London (remote)
-  https://jobs.ashbyhq.com/cursor/6ab9bead-274e-4bf4-b2ee-1f3669e4aa9b
 - **cursor**: Account Executive, Commercial - ANZ | Australia (remote) | location: Australia (remote)
   https://jobs.ashbyhq.com/cursor/d0cf5203-2db2-40b6-b1fe-1656ec288ce3
 - **cursor**: Account Executive, Commercial Expansion - New York | New York | location: New York
@@ -1456,10 +1464,12 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://databricks.com/company/careers/open-positions/job?gh_jid=8569535002
 - **databricks**: Account Executive  | Bengaluru, India; Mumbai, India | location: Bengaluru, India; Mumbai, India
   https://databricks.com/company/careers/open-positions/job?gh_jid=6918763002
+- **databricks**: Account Executive - Singapore | Singapore | location: Singapore
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8874579002
 - **databricks**: Account Executive, Commercial - Hunter | Tokyo, Japan | location: Tokyo, Japan
   https://databricks.com/company/careers/open-positions/job?gh_jid=8758263002
-- **databricks**: Account Executive, Singapore | Singapore | location: Singapore
-  https://databricks.com/company/careers/open-positions/job?gh_jid=7726495002
+- **databricks**: Business Development Lead, VC/PE | New York City, New York; San Francisco, California | location: New York City, New York; San Francisco, California
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8475477002
 - **databricks**: Core Account Executive - Public Sector | Melbourne, Australia | location: Melbourne, Australia
   https://databricks.com/company/careers/open-positions/job?gh_jid=8441865002
 - **databricks**: Core Account Executive - Vietnam | Singapore | location: Singapore
@@ -1482,8 +1492,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://databricks.com/company/careers/open-positions/job?gh_jid=7795026002
 - **databricks**: Emerging Enterprise Account Executive | Tokyo, Japan | location: Tokyo, Japan
   https://databricks.com/company/careers/open-positions/job?gh_jid=8194916002
-- **databricks**: Emerging Enterprise Hunter Account Executive, France | Paris, France | location: Paris, France
-  https://databricks.com/company/careers/open-positions/job?gh_jid=8908544002
+- **databricks**: Emerging Enterprise Core Account Executive | Calgary, Canada; Montréal, Canada; Toronto, Canada | location: Calgary, Canada; Montréal, Canada; Toronto, Canada
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8906591002
 - **databricks**: Enterprise Account Executive | Sydney, Australia | location: Sydney, Australia
   https://databricks.com/company/careers/open-positions/job?gh_jid=8910840002
 - **databricks**: Enterprise Account Executive  | Sydney, Australia | location: Sydney, Australia
@@ -1525,9 +1535,9 @@ Title matched a sales style role but the location rule rejected it. Read these f
 - **databricks**: Enterprise Core Account Executive, Public Sector | British Columbia, Canada; Calgary, Canada | location: British Columbia, Canada; Calgary, Canada
   https://databricks.com/company/careers/open-positions/job?gh_jid=8582323002
 - **databricks**: Enterprise Hunter Account Executive, Benelux  | Amsterdam, Netherlands | location: Amsterdam, Netherlands
-  https://databricks.com/company/careers/open-positions/job?gh_jid=8899659002
-- **databricks**: Enterprise Hunter Account Executive, Benelux  | Amsterdam, Netherlands | location: Amsterdam, Netherlands
   https://databricks.com/company/careers/open-positions/job?gh_jid=8642499002
+- **databricks**: Enterprise Hunter Account Executive, Benelux  | Amsterdam, Netherlands | location: Amsterdam, Netherlands
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8899659002
 - **databricks**: Enterprise Sales Director,  Utilities & Telco  | London, United Kingdom | location: London, United Kingdom
   https://databricks.com/company/careers/open-positions/job?gh_jid=8394014002
 - **databricks**: Enterprise Sales Director, Retail | London, United Kingdom | location: London, United Kingdom
@@ -1538,6 +1548,14 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://databricks.com/company/careers/open-positions/job?gh_jid=8878066002
 - **databricks**: Hunter Account Executive - Philippines  | Singapore | location: Singapore
   https://databricks.com/company/careers/open-positions/job?gh_jid=7856268002
+- **databricks**: Named Account Executive, Health Insurance | Amsterdam, Netherlands | location: Amsterdam, Netherlands
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8883465002
+- **databricks**: Named Core Account Executive | Remote - Massachusetts; Remote - New York; Remote - Virginia; Remote - Washington D.C. | location: Remote - Massachusetts; Remote - New York; Remote - Virginia
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8893599002
+- **databricks**: Named Core Account Executive | United States | location: United States
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8906055002
+- **databricks**: Named Core Account Executive | Remote - New York | location: Remote - New York
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8920452002
 - **databricks**: Named Core Account Executive  | Calgary, Canada; Vancouver, Canada | location: Calgary, Canada; Vancouver, Canada
   https://databricks.com/company/careers/open-positions/job?gh_jid=8693555002
 - **databricks**: Named Core Account Executive (Public Sector) | Singapore | location: Singapore
@@ -1546,8 +1564,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://databricks.com/company/careers/open-positions/job?gh_jid=8783602002
 - **databricks**: Named Core Account Executive, Finland | Finland | location: Finland
   https://databricks.com/company/careers/open-positions/job?gh_jid=8536434002
-- **databricks**: Named Core Account Executive, Health Insurance | Amsterdam, Netherlands | location: Amsterdam, Netherlands
-  https://databricks.com/company/careers/open-positions/job?gh_jid=8883465002
 - **databricks**: Named Enterprise Account Executive | Stockholm, Sweden | location: Stockholm, Sweden
   https://databricks.com/company/careers/open-positions/job?gh_jid=8536436002
 - **databricks**: Named Hunter Account Executive - Digital Natives | Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Denver, Colorado; Los Angeles, California; New York City, New York; San Francisco, California; Seattle, Washington | location: Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Den
@@ -1582,26 +1598,32 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://databricks.com/company/careers/open-positions/job?gh_jid=8879338002
 - **databricks**: Strategic Account Executive, Energy | Amsterdam, Netherlands | location: Amsterdam, Netherlands
   https://databricks.com/company/careers/open-positions/job?gh_jid=8905729002
-- **databricks**: Strategic Core Account Executive | Singapore | location: Singapore
-  https://databricks.com/company/careers/open-positions/job?gh_jid=8880406002
-- **databricks**: Strategic Core Account Executive | Paris, France | location: Paris, France
-  https://databricks.com/company/careers/open-positions/job?gh_jid=8628029002
+- **databricks**: Strategic Account Executive, Medtech | Amsterdam, Netherlands | location: Amsterdam, Netherlands
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8905737002
 - **databricks**: Strategic Core Account Executive | West Coast - United States | location: West Coast - United States
   https://databricks.com/company/careers/open-positions/job?gh_jid=8868531002
-- **databricks**: Strategic Core Account Executive | San Francisco, California | location: San Francisco, California
-  https://databricks.com/company/careers/open-positions/job?gh_jid=8766584002
+- **databricks**: Strategic Core Account Executive | Singapore | location: Singapore
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8880406002
 - **databricks**: Strategic Core Account Executive | Herzliya, Israel | location: Herzliya, Israel
   https://databricks.com/company/careers/open-positions/job?gh_jid=8878722002
+- **databricks**: Strategic Core Account Executive | San Francisco, California | location: San Francisco, California
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8766584002
+- **databricks**: Strategic Core Account Executive | Paris, France | location: Paris, France
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8628029002
+- **databricks**: Strategic Core Account Executive (Retail) | Toronto, Canada | location: Toronto, Canada
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8895631002
+- **databricks**: Strategic Core Account Executive (Telco) | Toronto, Canada | location: Toronto, Canada
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8912711002
 - **databricks**: Strategic Core Account Executive - Conglomerates | Bengaluru, India; Mumbai, India | location: Bengaluru, India; Mumbai, India
   https://databricks.com/company/careers/open-positions/job?gh_jid=8826668002
 - **databricks**: Strategic Core Account Executive, FSI | Paris, France | location: Paris, France
   https://databricks.com/company/careers/open-positions/job?gh_jid=8883827002
 - **databricks**: Strategic Core Account Executive, Petrobras (Rio de Janeiro) | Brazil | location: Brazil
   https://databricks.com/company/careers/open-positions/job?gh_jid=8906872002
-- **databricks**: Strategic DNB Hunter Account Executive (China) | Singapore | location: Singapore
-  https://databricks.com/company/careers/open-positions/job?gh_jid=8585188002
 - **databricks**: Strategic DNB Hunter Account Executive (China) | China | location: China
   https://databricks.com/company/careers/open-positions/job?gh_jid=8644185002
+- **databricks**: Strategic DNB Hunter Account Executive (China) | Singapore | location: Singapore
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8585188002
 - **databricks**: Strategic Enterprise Account Executive, Healthcare | Remote - Colorado; Southeast - United States | location: Remote - Colorado; Southeast - United States
   https://databricks.com/company/careers/open-positions/job?gh_jid=8870716002
 - **databricks**: Strategic Enterprise Account Executive, Healthcare | Denver, Colorado; Remote - California; Southeast - United States | location: Denver, Colorado; Remote - California; Southeast - United St
@@ -1620,20 +1642,18 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://databricks.com/company/careers/open-positions/job?gh_jid=8885667002
 - **datadog**: Associate Customer Success Manager - Boston | Boston, Massachusetts, USA | location: Boston, Massachusetts, USA
   https://careers.datadoghq.com/detail/8301102/?gh_jid=8301102
-- **datadog**: Associate Customer Success Manager - Denver | Denver, Colorado, USA | location: Denver, Colorado, USA
-  https://careers.datadoghq.com/detail/8301113/?gh_jid=8301113
-- **datadog**: Commercial Account Executive | Bangalore, India | location: Bangalore, India
-  https://careers.datadoghq.com/detail/6512321/?gh_jid=6512321
+- **datadog**: Commercial Account Executive | Seoul, South Korea | location: Seoul, South Korea
+  https://careers.datadoghq.com/detail/6512586/?gh_jid=6512586
 - **datadog**: Commercial Account Executive | Denver, Colorado, USA | location: Denver, Colorado, USA
   https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375
-- **datadog**: Commercial Account Executive | Tokyo, Japan | location: Tokyo, Japan
-  https://careers.datadoghq.com/detail/5798241/?gh_jid=5798241
 - **datadog**: Commercial Account Executive | Sydney, Australia | location: Sydney, Australia
   https://careers.datadoghq.com/detail/7463765/?gh_jid=7463765
 - **datadog**: Commercial Account Executive | Tokyo, Japan | location: Tokyo, Japan
+  https://careers.datadoghq.com/detail/5798241/?gh_jid=5798241
+- **datadog**: Commercial Account Executive | Tokyo, Japan | location: Tokyo, Japan
   https://careers.datadoghq.com/detail/6009777/?gh_jid=6009777
-- **datadog**: Commercial Account Executive | Seoul, South Korea | location: Seoul, South Korea
-  https://careers.datadoghq.com/detail/6512586/?gh_jid=6512586
+- **datadog**: Commercial Account Executive | Bangalore, India | location: Bangalore, India
+  https://careers.datadoghq.com/detail/6512321/?gh_jid=6512321
 - **datadog**: Commercial Account Executive | Seoul, South Korea | location: Seoul, South Korea
   https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326
 - **datadog**: Commercial Account Executive (DACH) | Amsterdam, The Netherlands; Dublin, Ireland | location: Amsterdam, The Netherlands; Dublin, Ireland
@@ -1665,23 +1685,21 @@ Title matched a sales style role but the location rule rejected it. Read these f
 - **datadog**: Commercial Customer Success Manager (Key Accounts) - Denver or San Francisco | Denver, Colorado, USA | location: Denver, Colorado, USA
   https://careers.datadoghq.com/detail/7232590/?gh_jid=7232590
 - **datadog**: Customer Success Associate | Tokyo, Japan | location: Tokyo, Japan
-  https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779
-- **datadog**: Customer Success Associate | Tokyo, Japan | location: Tokyo, Japan
   https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716
+- **datadog**: Customer Success Associate | Tokyo, Japan | location: Tokyo, Japan
+  https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779
 - **datadog**: Customer Success Associate (Commercial Accounts) | Bangalore, India | location: Bangalore, India
   https://careers.datadoghq.com/detail/8222279/?gh_jid=8222279
 - **datadog**: Customer Success Associate - Boston | Boston, Massachusetts, USA | location: Boston, Massachusetts, USA
   https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466
-- **datadog**: Customer Success Associate - Dublin (MENA ROSE - Turkish Speaker) | Dublin, Ireland | location: Dublin, Ireland
-  https://careers.datadoghq.com/detail/8195878/?gh_jid=8195878
-- **datadog**: Customer Success Manager | Seoul, South Korea | location: Seoul, South Korea
-  https://careers.datadoghq.com/detail/8206923/?gh_jid=8206923
 - **datadog**: Customer Success Manager | Seoul, South Korea | location: Seoul, South Korea
   https://careers.datadoghq.com/detail/8206747/?gh_jid=8206747
-- **datadog**: Director, Enterprise Sales | Sao Paulo, Brazil | location: Sao Paulo, Brazil
-  https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248
+- **datadog**: Customer Success Manager | Seoul, South Korea | location: Seoul, South Korea
+  https://careers.datadoghq.com/detail/8206923/?gh_jid=8206923
 - **datadog**: Director, Enterprise Sales | San Francisco, California, USA | location: San Francisco, California, USA
   https://careers.datadoghq.com/detail/8303221/?gh_jid=8303221
+- **datadog**: Director, Enterprise Sales | Sao Paulo, Brazil | location: Sao Paulo, Brazil
+  https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248
 - **datadog**: Enterprise Account Executive (UKI) - Public Sector | London, United Kingdom | location: London, United Kingdom
   https://careers.datadoghq.com/detail/7599334/?gh_jid=7599334
 - **datadog**: Enterprise Account Executive - Denmark | Copenhagen, Denmark | location: Copenhagen, Denmark
@@ -1698,54 +1716,56 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://careers.datadoghq.com/detail/8282212/?gh_jid=8282212
 - **datadog**: Enterprise Customer Success Manager - Denver | Denver, Colorado, USA | location: Denver, Colorado, USA
   https://careers.datadoghq.com/detail/8147903/?gh_jid=8147903
-- **datadog**: Enterprise Sales Executive | New York, New York, USA | location: New York, New York, USA
-  https://careers.datadoghq.com/detail/7405831/?gh_jid=7405831
-- **datadog**: Enterprise Sales Executive | North Carolina, USA, Remote; Tennessee, USA, Remote | location: North Carolina, USA, Remote; Tennessee, USA, Remote
-  https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857
-- **datadog**: Enterprise Sales Executive | Jakarta, Indonesia | location: Jakarta, Indonesia
-  https://careers.datadoghq.com/detail/8113520/?gh_jid=8113520
-- **datadog**: Enterprise Sales Executive | Boston, Massachusetts, USA | location: Boston, Massachusetts, USA
-  https://careers.datadoghq.com/detail/7410254/?gh_jid=7410254
-- **datadog**: Enterprise Sales Executive | Georgia, USA, Remote | location: Georgia, USA, Remote
-  https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822
-- **datadog**: Enterprise Sales Executive | Florida, USA, Remote | location: Florida, USA, Remote
-  https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155
 - **datadog**: Enterprise Sales Executive | Washington, District of Columbia, USA | location: Washington, District of Columbia, USA
   https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707
+- **datadog**: Enterprise Sales Executive | Georgia, USA, Remote | location: Georgia, USA, Remote
+  https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822
+- **datadog**: Enterprise Sales Executive | Boston, Massachusetts, USA | location: Boston, Massachusetts, USA
+  https://careers.datadoghq.com/detail/7410254/?gh_jid=7410254
+- **datadog**: Enterprise Sales Executive | Florida, USA, Remote | location: Florida, USA, Remote
+  https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155
+- **datadog**: Enterprise Sales Executive | North Carolina, USA, Remote; Tennessee, USA, Remote | location: North Carolina, USA, Remote; Tennessee, USA, Remote
+  https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857
+- **datadog**: Enterprise Sales Executive | New York, New York, USA | location: New York, New York, USA
+  https://careers.datadoghq.com/detail/7405831/?gh_jid=7405831
 - **datadog**: Enterprise Sales Executive | Seoul, South Korea | location: Seoul, South Korea
   https://careers.datadoghq.com/detail/7703288/?gh_jid=7703288
 - **datadog**: Enterprise Sales Executive (Benelux) | Amsterdam, The Netherlands | location: Amsterdam, The Netherlands
   https://careers.datadoghq.com/detail/6185452/?gh_jid=6185452
-- **datadog**: Enterprise Sales Executive (FED) | Maryland, USA, Remote; Virginia, USA, Remote | location: Maryland, USA, Remote; Virginia, USA, Remote
-  https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284
 - **datadog**: Enterprise Sales Executive (FED) | Washington, District of Columbia, USA | location: Washington, District of Columbia, USA
   https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680
+- **datadog**: Enterprise Sales Executive (FED) | Maryland, USA, Remote; Virginia, USA, Remote | location: Maryland, USA, Remote; Virginia, USA, Remote
+  https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284
+- **datadog**: Enterprise Sales Executive (SLED) | Illinois, USA, Remote; Michigan, USA, Remote; Texas, USA, Remote | location: Illinois, USA, Remote; Michigan, USA, Remote; Texas, USA, Re
+  https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039
 - **datadog**: Enterprise Sales Executive (SLED) | Atlanta, Georgia, USA; Boston, Massachusetts, USA | location: Atlanta, Georgia, USA; Boston, Massachusetts, USA
   https://careers.datadoghq.com/detail/7412010/?gh_jid=7412010
 - **datadog**: Enterprise Sales Executive (SLED) | Washington, USA, Remote | location: Washington, USA, Remote
   https://careers.datadoghq.com/detail/6379544/?gh_jid=6379544
 - **datadog**: Enterprise Sales Executive (SLED) | San Francisco, California, USA | location: San Francisco, California, USA
   https://careers.datadoghq.com/detail/7426752/?gh_jid=7426752
-- **datadog**: Enterprise Sales Executive (SLED) | Illinois, USA, Remote; Michigan, USA, Remote; Texas, USA, Remote | location: Illinois, USA, Remote; Michigan, USA, Remote; Texas, USA, Re
-  https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039
 - **datadog**: Enterprise Sales Executive (Sweden)  | Stockholm, Sweden | location: Stockholm, Sweden
   https://careers.datadoghq.com/detail/5925905/?gh_jid=5925905
-- **datadog**: Enterprise Security Sales Specialist | Chicago, Illinois, USA | location: Chicago, Illinois, USA
-  https://careers.datadoghq.com/detail/8237332/?gh_jid=8237332
-- **datadog**: Enterprise Security Sales Specialist | San Francisco, California, USA | location: San Francisco, California, USA
-  https://careers.datadoghq.com/detail/8243668/?gh_jid=8243668
 - **datadog**: Enterprise Security Sales Specialist | District of Columbia, USA, Remote; North Carolina, USA, Remote | location: District of Columbia, USA, Remote; North Carolina, USA, Remo
   https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132
 - **datadog**: Enterprise Security Sales Specialist | New York, New York, USA | location: New York, New York, USA
   https://careers.datadoghq.com/detail/7129425/?gh_jid=7129425
+- **datadog**: Enterprise Security Sales Specialist | San Francisco, California, USA | location: San Francisco, California, USA
+  https://careers.datadoghq.com/detail/8243668/?gh_jid=8243668
+- **datadog**: Enterprise Security Sales Specialist | Chicago, Illinois, USA | location: Chicago, Illinois, USA
+  https://careers.datadoghq.com/detail/8237332/?gh_jid=8237332
 - **datadog**: Enterprise Security Sales Specialist | California, USA, Remote | location: California, USA, Remote
   https://careers.datadoghq.com/detail/8256245/?gh_jid=8256245
 - **datadog**: Head of Enterprise Sales, Japan | Tokyo, Japan | location: Tokyo, Japan
   https://careers.datadoghq.com/detail/7730200/?gh_jid=7730200
 - **datadog**: Head of Enterprise Sales, Japan | Tokyo, Japan | location: Tokyo, Japan
   https://careers.datadoghq.com/detail/7729887/?gh_jid=7729887
+- **datadog**: Major Account Manager | Chicago, Illinois, USA | location: Chicago, Illinois, USA
+  https://careers.datadoghq.com/detail/8126000/?gh_jid=8126000
 - **datadog**: Major Account Manager | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | location: California, USA, Remote; Colorado, USA, Remote; Washington, 
   https://careers.datadoghq.com/detail/7630041/?gh_jid=7630041
+- **datadog**: Major Account Manager | Michigan, USA, Remote; Ohio, USA, Remote; Texas, USA, Remote | location: Michigan, USA, Remote; Ohio, USA, Remote; Texas, USA, Remote
+  https://careers.datadoghq.com/detail/8125958/?gh_jid=8125958
 - **datadog**: Major Account Manager | Boston, Massachusetts, USA; New York, New York, USA | location: Boston, Massachusetts, USA; New York, New York, USA
   https://careers.datadoghq.com/detail/7409198/?gh_jid=7409198
 - **datadog**: Major Account Manager (Switzerland) | Paris, France | location: Paris, France
@@ -1774,28 +1794,42 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://careers.datadoghq.com/detail/8210153/?gh_jid=8210153
 - **datadog**: Senior Partner Manager - Channels | Mumbai, India | location: Mumbai, India
   https://careers.datadoghq.com/detail/7976683/?gh_jid=7976683
-- **datadog**: Senior Partner Manager - Channels (Security) | Sao Paulo, Brazil | location: Sao Paulo, Brazil
-  https://careers.datadoghq.com/detail/7582681/?gh_jid=7582681
 - **datadog**: Senior Partner Manager - Channels (Security) | Singapore, Singapore | location: Singapore, Singapore
   https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588
+- **datadog**: Senior Partner Manager - Channels (Security) | Sao Paulo, Brazil | location: Sao Paulo, Brazil
+  https://careers.datadoghq.com/detail/7582681/?gh_jid=7582681
 - **datadog**: Senior Partner Manager - Channels (Security) | Sydney, Australia | location: Sydney, Australia
   https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231
 - **datadog**: Senior Sourcer, Enterprise Sales | Singapore, Singapore | location: Singapore, Singapore
   https://careers.datadoghq.com/detail/8237240/?gh_jid=8237240
+- **datadog**: Senior Strategic Sourcing Analyst | New York, New York, USA | location: New York, New York, USA
+  https://careers.datadoghq.com/detail/8314268/?gh_jid=8314268
 - **datadog**: Senior Technology Partner Manager | New York, New York, USA | location: New York, New York, USA
   https://careers.datadoghq.com/detail/8257217/?gh_jid=8257217
+- **datadog**: Strategic Account Executive | Sao Paulo, Brazil | location: Sao Paulo, Brazil
+  https://careers.datadoghq.com/detail/7055008/?gh_jid=7055008
 - **datadog**: Strategic Account Executive | Bangalore, India | location: Bangalore, India
   https://careers.datadoghq.com/detail/8184643/?gh_jid=8184643
-- **datadog**: Strategic Account Executive | Washington, USA, Remote | location: Washington, USA, Remote
-  https://careers.datadoghq.com/detail/7131495/?gh_jid=7131495
-- **datadog**: Strategic Account Executive | Florida, USA, Remote | location: Florida, USA, Remote
-  https://careers.datadoghq.com/detail/8157360/?gh_jid=8157360
-- **datadog**: Strategic Account Executive | Mexico City, Mexico | location: Mexico City, Mexico
-  https://careers.datadoghq.com/detail/7131396/?gh_jid=7131396
-- **datadog**: Strategic Account Executive | New York, New York, USA | location: New York, New York, USA
-  https://careers.datadoghq.com/detail/7131386/?gh_jid=7131386
 - **datadog**: Strategic Account Executive | Mumbai, India | location: Mumbai, India
   https://careers.datadoghq.com/detail/8247540/?gh_jid=8247540
+- **datadog**: Strategic Account Executive | Florida, USA, Remote | location: Florida, USA, Remote
+  https://careers.datadoghq.com/detail/8157360/?gh_jid=8157360
+- **datadog**: Strategic Account Executive | Delhi, India | location: Delhi, India
+  https://careers.datadoghq.com/detail/8184565/?gh_jid=8184565
+- **datadog**: Strategic Account Executive | Washington, USA, Remote | location: Washington, USA, Remote
+  https://careers.datadoghq.com/detail/7131495/?gh_jid=7131495
+- **datadog**: Strategic Account Executive | Georgia, USA, Remote; Tennessee, USA, Remote | location: Georgia, USA, Remote; Tennessee, USA, Remote
+  https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720
+- **datadog**: Strategic Account Executive | Singapore, Singapore | location: Singapore, Singapore
+  https://careers.datadoghq.com/detail/7439145/?gh_jid=7439145
+- **datadog**: Strategic Account Executive | Minnesota, USA, Remote | location: Minnesota, USA, Remote
+  https://careers.datadoghq.com/detail/6522747/?gh_jid=6522747
+- **datadog**: Strategic Account Executive | Mexico City, Mexico | location: Mexico City, Mexico
+  https://careers.datadoghq.com/detail/7131396/?gh_jid=7131396
+- **datadog**: Strategic Account Executive | Canada, Remote | location: Canada, Remote
+  https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865
+- **datadog**: Strategic Account Executive | New York, New York, USA | location: New York, New York, USA
+  https://careers.datadoghq.com/detail/7131386/?gh_jid=7131386
 - **datadog**: Strategic Account Executive | North Carolina, USA, Remote; South Carolina, USA, Remote | location: North Carolina, USA, Remote; South Carolina, USA, Remote
   https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363
 - **datadog**: Strategic Account Executive | San Francisco, California, USA | location: San Francisco, California, USA
@@ -1812,18 +1846,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://careers.datadoghq.com/detail/7117086/?gh_jid=7117086
 - **datadog**: Strategic Account Executive | District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote | location: District of Columbia, USA, Remote; Maryland, USA, Remote; Vi
   https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036
-- **datadog**: Strategic Account Executive | Sao Paulo, Brazil | location: Sao Paulo, Brazil
-  https://careers.datadoghq.com/detail/7055008/?gh_jid=7055008
-- **datadog**: Strategic Account Executive | Delhi, India | location: Delhi, India
-  https://careers.datadoghq.com/detail/8184565/?gh_jid=8184565
-- **datadog**: Strategic Account Executive | Singapore, Singapore | location: Singapore, Singapore
-  https://careers.datadoghq.com/detail/7439145/?gh_jid=7439145
-- **datadog**: Strategic Account Executive | Georgia, USA, Remote; Tennessee, USA, Remote | location: Georgia, USA, Remote; Tennessee, USA, Remote
-  https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720
-- **datadog**: Strategic Account Executive | Minnesota, USA, Remote | location: Minnesota, USA, Remote
-  https://careers.datadoghq.com/detail/6522747/?gh_jid=6522747
-- **datadog**: Strategic Account Executive | Canada, Remote | location: Canada, Remote
-  https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865
 - **datadog**: Strategic Account Executive (FED) | Canberra, Australia | location: Canberra, Australia
   https://careers.datadoghq.com/detail/7645709/?gh_jid=7645709
 - **datadog**: Strategic Account Executive (FED) | District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote | location: District of Columbia, USA, Remote; Maryland, USA, Remote; Vi
@@ -1840,10 +1862,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://careers.datadoghq.com/detail/8255788/?gh_jid=8255788
 - **datadog**: Strategic Account Executive (SLED) | Boston, Massachusetts, USA; New York, New York, USA | location: Boston, Massachusetts, USA; New York, New York, USA
   https://careers.datadoghq.com/detail/7314667/?gh_jid=7314667
-- **datadog**: Strategic Account Executive (SLED) | California, USA, Remote | location: California, USA, Remote
-  https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945
 - **datadog**: Strategic Account Executive (SLED) | Texas, USA, Remote | location: Texas, USA, Remote
   https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034
+- **datadog**: Strategic Account Executive (SLED) | California, USA, Remote | location: California, USA, Remote
+  https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945
 - **datadog**: Strategic Account Executive (Saudi Arabia) | Riyadh, Saudi Arabia | location: Riyadh, Saudi Arabia
   https://careers.datadoghq.com/detail/7338800/?gh_jid=7338800
 - **datadog**: Strategic Account Executive (UKI) | London, United Kingdom | location: London, United Kingdom
@@ -1861,9 +1883,9 @@ Title matched a sales style role but the location rule rejected it. Read these f
 - **datadog**: Strategic Account Executive, Public Sector Japan, FED | Tokyo, Japan | location: Tokyo, Japan
   https://careers.datadoghq.com/detail/7439569/?gh_jid=7439569
 - **datadog**: Strategic Account Executive, Public Sector Japan, SLED | Tokyo, Japan | location: Tokyo, Japan
-  https://careers.datadoghq.com/detail/7439152/?gh_jid=7439152
-- **datadog**: Strategic Account Executive, Public Sector Japan, SLED | Tokyo, Japan | location: Tokyo, Japan
   https://careers.datadoghq.com/detail/7439573/?gh_jid=7439573
+- **datadog**: Strategic Account Executive, Public Sector Japan, SLED | Tokyo, Japan | location: Tokyo, Japan
+  https://careers.datadoghq.com/detail/7439152/?gh_jid=7439152
 - **docker**: Partner Sales Manager, Mid-Enterprise | United States (remote) | location: United States (remote)
   https://jobs.ashbyhq.com/docker/309fa9bf-50fd-47d5-9556-cd65d669a448
 - **drata**: Commercial Account Executive - California/Nevada | Remote - US  | location: Remote - US 
@@ -1886,20 +1908,20 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.elastic.co/jobs?gh_jid=8325182&gh_jid=8325182
 - **elastic**: Distributor Business Development Manager, APJ | Singapore | location: Singapore
   https://jobs.elastic.co/jobs?gh_jid=8246948&gh_jid=8246948
-- **elastic**: Emerging Enterprise Account Executive, West | Washington, United States | location: Washington, United States
-  https://jobs.elastic.co/jobs?gh_jid=8140318&gh_jid=8140318
 - **elastic**: Emerging Enterprise Account Executive, West | Colorado, United States | location: Colorado, United States
   https://jobs.elastic.co/jobs?gh_jid=8180497&gh_jid=8180497
+- **elastic**: Emerging Enterprise Account Executive, West | Washington, United States | location: Washington, United States
+  https://jobs.elastic.co/jobs?gh_jid=8140318&gh_jid=8140318
 - **elastic**: Emerging Enterprise Account Executive, West | California, United States | location: California, United States
   https://jobs.elastic.co/jobs?gh_jid=8191731&gh_jid=8191731
-- **elastic**: Enterprise Account Executive | South Korea | location: South Korea
-  https://jobs.elastic.co/jobs?gh_jid=8186104&gh_jid=8186104
 - **elastic**: Enterprise Account Executive | United Kingdom | location: United Kingdom
   https://jobs.elastic.co/jobs?gh_jid=8035004&gh_jid=8035004
-- **elastic**: Enterprise Account Executive | Toronto, Canada | location: Toronto, Canada
-  https://jobs.elastic.co/jobs?gh_jid=8226633&gh_jid=8226633
 - **elastic**: Enterprise Account Executive | Dubai, United Arab Emirates | location: Dubai, United Arab Emirates
   https://jobs.elastic.co/jobs?gh_jid=8059520&gh_jid=8059520
+- **elastic**: Enterprise Account Executive | Toronto, Canada | location: Toronto, Canada
+  https://jobs.elastic.co/jobs?gh_jid=8226633&gh_jid=8226633
+- **elastic**: Enterprise Account Executive | South Korea | location: South Korea
+  https://jobs.elastic.co/jobs?gh_jid=8186104&gh_jid=8186104
 - **elastic**: Enterprise Account Executive  | Singapore | location: Singapore
   https://jobs.elastic.co/jobs?gh_jid=8281059&gh_jid=8281059
 - **elastic**: Enterprise Account Executive (AI Native & Emerging Tech) | Toronto, Canada | location: Toronto, Canada
@@ -1912,18 +1934,16 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.elastic.co/jobs?gh_jid=8204379&gh_jid=8204379
 - **elastic**: Enterprise Account Executive - Northeast | United States | location: United States
   https://jobs.elastic.co/jobs?gh_jid=8204380&gh_jid=8204380
-- **elastic**: Enterprise Account Executive - PacNW | Washington, United States | location: Washington, United States
-  https://jobs.elastic.co/jobs?gh_jid=8172134&gh_jid=8172134
 - **elastic**: Enterprise Account Executive - Southeast | United States | location: United States
   https://jobs.elastic.co/jobs?gh_jid=8303147&gh_jid=8303147
 - **elastic**: Enterprise Account Executive - TOLA | United States | location: United States
   https://jobs.elastic.co/jobs?gh_jid=8211249&gh_jid=8211249
-- **elastic**: Enterprise Account Executive - West | Colorado, United States | location: Colorado, United States
-  https://jobs.elastic.co/jobs?gh_jid=7712224&gh_jid=7712224
-- **elastic**: Enterprise Account Executive - West | California, United States | location: California, United States
-  https://jobs.elastic.co/jobs?gh_jid=7712221&gh_jid=7712221
 - **elastic**: Enterprise Account Executive - West | San Francisco, CA | location: San Francisco, CA
   https://jobs.elastic.co/jobs?gh_jid=8172138&gh_jid=8172138
+- **elastic**: Enterprise Account Executive - West | California, United States | location: California, United States
+  https://jobs.elastic.co/jobs?gh_jid=7712221&gh_jid=7712221
+- **elastic**: Enterprise Account Executive - West | Colorado, United States | location: Colorado, United States
+  https://jobs.elastic.co/jobs?gh_jid=7712224&gh_jid=7712224
 - **elastic**: Enterprise Account Executive- Japan | Tokyo, Japan | location: Tokyo, Japan
   https://jobs.elastic.co/jobs?gh_jid=8259040&gh_jid=8259040
 - **elastic**: Federal Account Executive  - Dept of Treasury  | Washington, DC, United States | location: Washington, DC, United States
@@ -1944,10 +1964,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.elastic.co/jobs?gh_jid=8313394&gh_jid=8313394
 - **elastic**: Pub Sec Account Executive III | Delhi, India | location: Delhi, India
   https://jobs.elastic.co/jobs?gh_jid=8259087&gh_jid=8259087
-- **elastic**: Public Sector Account Executive (Education) | London, United Kingdom | location: London, United Kingdom
-  https://jobs.elastic.co/jobs?gh_jid=8045325&gh_jid=8045325
 - **elastic**: Public Sector Account Executive (Education) | Australia | location: Australia
   https://jobs.elastic.co/jobs?gh_jid=8255598&gh_jid=8255598
+- **elastic**: Public Sector Account Executive (Education) | London, United Kingdom | location: London, United Kingdom
+  https://jobs.elastic.co/jobs?gh_jid=8045325&gh_jid=8045325
 - **elastic**: Public Sector Account Executive - Defence | United Kingdom | location: United Kingdom
   https://jobs.elastic.co/jobs?gh_jid=8143969&gh_jid=8143969
 - **elastic**: Public Sector Account Executive — Brasilia, Brazil | Brazil | location: Brazil
@@ -1962,10 +1982,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.elastic.co/jobs?gh_jid=8207941&gh_jid=8207941
 - **elastic**: Sr. Manager, Strategic Events - Third Party | United States | location: United States
   https://jobs.elastic.co/jobs?gh_jid=8224761&gh_jid=8224761
-- **elastic**: Strategic Account Executive - AI Natives - West | California, United States | location: California, United States
-  https://jobs.elastic.co/jobs?gh_jid=8223674&gh_jid=8223674
 - **elastic**: Strategic Account Executive - AI Natives - West | San Francisco, CA | location: San Francisco, CA
   https://jobs.elastic.co/jobs?gh_jid=8114249&gh_jid=8114249
+- **elastic**: Strategic Account Executive - AI Natives - West | California, United States | location: California, United States
+  https://jobs.elastic.co/jobs?gh_jid=8223674&gh_jid=8223674
 - **elastic**: Strategic Account Executive - Financial Services | New York City, NY | location: New York City, NY
   https://jobs.elastic.co/jobs?gh_jid=8258750&gh_jid=8258750
 - **elastic**: Strategic Account Executive - Financial Services | Arizona, United States | location: Arizona, United States
@@ -1998,6 +2018,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/elevenlabs/a571b8e4-8176-4e31-aab6-2287ee810236
 - **elevenlabs**: Account Manager - Japan | Japan (remote) | location: Japan (remote)
   https://jobs.ashbyhq.com/elevenlabs/15eb4b53-fdd8-49e6-8c7c-0951f6e40b99
+- **elevenlabs**: Account Manager - LATAM | Mexico; Colombia; Argentina (remote) | location: Mexico; Colombia; Argentina (remote)
+  https://jobs.ashbyhq.com/elevenlabs/cdcf48bf-b6cf-41ce-88ee-34674768fb0d
 - **elevenlabs**: Account Manager - UK/I | United Kingdom; Ireland (remote) | location: United Kingdom; Ireland (remote)
   https://jobs.ashbyhq.com/elevenlabs/7d29f7f7-158a-42e0-a6be-0ceba630863c
 - **elevenlabs**: Account Manager Lead - Corporate | San Francisco (remote) | location: San Francisco (remote)
@@ -2036,7 +2058,7 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://boards.greenhouse.io/figma/jobs/5806875004?gh_jid=5806875004
 - **figma**: Account Executive, Enterprise, Mandarin Speaking (Singapore) | Singapore | location: Singapore
   https://boards.greenhouse.io/figma/jobs/5753209004?gh_jid=5753209004
-- **figma**: Account Executive, Federal - State & Local | San Francisco, CA | location: San Francisco, CA
+- **figma**: Account Executive, Public Sector - State & Local | San Francisco, CA | location: San Francisco, CA
   https://boards.greenhouse.io/figma/jobs/6230952004?gh_jid=6230952004
 - **figma**: Account Executive, Strategic | San Francisco, CA • New York, NY • United States | location: San Francisco, CA • New York, NY • United States
   https://boards.greenhouse.io/figma/jobs/5558737004?gh_jid=5558737004
@@ -2064,14 +2086,12 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://boards.greenhouse.io/figma/jobs/6124232004?gh_jid=6124232004
 - **fivetran**: Account Executive, Commercial (Austin) | USA - Austin (dbt) | location: USA - Austin (dbt)
   https://www.fivetran.com/careers/job?gh_jid=7796447003
-- **fivetran**: Enterprise Account Executive | Remote, California, United States, AMER | location: Remote, California, United States, AMER
-  https://www.fivetran.com/careers/job?gh_jid=7790795003
 - **fivetran**: Enterprise Account Executive | Remote,  Minnesota, United States, AMER | location: Remote,  Minnesota, United States, AMER
   https://www.fivetran.com/careers/job?gh_jid=7818401003
 - **fivetran**: Enterprise Account Executive | Remote, Texas, United States, AMER | location: Remote, Texas, United States, AMER
   https://www.fivetran.com/careers/job?gh_jid=8039971003
-- **fivetran**: Enterprise Sales Director  | Remote, Massachusetts, United States, AMER | location: Remote, Massachusetts, United States, AMER
-  https://www.fivetran.com/careers/job?gh_jid=8012116003
+- **fivetran**: Enterprise Account Executive | Remote, California, United States, AMER | location: Remote, California, United States, AMER
+  https://www.fivetran.com/careers/job?gh_jid=7790795003
 - **fivetran**: Partner Sales Manager | Remote, Japan, APAC | location: Remote, Japan, APAC
   https://www.fivetran.com/careers/job?gh_jid=7818344003
 - **fivetran**: Senior Account Executive, Commercial | Oakland, California, United States, AMER | location: Oakland, California, United States, AMER
@@ -2102,8 +2122,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/gitlab/jobs/8877426002
 - **gitlab**: Customer Success Architect, Japan | Remote, Japan | location: Remote, Japan
   https://job-boards.greenhouse.io/gitlab/jobs/8880999002
-- **gitlab**: Director, Strategic Partnerships | Remote, US | location: Remote, US
-  https://job-boards.greenhouse.io/gitlab/jobs/8615811002
 - **gitlab**: Enterprise Account Executive - Singapore  | Remote, Singapore | location: Remote, Singapore
   https://job-boards.greenhouse.io/gitlab/jobs/8640151002
 - **gitlab**: Major Account Executive Netherlands | Remote, Netherlands | location: Remote, Netherlands
@@ -2160,6 +2178,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/gitlab/jobs/8858197002
 - **gitlab**: Strategic Account Executive, Poland | Remote, Poland | location: Remote, Poland
   https://job-boards.greenhouse.io/gitlab/jobs/8789017002
+- **gitlab**: Strategic Partnerships Director | Remote, US | location: Remote, US
+  https://job-boards.greenhouse.io/gitlab/jobs/8615811002
 - **gitlab**: Territory Sales Manager  | Remote, Japan | location: Remote, Japan
   https://job-boards.greenhouse.io/gitlab/jobs/8591223002
 - **grafanalabs**:  Enterprise Account Executive, Acquisition | DMV | Remote | United States (Remote) | location: United States (Remote)
@@ -2176,10 +2196,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/grafanalabs/jobs/6116462004
 - **grafanalabs**: Enterprise Account Executive, Acquisition | Tokyo, Japan | Japan (Remote) | location: Japan (Remote)
   https://job-boards.greenhouse.io/grafanalabs/jobs/6092347004
-- **grafanalabs**: Enterprise Account Executive, Growth | Bay Area | Remote | | United States (Remote) | location: United States (Remote)
-  https://job-boards.greenhouse.io/grafanalabs/jobs/6206823004
-- **grafanalabs**: Enterprise Account Executive, Growth | Remote | Sweden | Sweden (Remote) | location: Sweden (Remote)
-  https://job-boards.greenhouse.io/grafanalabs/jobs/6222842004
 - **grafanalabs**: Future Sales Openings: Account Executive, US |Remote|  | United States (Remote) | location: United States (Remote)
   https://job-boards.greenhouse.io/grafanalabs/jobs/5823504004
 - **grafanalabs**: Majors Account Executive - Key Customers | Bay Area | Remote | United States (Remote) | location: United States (Remote)
@@ -2226,8 +2242,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/harvey/891889e0-0a4b-4496-85a6-3d42fb05304d
 - **harvey**: Customer Success Manager, Enterprise | Sydney (remote) | location: Sydney (remote)
   https://jobs.ashbyhq.com/harvey/19ca59f3-f915-40c4-a4c4-ff0656d7094f
-- **harvey**: Customer Success Manager, Enterprise, APAC | Singapore (remote) | location: Singapore (remote)
-  https://jobs.ashbyhq.com/harvey/e61e839d-8250-4945-8406-46921a86922f
 - **harvey**: Customer Success Manager, Enterprise, EMEA | London (remote) | location: London (remote)
   https://jobs.ashbyhq.com/harvey/e22b1e1c-2d67-469b-b112-729132215d62
 - **harvey**: Enterprise Account Executive, ANZ | Sydney (remote) | location: Sydney (remote)
@@ -2244,10 +2258,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/harvey/c011f3f0-205e-4e65-8ae1-c01ac885e25f
 - **harvey**: Enterprise Customer Success Manager -EMEA (Arabic Speaking) | London (remote) | location: London (remote)
   https://jobs.ashbyhq.com/harvey/d911b15e-29e4-453e-b192-4201c7937e1f
-- **harvey**: Majors Customer Success Manager | San Francisco (remote) | location: San Francisco (remote)
-  https://jobs.ashbyhq.com/harvey/5a22d5da-6be0-4f97-87d2-bb6a52aba554
-- **harvey**: Majors Customer Success Manager | New York | location: New York
-  https://jobs.ashbyhq.com/harvey/a8a0c22a-fb05-4eb0-85c2-8ea334058324
 - **harvey**: Partner Manager | New York | location: New York
   https://jobs.ashbyhq.com/harvey/f361b7ea-82c6-4061-ad24-1419b4ca3c7b
 - **harvey**: Partner Manager | San Francisco | location: San Francisco
@@ -2316,18 +2326,22 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/intercom/jobs/7254820
 - **intercom**: Account Executive, Enterprise (German) | Dublin, Ireland | location: Dublin, Ireland
   https://job-boards.greenhouse.io/intercom/jobs/8211426
-- **intercom**: Customer Success Manager, Scale | Dublin, Ireland | location: Dublin, Ireland
-  https://job-boards.greenhouse.io/intercom/jobs/8289272
 - **intercom**: Customer Success Manager, Scale | Chicago, Illinois | location: Chicago, Illinois
   https://job-boards.greenhouse.io/intercom/jobs/7370567
+- **intercom**: Customer Success Manager, Scale | Dublin, Ireland | location: Dublin, Ireland
+  https://job-boards.greenhouse.io/intercom/jobs/8289272
+- **intercom**: Principal Customer Success Manager | Chicago, Illinois; NYC, Remote; San Francisco, California | location: Chicago, Illinois; NYC, Remote; San Francisco, California
+  https://job-boards.greenhouse.io/intercom/jobs/8324859
+- **intercom**: Senior Customer Success Manager | Chicago, Illinois; NYC, Remote; San Francisco, California | location: Chicago, Illinois; NYC, Remote; San Francisco, California
+  https://job-boards.greenhouse.io/intercom/jobs/8157881
 - **intercom**: Senior Customer Success Manager | London, England | location: London, England
   https://job-boards.greenhouse.io/intercom/jobs/7600712
 - **intercom**: Senior Customer Success Manager | Dublin, Ireland | location: Dublin, Ireland
   https://job-boards.greenhouse.io/intercom/jobs/7600671
+- **intercom**: Senior Customer Success Manager | Chicago, Illinois; San Francisco, California | location: Chicago, Illinois; San Francisco, California
+  https://job-boards.greenhouse.io/intercom/jobs/8279357
 - **intercom**: Senior Customer Success Manager, High Touch | Chicago, Illinois | location: Chicago, Illinois
   https://job-boards.greenhouse.io/intercom/jobs/8159946
-- **intercom**: Senior Customer Success Manager, High Touch | San Francisco, California | location: San Francisco, California
-  https://job-boards.greenhouse.io/intercom/jobs/8157881
 - **intercom**: Senior Manager, Account Executives, Continental Europe (French/German) | Dublin, Ireland | location: Dublin, Ireland
   https://job-boards.greenhouse.io/intercom/jobs/7939367
 - **jfrog**: Account Executive | Taipei, Taiwan | location: Taipei, Taiwan
@@ -2344,10 +2358,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://join.jfrog.com/job/?job=8312018&gh_jid=8312018
 - **jfrog**: Strategic Account Executive | US Remote | location: US Remote
   https://join.jfrog.com/job/?job=8163093&gh_jid=8163093
-- **jfrog**: Strategic Technical Success Manager | Atlanta | location: Atlanta
-  https://join.jfrog.com/job/?job=8247055&gh_jid=8247055
 - **jfrog**: Strategic Technical Success Manager | Sunnyvale | location: Sunnyvale
   https://join.jfrog.com/job/?job=8238775&gh_jid=8238775
+- **jfrog**: Strategic Technical Success Manager | Atlanta | location: Atlanta
+  https://join.jfrog.com/job/?job=8247055&gh_jid=8247055
 - **jobandtalent**: UK - Account Manager (Feltham) | Feltham, UK | location: Feltham, UK
   https://jobs.lever.co/jobandtalent/b650b421-f83c-425d-b2ee-4f124de10e2f
 - **jobandtalent**: UK - Account Manager (Sleaford/Anwick area) | Anwick, UK | location: Anwick, UK
@@ -2362,22 +2376,24 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.lever.co/jobandtalent/8379e237-e62c-4b6a-9a90-a757dec11ccc
 - **jobandtalent**: US - Regional Sales Director (Texas) | Dallas, TX, US | location: Dallas, TX, US
   https://jobs.lever.co/jobandtalent/34b08802-6621-41a4-bb39-c3d494a5d435
-- **kaseya**: Account Manager | Vancouver, British Columbia | location: Vancouver, British Columbia
-  https://www.kaseya.com/careers/jobs/id/6231559004/?gh_jid=6231559004
+- **kaseya**: Account Manager | Miami, FL | location: Miami, FL
+  https://www.kaseya.com/careers/jobs/id/6232137004/?gh_jid=6232137004
+- **kaseya**: Account Manager | Miami, FL | location: Miami, FL
+  https://www.kaseya.com/careers/jobs/id/6107437004/?gh_jid=6107437004
 - **kaseya**: Account Manager | Norwalk, CT | location: Norwalk, CT
   https://www.kaseya.com/careers/jobs/id/6225410004/?gh_jid=6225410004
 - **kaseya**: Account Manager | Dublin, Ireland | location: Dublin, Ireland
   https://www.kaseya.com/careers/jobs/id/6227995004/?gh_jid=6227995004
 - **kaseya**: Account Manager | Reading, United Kingdom | location: Reading, United Kingdom
   https://www.kaseya.com/careers/jobs/id/6107402004/?gh_jid=6107402004
-- **kaseya**: Account Manager | Miami, FL | location: Miami, FL
-  https://www.kaseya.com/careers/jobs/id/6232137004/?gh_jid=6232137004
-- **kaseya**: Account Manager | Miami, FL | location: Miami, FL
-  https://www.kaseya.com/careers/jobs/id/6107437004/?gh_jid=6107437004
+- **kaseya**: Account Manager | Vancouver, British Columbia | location: Vancouver, British Columbia
+  https://www.kaseya.com/careers/jobs/id/6231559004/?gh_jid=6231559004
 - **kaseya**: Account Manager  | Sydney, NSW | location: Sydney, NSW
   https://www.kaseya.com/careers/jobs/id/6109425004/?gh_jid=6109425004
 - **kaseya**: Account Manager - Dutch Speaking | Amsterdam, Netherlands | location: Amsterdam, Netherlands
-  https://www.kaseya.com/careers/jobs/id/6206172004/?gh_jid=6206172004
+  https://www.kaseya.com/careers/jobs/id/6238245004/?gh_jid=6238245004
+- **kaseya**: Account Manager - German Speaking | Amsterdam, Netherlands | location: Amsterdam, Netherlands
+  https://www.kaseya.com/careers/jobs/id/6238246004/?gh_jid=6238246004
 - **kaseya**: Account Manager DACH Market | Dublin, Ireland | location: Dublin, Ireland
   https://www.kaseya.com/careers/jobs/id/6140841004/?gh_jid=6140841004
 - **kaseya**: Account Manager French Market | Dublin, Ireland | location: Dublin, Ireland
@@ -2386,6 +2402,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.kaseya.com/careers/jobs/id/6216652004/?gh_jid=6216652004
 - **kaseya**: Account Manager, Commercial | Miami, FL | location: Miami, FL
   https://www.kaseya.com/careers/jobs/id/6218666004/?gh_jid=6218666004
+- **kaseya**: Account Manager, Enterprise | Miami, FL | location: Miami, FL
+  https://www.kaseya.com/careers/jobs/id/6117152004/?gh_jid=6117152004
 - **kaseya**: Senior Account Manager | Dublin, Ireland | location: Dublin, Ireland
   https://www.kaseya.com/careers/jobs/id/6145178004/?gh_jid=6145178004
 - **kaseya**: Senior Account Manager | Miami, FL | location: Miami, FL
@@ -2400,22 +2418,22 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.klaviyo.com/careers/jobs/8033173003?gh_jid=8033173003
 - **klaviyo**: Account Executive Commercial, Spanish Speaker | Dublin, IE | location: Dublin, IE
   https://www.klaviyo.com/careers/jobs/7776857003?gh_jid=7776857003
-- **klaviyo**: Account Executive, Large Enterprise | Los Angeles, CA | location: Los Angeles, CA
-  https://www.klaviyo.com/careers/jobs/8013137003?gh_jid=8013137003
+- **klaviyo**: Account Executive, Large Enterprise | Denver, CO | location: Denver, CO
+  https://www.klaviyo.com/careers/jobs/8013033003?gh_jid=8013033003
 - **klaviyo**: Account Executive, Large Enterprise | Boston, MA | location: Boston, MA
   https://www.klaviyo.com/careers/jobs/8004340003?gh_jid=8004340003
 - **klaviyo**: Account Executive, Large Enterprise | New York, NY | location: New York, NY
   https://www.klaviyo.com/careers/jobs/8013032003?gh_jid=8013032003
-- **klaviyo**: Account Executive, Large Enterprise | Denver, CO | location: Denver, CO
-  https://www.klaviyo.com/careers/jobs/8013033003?gh_jid=8013033003
 - **klaviyo**: Account Executive, Large Enterprise | San Francisco, CA | location: San Francisco, CA
   https://www.klaviyo.com/careers/jobs/8013119003?gh_jid=8013119003
 - **klaviyo**: Account Executive, Large Enterprise | Chicago, IL | location: Chicago, IL
   https://www.klaviyo.com/careers/jobs/8013125003?gh_jid=8013125003
-- **klaviyo**: Account Executive, Large Enterprise | Austin, TX | location: Austin, TX
-  https://www.klaviyo.com/careers/jobs/8013149003?gh_jid=8013149003
 - **klaviyo**: Account Executive, Large Enterprise | Salt Lake City, UT | location: Salt Lake City, UT
   https://www.klaviyo.com/careers/jobs/8013132003?gh_jid=8013132003
+- **klaviyo**: Account Executive, Large Enterprise | Austin, TX | location: Austin, TX
+  https://www.klaviyo.com/careers/jobs/8013149003?gh_jid=8013149003
+- **klaviyo**: Account Executive, Large Enterprise | Los Angeles, CA | location: Los Angeles, CA
+  https://www.klaviyo.com/careers/jobs/8013137003?gh_jid=8013137003
 - **klaviyo**: Account Executive, Large Enterprise | Miami, FL | location: Miami, FL
   https://www.klaviyo.com/careers/jobs/8013143003?gh_jid=8013143003
 - **klaviyo**: Account Executive, Large Enterprise | San Diego, CA | location: San Diego, CA
@@ -2426,38 +2444,36 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.klaviyo.com/careers/jobs/8002960003?gh_jid=8002960003
 - **klaviyo**: Account Executive- Mid Enterprise  | Singapore | location: Singapore
   https://www.klaviyo.com/careers/jobs/7718462003?gh_jid=7718462003
-- **klaviyo**: Commercial Account Executive | Denver, CO | location: Denver, CO
-  https://www.klaviyo.com/careers/jobs/7577985003?gh_jid=7577985003
 - **klaviyo**: Commercial Account Executive | Boston, MA | location: Boston, MA
   https://www.klaviyo.com/careers/jobs/7577984003?gh_jid=7577984003
+- **klaviyo**: Commercial Account Executive | Denver, CO | location: Denver, CO
+  https://www.klaviyo.com/careers/jobs/7577985003?gh_jid=7577985003
 - **klaviyo**: Commercial Account Executive (Portuguese Speaking) | Boston, MA; Denver, CO | location: Boston, MA; Denver, CO
   https://www.klaviyo.com/careers/jobs/7776017003?gh_jid=7776017003
 - **klaviyo**: Commercial Account Executive - Greater China Region | Singapore | location: Singapore
   https://www.klaviyo.com/careers/jobs/7807681003?gh_jid=7807681003
-- **klaviyo**: Commercial Account Executive- Customer Growth  | Sydney, AU | location: Sydney, AU
-  https://www.klaviyo.com/careers/jobs/7835654003?gh_jid=7835654003
 - **klaviyo**: Director, Customer Success - Enterprise | Boston, MA | location: Boston, MA
   https://www.klaviyo.com/careers/jobs/7979747003?gh_jid=7979747003
 - **klaviyo**: Enterprise Enablement Partner, EMEA | London, UK | location: London, UK
   https://www.klaviyo.com/careers/jobs/7807934003?gh_jid=7807934003
-- **klaviyo**: Large Enterprise Account Executive | London, UK | location: London, UK
-  https://www.klaviyo.com/careers/jobs/8036117003?gh_jid=8036117003
 - **klaviyo**: Large Enterprise Account Executive | Sydney, AU | location: Sydney, AU
   https://www.klaviyo.com/careers/jobs/8030698003?gh_jid=8030698003
+- **klaviyo**: Large Enterprise Account Executive | London, UK | location: London, UK
+  https://www.klaviyo.com/careers/jobs/8036117003?gh_jid=8036117003
 - **klaviyo**: Large Enterprise Sales Manager | Denver, CO | location: Denver, CO
   https://www.klaviyo.com/careers/jobs/8009591003?gh_jid=8009591003
-- **klaviyo**: Large Enterprise Sales Manager | Los Angeles, CA | location: Los Angeles, CA
-  https://www.klaviyo.com/careers/jobs/8009596003?gh_jid=8009596003
 - **klaviyo**: Large Enterprise Sales Manager | San Francisco, CA | location: San Francisco, CA
   https://www.klaviyo.com/careers/jobs/8004318003?gh_jid=8004318003
+- **klaviyo**: Large Enterprise Sales Manager | Los Angeles, CA | location: Los Angeles, CA
+  https://www.klaviyo.com/careers/jobs/8009596003?gh_jid=8009596003
 - **klaviyo**: Mid Enterprise Account Executive | Sydney, AU | location: Sydney, AU
   https://www.klaviyo.com/careers/jobs/8034555003?gh_jid=8034555003
-- **klaviyo**: Partner Account Manager | San Francisco, CA | location: San Francisco, CA
-  https://www.klaviyo.com/careers/jobs/8005687003?gh_jid=8005687003
-- **klaviyo**: Partner Account Manager | Denver, CO | location: Denver, CO
-  https://www.klaviyo.com/careers/jobs/8005686003?gh_jid=8005686003
 - **klaviyo**: Partner Account Manager | Boston, MA | location: Boston, MA
   https://www.klaviyo.com/careers/jobs/8004963003?gh_jid=8004963003
+- **klaviyo**: Partner Account Manager | Denver, CO | location: Denver, CO
+  https://www.klaviyo.com/careers/jobs/8005686003?gh_jid=8005686003
+- **klaviyo**: Partner Account Manager | San Francisco, CA | location: San Francisco, CA
+  https://www.klaviyo.com/careers/jobs/8005687003?gh_jid=8005687003
 - **klaviyo**: Partner Account Manager (Commercial), Spanish-Speaker | London, UK | location: London, UK
   https://www.klaviyo.com/careers/jobs/8034707003?gh_jid=8034707003
 - **klaviyo**: Partner Account Manager (Commercial), Spanish-Speaker | Dublin, IE | location: Dublin, IE
@@ -2472,12 +2488,12 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.klaviyo.com/careers/jobs/8007274003?gh_jid=8007274003
 - **klaviyo**: Senior Director, Customer Success, APJ | Sydney, AU | location: Sydney, AU
   https://www.klaviyo.com/careers/jobs/8044444003?gh_jid=8044444003
-- **klaviyo**: Senior Manager, Partner Sales | Boston, MA | location: Boston, MA
-  https://www.klaviyo.com/careers/jobs/7709950003?gh_jid=7709950003
-- **klaviyo**: Senior Manager, Partner Sales | Denver, CO | location: Denver, CO
-  https://www.klaviyo.com/careers/jobs/7710022003?gh_jid=7710022003
 - **klaviyo**: Senior Manager, Partner Sales | San Francisco, CA | location: San Francisco, CA
   https://www.klaviyo.com/careers/jobs/7710023003?gh_jid=7710023003
+- **klaviyo**: Senior Manager, Partner Sales | Denver, CO | location: Denver, CO
+  https://www.klaviyo.com/careers/jobs/7710022003?gh_jid=7710022003
+- **klaviyo**: Senior Manager, Partner Sales | Boston, MA | location: Boston, MA
+  https://www.klaviyo.com/careers/jobs/7709950003?gh_jid=7709950003
 - **kong**: Account Executive, Commercial | London, England, United Kingdom | location: London, England, United Kingdom
   https://jobs.ashbyhq.com/kong/8cfcb25c-6138-489f-849a-4d0da4158943
 - **kong**: Commercial Account Executive | Milan, Italy (remote) | location: Milan, Italy (remote)
@@ -2516,7 +2532,7 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/kong/646c0e83-8d92-4055-b29d-14dc1a5ada3d
 - **kong**: Enterprise Account Executive, France | France (remote) | location: France (remote)
   https://jobs.ashbyhq.com/kong/c10b5a13-089d-42c9-9f39-10dc435a2025
-- **kong**: Enterprise Account Executive, Northeast | New York, United States (remote) | location: New York, United States (remote)
+- **kong**: Enterprise Account Executive, Northeast | New York, United States; Massachusetts, United States; Pennsylvania, United States (remote) | location: New York, United States; Massachusetts, United States; Penns
   https://jobs.ashbyhq.com/kong/bd066ba0-d87d-4b95-8eae-79bc2ef63065
 - **kong**: Enterprise Account Executive, Southeast | Georgia, United States | location: Georgia, United States
   https://jobs.ashbyhq.com/kong/3446d746-9cfc-463f-aa26-d3a620278216
@@ -2570,7 +2586,7 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/langchain/b9cf3229-c257-4536-bae6-e9b63134dc68
 - **langchain**: Enterprise Account Executive (Ohio) | Cincinnati, OH; Detroit, MI | location: Cincinnati, OH; Detroit, MI
   https://jobs.ashbyhq.com/langchain/e86a5b13-75e7-4b4e-bc18-3c81b58d1543
-- **langchain**: Enterprise Account Executive (San Francisco Bay Area) | San Francisco, CA | location: San Francisco, CA
+- **langchain**: Enterprise Account Executive (San Francisco Bay Area) | San Francisco, CA (remote) | location: San Francisco, CA (remote)
   https://jobs.ashbyhq.com/langchain/9930dd01-d12e-42e1-b751-5240c3814f85
 - **langchain**: Enterprise Account Executive (Stockholm) | Sweden (remote) | location: Sweden (remote)
   https://jobs.ashbyhq.com/langchain/9ef63e88-b1ff-4e88-9bf8-20c01439b80a
@@ -2616,7 +2632,7 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/linear/c21af93e-210f-4969-8eaa-90fb16a5b720
 - **linear**: Customer Success Manager, APAC | Singapore; Australia (remote) | location: Singapore; Australia (remote)
   https://jobs.ashbyhq.com/linear/0dbd1790-2652-49fc-861f-7451ae4eb1cf
-- **lovable**: AI Scaled Customer Success Programs | Boston; San Francisco ; New York City | location: Boston; San Francisco ; New York City
+- **lovable**: AI-Led Scaled Customer Success Manager | Boston; San Francisco ; New York City | location: Boston; San Francisco ; New York City
   https://jobs.ashbyhq.com/lovable/3944f55e-910f-4248-ba28-2c1e6143eb28
 - **lovable**: Sales Manager, Enterprise & Strategic  | New York City; San Francisco  | location: New York City; San Francisco 
   https://jobs.ashbyhq.com/lovable/bd7b3e44-1bda-42dd-9610-b89d070d7277
@@ -2676,34 +2692,38 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.mongodb.com/careers/job/?gh_jid=8153054
 - **mongodb**: Director, Customer Success Management | London | location: London
   https://www.mongodb.com/careers/job/?gh_jid=8256905
-- **mongodb**: Enterprise Account Executive | Montreal | location: Montreal
-  https://www.mongodb.com/careers/job/?gh_jid=7269518
-- **mongodb**: Enterprise Account Executive | London | location: London
-  https://www.mongodb.com/careers/job/?gh_jid=8153715
 - **mongodb**: Enterprise Account Executive | Stockholm | location: Stockholm
   https://www.mongodb.com/careers/job/?gh_jid=8195324
-- **mongodb**: Enterprise Account Executive | London | location: London
-  https://www.mongodb.com/careers/job/?gh_jid=8260947
+- **mongodb**: Enterprise Account Executive | Montreal | location: Montreal
+  https://www.mongodb.com/careers/job/?gh_jid=7269518
 - **mongodb**: Enterprise Account Executive | Paris | location: Paris
   https://www.mongodb.com/careers/job/?gh_jid=7256839
-- **mongodb**: Enterprise Account Executive	 | London | location: London
-  https://www.mongodb.com/careers/job/?gh_jid=7219459
+- **mongodb**: Enterprise Account Executive | London | location: London
+  https://www.mongodb.com/careers/job/?gh_jid=8260947
+- **mongodb**: Enterprise Account Executive | London | location: London
+  https://www.mongodb.com/careers/job/?gh_jid=8153715
 - **mongodb**: Enterprise Account Executive	 | Los Angeles | location: Los Angeles
   https://www.mongodb.com/careers/job/?gh_jid=6587328
+- **mongodb**: Enterprise Account Executive	 | London | location: London
+  https://www.mongodb.com/careers/job/?gh_jid=7219459
 - **mongodb**: Enterprise Account Executive (Bahasa, Vietnamese and Thai speaker) | Singapore | location: Singapore
   https://www.mongodb.com/careers/job/?gh_jid=7211805
 - **mongodb**: Enterprise Account Executive (Cyber) | Tel Aviv | location: Tel Aviv
   https://www.mongodb.com/careers/job/?gh_jid=7628750
+- **mongodb**: Enterprise Account Executive, AI Natives | Stockholm | location: Stockholm
+  https://www.mongodb.com/careers/job/?gh_jid=8148004
 - **mongodb**: Enterprise Account Executive, AI Natives | London | location: London
   https://www.mongodb.com/careers/job/?gh_jid=8147938
 - **mongodb**: Enterprise Account Executive, Acquisition | Mexico City | location: Mexico City
   https://www.mongodb.com/careers/job/?gh_jid=5607962
 - **mongodb**: Enterprise Account Executive, Federal | Tysons | location: Tysons
   https://www.mongodb.com/careers/job/?gh_jid=7028355
+- **mongodb**: Enterprise Account Executive, Growth | Beijing; Shanghai; Shenzhen | location: Beijing; Shanghai; Shenzhen
+  https://www.mongodb.com/careers/job/?gh_jid=6740470
 - **mongodb**: Enterprise Account Executive, Growth | Ohio | location: Ohio
   https://www.mongodb.com/careers/job/?gh_jid=7362411
-- **mongodb**: Enterprise Account Executive, Growth | Boston; New York City; Pennsylvania | location: Boston; New York City; Pennsylvania
-  https://www.mongodb.com/careers/job/?gh_jid=7362626
+- **mongodb**: Enterprise Account Executive, Growth | Israel | location: Israel
+  https://www.mongodb.com/careers/job/?gh_jid=7996805
 - **mongodb**: Enterprise Account Executive, Growth | Minneapolis | location: Minneapolis
   https://www.mongodb.com/careers/job/?gh_jid=7194933
 - **mongodb**: Enterprise Account Executive, Growth | Chicago | location: Chicago
@@ -2712,8 +2732,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.mongodb.com/careers/job/?gh_jid=7141759
 - **mongodb**: Enterprise Account Executive, Growth | Boston | location: Boston
   https://www.mongodb.com/careers/job/?gh_jid=7027834
-- **mongodb**: Enterprise Account Executive, Growth | Israel | location: Israel
-  https://www.mongodb.com/careers/job/?gh_jid=7996805
 - **mongodb**: Enterprise Account Executive, Growth | New York City | location: New York City
   https://www.mongodb.com/careers/job/?gh_jid=7032023
 - **mongodb**: Enterprise Account Executive, Growth | Atlanta; Florida; North Carolina; South Carolina; Tennessee | location: Atlanta; Florida; North Carolina; South Carolina; Tennessee
@@ -2722,8 +2740,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.mongodb.com/careers/job/?gh_jid=7027846
 - **mongodb**: Enterprise Account Executive, Growth | Poland | location: Poland
   https://www.mongodb.com/careers/job/?gh_jid=6987968
-- **mongodb**: Enterprise Account Executive, Growth | Beijing; Shanghai; Shenzhen | location: Beijing; Shanghai; Shenzhen
-  https://www.mongodb.com/careers/job/?gh_jid=6740470
+- **mongodb**: Enterprise Account Executive, Growth | Boston; New York City; Pennsylvania | location: Boston; New York City; Pennsylvania
+  https://www.mongodb.com/careers/job/?gh_jid=7362626
 - **mongodb**: Enterprise Account Executive, Growth	 | San Francisco | location: San Francisco
   https://www.mongodb.com/careers/job/?gh_jid=6755285
 - **mongodb**: Enterprise Account Executive, Growth (Digital Native) | Tel Aviv | location: Tel Aviv
@@ -2746,38 +2764,36 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.mongodb.com/careers/job/?gh_jid=8280979
 - **mongodb**: Senior / Enterprise Account Executive, Acquisition | Sydney | location: Sydney
   https://www.mongodb.com/careers/job/?gh_jid=6586315
-- **mongodb**: Senior Customer Success Manager | Chicago | location: Chicago
-  https://www.mongodb.com/careers/job/?gh_jid=8053367
-- **mongodb**: Senior Customer Success Manager | Los Angeles | location: Los Angeles
-  https://www.mongodb.com/careers/job/?gh_jid=8265316
 - **mongodb**: Senior Customer Success Manager | Melbourne | location: Melbourne
   https://www.mongodb.com/careers/job/?gh_jid=8129890
+- **mongodb**: Senior Customer Success Manager | Los Angeles | location: Los Angeles
+  https://www.mongodb.com/careers/job/?gh_jid=8265316
+- **mongodb**: Senior Customer Success Manager | Chicago | location: Chicago
+  https://www.mongodb.com/careers/job/?gh_jid=8053367
+- **mongodb**: Senior Customer Success Manager | Austin; San Francisco | location: Austin; San Francisco
+  https://www.mongodb.com/careers/job/?gh_jid=8160195
 - **mongodb**: Senior Customer Success Manager | Tel Aviv | location: Tel Aviv
   https://www.mongodb.com/careers/job/?gh_jid=8081197
 - **mongodb**: Senior Customer Success Manager | Dublin, Ireland; London | location: Dublin, Ireland; London
   https://www.mongodb.com/careers/job/?gh_jid=8091796
-- **mongodb**: Senior Customer Success Manager | Austin; San Francisco | location: Austin; San Francisco
-  https://www.mongodb.com/careers/job/?gh_jid=8160195
 - **mongodb**: Senior Customer Success Manager - FSI | New York City | location: New York City
   https://www.mongodb.com/careers/job/?gh_jid=7944023
 - **mongodb**: Senior Customer Success Manager - French Speaking | Montreal | location: Montreal
   https://www.mongodb.com/careers/job/?gh_jid=7944089
-- **mongodb**: Senior Enterprise Account Executive, Growth | Denver | location: Denver
-  https://www.mongodb.com/careers/job/?gh_jid=7687359
 - **mongodb**: Senior Enterprise Account Executive, Growth | San Francisco | location: San Francisco
   https://www.mongodb.com/careers/job/?gh_jid=8147949
 - **mongodb**: Senior Enterprise Account Executive, Growth | San Francisco | location: San Francisco
   https://www.mongodb.com/careers/job/?gh_jid=8147923
-- **mongodb**: Senior Enterprise Account Executive, Growth | Melbourne | location: Melbourne
-  https://www.mongodb.com/careers/job/?gh_jid=8229703
+- **mongodb**: Senior Enterprise Account Executive, Growth | Denver | location: Denver
+  https://www.mongodb.com/careers/job/?gh_jid=7687359
 - **mongodb**: Senior Enterprise Account Executive, Growth | San Francisco | location: San Francisco
   https://www.mongodb.com/careers/job/?gh_jid=8175160
 - **mongodb**: Senior Enterprise Account Executive, Growth | New York City | location: New York City
   https://www.mongodb.com/careers/job/?gh_jid=8097302
+- **mongodb**: Senior Enterprise Account Executive, Growth | Melbourne | location: Melbourne
+  https://www.mongodb.com/careers/job/?gh_jid=8229703
 - **mongodb**: Senior Enterprise Account Executive, Public Sector | Mexico City | location: Mexico City
   https://www.mongodb.com/careers/job/?gh_jid=8180129
-- **mongodb**: Senior Manager, Customer Success | New York City | location: New York City
-  https://www.mongodb.com/careers/job/?gh_jid=8264921
 - **mongodb**: Strategic Account Director | New York City | location: New York City
   https://www.mongodb.com/careers/job/?gh_jid=7967394
 - **mongodb**: Strategic Customer Success Manager | Toronto | location: Toronto
@@ -2814,38 +2830,40 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://boards.greenhouse.io/neo4j/jobs/4715085006?gh_jid=4715085006
 - **neo4j**: Sr. Enterprise Account Executive | Remote: Northeast US | location: Remote: Northeast US
   https://boards.greenhouse.io/neo4j/jobs/4705609006?gh_jid=4705609006
-- **netskope**: Channel Sales Manager  | Mexico | location: Mexico
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=8222723
-- **netskope**: Channel Sales Manager  | Australia | location: Australia
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=8239209
-- **netskope**: Channel Sales Manager  | India | location: India
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=8074121
+- **neo4j**: Strategic Account Director, Federal Government | Canberra, Australia | location: Canberra, Australia
+  https://boards.greenhouse.io/neo4j/jobs/4725673006?gh_jid=4725673006
 - **netskope**: Channel Sales Manager  | Portugal | location: Portugal
   https://www.netskope.com/company/careers/open-positions/?gh_jid=8185480
+- **netskope**: Channel Sales Manager  | Mexico | location: Mexico
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=8222723
+- **netskope**: Channel Sales Manager  | India | location: India
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=8074121
+- **netskope**: Channel Sales Manager  | Australia | location: Australia
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=8239209
+- **netskope**: Director, Regional Sales | New York, United States | location: New York, United States
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=8174038
+- **netskope**: Director, Regional Sales | Santa Clara, California, United States | location: Santa Clara, California, United States
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=8173429
 - **netskope**: Director, Regional Sales | United Kingdom | location: United Kingdom
   https://www.netskope.com/company/careers/open-positions/?gh_jid=8111603
 - **netskope**: Director, Regional Sales | Texas, United States | location: Texas, United States
   https://www.netskope.com/company/careers/open-positions/?gh_jid=7776589
-- **netskope**: Director, Regional Sales | Santa Clara, California, United States | location: Santa Clara, California, United States
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=8173429
-- **netskope**: Director, Regional Sales | New York, United States | location: New York, United States
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=8174038
-- **netskope**: Regional Sales Manager | Nevada, United States | location: Nevada, United States
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=7484224
-- **netskope**: Regional Sales Manager | Sydney, New South Wales, Australia | location: Sydney, New South Wales, Australia
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=8176475
-- **netskope**: Regional Sales Manager | Argentina | location: Argentina
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=8317813
-- **netskope**: Regional Sales Manager | Ohio, United States | location: Ohio, United States
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=8274318
-- **netskope**: Regional Sales Manager | Belgium | location: Belgium
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=7677042
 - **netskope**: Regional Sales Manager | Washington, United States | location: Washington, United States
   https://www.netskope.com/company/careers/open-positions/?gh_jid=8157083
-- **netskope**: Regional Sales Manager | Pennsylvania, United States | location: Pennsylvania, United States
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=8121707
+- **netskope**: Regional Sales Manager | Belgium | location: Belgium
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=7677042
+- **netskope**: Regional Sales Manager | Ohio, United States | location: Ohio, United States
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=8274318
+- **netskope**: Regional Sales Manager | Nevada, United States | location: Nevada, United States
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=7484224
+- **netskope**: Regional Sales Manager | Argentina | location: Argentina
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=8317813
 - **netskope**: Regional Sales Manager | Melbourne, Victoria, Australia | location: Melbourne, Victoria, Australia
   https://www.netskope.com/company/careers/open-positions/?gh_jid=8089875
+- **netskope**: Regional Sales Manager | Sydney, New South Wales, Australia | location: Sydney, New South Wales, Australia
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=8176475
+- **netskope**: Regional Sales Manager | Pennsylvania, United States | location: Pennsylvania, United States
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=8121707
 - **netskope**: Regional Sales Manager - Public Sector  | Chile | location: Chile
   https://www.netskope.com/company/careers/open-positions/?gh_jid=8317824
 - **netskope**: Regional Sales Manager - SLED  | California, United States | location: California, United States
@@ -2856,10 +2874,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.netskope.com/company/careers/open-positions/?gh_jid=8190645
 - **netskope**: Strategic Sales Manager | Portugal | location: Portugal
   https://www.netskope.com/company/careers/open-positions/?gh_jid=8284496
-- **netskope**: Strategic Sales Manager | Netherlands | location: Netherlands
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=8009546
 - **netskope**: Strategic Sales Manager | Japan | location: Japan
   https://www.netskope.com/company/careers/open-positions/?gh_jid=8028233
+- **netskope**: Strategic Sales Manager | Netherlands | location: Netherlands
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=8009546
 - **netskope**: Strategic Sales Manager | Japan | location: Japan
   https://www.netskope.com/company/careers/open-positions/?gh_jid=7734651
 - **netskope**: Territory Sales Manager | Japan | location: Japan
@@ -2898,26 +2916,26 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.okta.com/company/careers/opportunity/8093704?gh_jid=8093704
 - **okta**: Area Sales Director, Enterprise (Auth0) | Florida; Georgia; North Carolina; Tennessee | location: Florida; Georgia; North Carolina; Tennessee
   https://www.okta.com/company/careers/opportunity/8237969?gh_jid=8237969
-- **okta**: Auth0 Account Executive- New Business  | San Francisco, California | location: San Francisco, California
-  https://www.okta.com/company/careers/opportunity/8292594?gh_jid=8292594
 - **okta**: Auth0 Account Executive- New Business  | Chicago, Illinois | location: Chicago, Illinois
   https://www.okta.com/company/careers/opportunity/8292612?gh_jid=8292612
 - **okta**: Auth0 Account Executive- New Business  | Washington, DC | location: Washington, DC
   https://www.okta.com/company/careers/opportunity/8292623?gh_jid=8292623
+- **okta**: Auth0 Account Executive- New Business  | San Francisco, California | location: San Francisco, California
+  https://www.okta.com/company/careers/opportunity/8292594?gh_jid=8292594
 - **okta**: Commercial Account Executive | Singapore | location: Singapore
   https://www.okta.com/company/careers/opportunity/8288348?gh_jid=8288348
 - **okta**: Commercial Account Executive | Bengaluru, India | location: Bengaluru, India
   https://www.okta.com/company/careers/opportunity/8288466?gh_jid=8288466
-- **okta**: Commercial Account Executive, Auth0 | Sydney, Australia | location: Sydney, Australia
-  https://www.okta.com/company/careers/opportunity/8185782?gh_jid=8185782
 - **okta**: Corporate New Business Account Executive | San Francisco, California | location: San Francisco, California
   https://www.okta.com/company/careers/opportunity/8289745?gh_jid=8289745
 - **okta**: Customer Success Executive | Los Angeles, California; San Francisco, California; Seattle, Washington | location: Los Angeles, California; San Francisco, California; Seattle,
   https://www.okta.com/company/careers/opportunity/8167464?gh_jid=8167464
-- **okta**: Enterprise Account Executive | Seoul, South Korea | location: Seoul, South Korea
-  https://www.okta.com/company/careers/opportunity/8226932?gh_jid=8226932
+- **okta**: Customer Success Manager | Warsaw, Poland | location: Warsaw, Poland
+  https://www.okta.com/company/careers/opportunity/8317558?gh_jid=8317558
 - **okta**: Enterprise Account Executive | Tennessee | location: Tennessee
   https://www.okta.com/company/careers/opportunity/8022189?gh_jid=8022189
+- **okta**: Enterprise Account Executive | Seoul, South Korea | location: Seoul, South Korea
+  https://www.okta.com/company/careers/opportunity/8226932?gh_jid=8226932
 - **okta**: Enterprise Account Executive  | Toronto, Ontario, Canada | location: Toronto, Ontario, Canada
   https://www.okta.com/company/careers/opportunity/8285002?gh_jid=8285002
 - **okta**: Enterprise Account Executive  | Singapore | location: Singapore
@@ -2928,12 +2946,12 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.okta.com/company/careers/opportunity/8059294?gh_jid=8059294
 - **okta**: Enterprise Account Executive, Auth0 | Tokyo, Japan | location: Tokyo, Japan
   https://www.okta.com/company/careers/opportunity/8288482?gh_jid=8288482
+- **okta**: Enterprise Account Executive, Auth0 | Tokyo, Japan | location: Tokyo, Japan
+  https://www.okta.com/company/careers/opportunity/8269057?gh_jid=8269057
 - **okta**: Enterprise Account Executive, Auth0 | New York, New York; Pennsylvania; Washington, DC | location: New York, New York; Pennsylvania; Washington, DC
   https://www.okta.com/company/careers/opportunity/8248575?gh_jid=8248575
 - **okta**: Enterprise Account Executive, Auth0 | Tokyo, Japan | location: Tokyo, Japan
   https://www.okta.com/company/careers/opportunity/8288480?gh_jid=8288480
-- **okta**: Enterprise Account Executive, Auth0 | Tokyo, Japan | location: Tokyo, Japan
-  https://www.okta.com/company/careers/opportunity/8269057?gh_jid=8269057
 - **okta**: Enterprise Account Executive, Bengaluru | Bengaluru, India | location: Bengaluru, India
   https://www.okta.com/company/careers/opportunity/8003027?gh_jid=8003027
 - **okta**: Enterprise Account Executive, Delhi | New Delhi, India | location: New Delhi, India
@@ -2978,10 +2996,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.okta.com/company/careers/opportunity/8238157?gh_jid=8238157
 - **okta**: Sr. Manager, Strategic Sourcing – Technology | Bellevue, Washington | location: Bellevue, Washington
   https://www.okta.com/company/careers/opportunity/8239845?gh_jid=8239845
-- **okta**: Strategic Account Executive | Kansas City, Missouri | location: Kansas City, Missouri
-  https://www.okta.com/company/careers/opportunity/8289602?gh_jid=8289602
 - **okta**: Strategic Account Executive | Arizona | location: Arizona
   https://www.okta.com/company/careers/opportunity/8088491?gh_jid=8088491
+- **okta**: Strategic Account Executive | Kansas City, Missouri | location: Kansas City, Missouri
+  https://www.okta.com/company/careers/opportunity/8289602?gh_jid=8289602
 - **okta**: Strategic Account Executive | Texas | location: Texas
   https://www.okta.com/company/careers/opportunity/8289604?gh_jid=8289604
 - **okta**: Strategic Account Executive | San Francisco, California | location: San Francisco, California
@@ -2996,14 +3014,14 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.okta.com/company/careers/opportunity/8289582?gh_jid=8289582
 - **okta**: Strategic Account Executive UK/I | London, United Kingdom | location: London, United Kingdom
   https://www.okta.com/company/careers/opportunity/7988286?gh_jid=7988286
-- **okta**: Strategic Account Executive, Auth0 | Texas | location: Texas
-  https://www.okta.com/company/careers/opportunity/8289910?gh_jid=8289910
 - **okta**: Strategic Account Executive, Auth0 | Georgia | location: Georgia
   https://www.okta.com/company/careers/opportunity/8289915?gh_jid=8289915
-- **okta**: Strategic Account Executive, Auth0 | Florida | location: Florida
-  https://www.okta.com/company/careers/opportunity/8289887?gh_jid=8289887
 - **okta**: Strategic Account Executive, Auth0 | San Francisco, California | location: San Francisco, California
   https://www.okta.com/company/careers/opportunity/7463779?gh_jid=7463779
+- **okta**: Strategic Account Executive, Auth0 | Florida | location: Florida
+  https://www.okta.com/company/careers/opportunity/8289887?gh_jid=8289887
+- **okta**: Strategic Account Executive, Auth0 | Texas | location: Texas
+  https://www.okta.com/company/careers/opportunity/8289910?gh_jid=8289910
 - **okta**: Strategic Account Executive, Auth0  | Sydney, Australia | location: Sydney, Australia
   https://www.okta.com/company/careers/opportunity/8288022?gh_jid=8288022
 - **okta**: Strategic Account Executive, Auth0 ( Chicago) | Chicago, Illinois | location: Chicago, Illinois
@@ -3118,8 +3136,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/openai/95d078d9-fd33-494c-8ba0-22fbb8b193ad
 - **openai**: Customer Success Manager, Ads Solutions (Seattle) | Seattle (remote) | location: Seattle (remote)
   https://jobs.ashbyhq.com/openai/cc15b36b-023e-4748-928a-625dbf2c497b
-- **openai**: Enterprise Account Associate - EMEA | Dublin, Ireland (remote) | location: Dublin, Ireland (remote)
-  https://jobs.ashbyhq.com/openai/d29b455a-9fee-4610-8e08-ce6a9ea8a37e
 - **openai**: Enterprise Account Associate - EMEA (German Speaking) | Dublin, Ireland (remote) | location: Dublin, Ireland (remote)
   https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8
 - **openai**: Enterprise Account Associate- EMEA (French Speaking) | Dublin, Ireland (remote) | location: Dublin, Ireland (remote)
@@ -3154,8 +3170,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/openai/831e2f91-c213-4208-9eb3-4ce2cc6b9acf
 - **openai**: Strategic Technology Negotiations Lead | San Francisco (remote) | location: San Francisco (remote)
   https://jobs.ashbyhq.com/openai/5c579ec6-be3a-409b-8ae4-9e3f46af8288
-- **openai**: UK Head of Strategic Engagement & Partnerships | London, UK (remote) | location: London, UK (remote)
-  https://jobs.ashbyhq.com/openai/e0f50751-123c-4200-adf2-aada78c3a6bb
 - **parloa**: Enterprise Account Executive - Turkey | Istanbul | location: Istanbul
   https://job-boards.eu.greenhouse.io/parloa/jobs/4793846101
 - **parloa**: Partner Sales Manager - Technology | New York Office | location: New York Office
@@ -3194,6 +3208,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/pennylane/dffac3f5-6a76-453d-8731-ca1e6997901f
 - **pennylane**: Strategic Project Manager | Paris | location: Paris
   https://jobs.ashbyhq.com/pennylane/25da563e-5da8-4e8f-a97c-33eb91e2f837
+- **perk**: Account Executive - Belgian French speaking | Amsterdam (remote) | location: Amsterdam (remote)
+  https://jobs.ashbyhq.com/perk/8d5112fc-8906-4617-9671-de79d2218b31
 - **perk**: Account Executive - UKI | Birmingham | location: Birmingham
   https://jobs.ashbyhq.com/perk/9a87103d-9da7-4937-b74a-063955aa68dd
 - **perk**: Account Executive - UKI | Edinburgh | location: Edinburgh
@@ -3336,6 +3352,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/purestorage/jobs/8276043
 - **purestorage**: Partner Account Manager  | Tokyo, Japan | location: Tokyo, Japan
   https://job-boards.greenhouse.io/purestorage/jobs/8138504
+- **purestorage**: Partner Account Manager - Indiana and Ohio | Remote, Indiana; Remote, Ohio | location: Remote, Indiana; Remote, Ohio
+  https://job-boards.greenhouse.io/purestorage/jobs/8303263
 - **purestorage**: Partner Account Manager - Toronto | Toronto, Canada | location: Toronto, Canada
   https://job-boards.greenhouse.io/purestorage/jobs/8267376
 - **purestorage**: Principal Business Development Manager, Strategic Healthcare and Life Sciences Partnerships | Chicago, Illinois; New York, New York; Santa Clara, California | location: Chicago, Illinois; New York, New York; Santa Clara, Californ
@@ -3390,8 +3408,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.qualtrics.com/careers/us/en/job/8267913?gh_jid=8267913
 - **qualtrics**: Enterprise Account Executive - Italy | Milan, Italy | location: Milan, Italy
   https://www.qualtrics.com/careers/us/en/job/7941734?gh_jid=7941734
-- **qualtrics**: Enterprise Account Executive - Life Sciences | United States (Remote) | location: United States (Remote)
-  https://www.qualtrics.com/careers/us/en/job/8162242?gh_jid=8162242
 - **qualtrics**: Enterprise Account Executive - Manufacturing | United States (Remote) | location: United States (Remote)
   https://www.qualtrics.com/careers/us/en/job/8238436?gh_jid=8238436
 - **qualtrics**: Enterprise Account Executive - TMT | United States (Remote) | location: United States (Remote)
@@ -3428,14 +3444,18 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.rubrik.com/company/careers/departments/job.8122039?gh_jid=8122039
 - **rubrik**: Account Executive | Paris, France  | location: Paris, France 
   https://www.rubrik.com/company/careers/departments/job.7820794?gh_jid=7820794
+- **rubrik**: Account Executive - France | Paris, France | location: Paris, France
+  https://www.rubrik.com/company/careers/departments/job.8232827?gh_jid=8232827
 - **rubrik**: Account Executive, KSA | Riyadh, Saudi Arabia | location: Riyadh, Saudi Arabia
   https://www.rubrik.com/company/careers/departments/job.7757442?gh_jid=7757442
 - **rubrik**: Account Executive, NAS Product Specialist | Remote Central US | location: Remote Central US
   https://www.rubrik.com/company/careers/departments/job.8310713?gh_jid=8310713
-- **rubrik**: Account Executive, SaaS Product Line Specialist | Central  US | location: Central  US
-  https://www.rubrik.com/company/careers/departments/job.8279681?gh_jid=8279681
+- **rubrik**: Account Executive, NAS Product Specialist | Remote Western US | location: Remote Western US
+  https://www.rubrik.com/company/careers/departments/job.8289572?gh_jid=8289572
 - **rubrik**: Account Executive, SaaS Product Line Specialist | Central or Western US | location: Central or Western US
   https://www.rubrik.com/company/careers/departments/job.8202834?gh_jid=8202834
+- **rubrik**: Account Executive, SaaS Product Line Specialist | Central  US | location: Central  US
+  https://www.rubrik.com/company/careers/departments/job.8279681?gh_jid=8279681
 - **rubrik**: Account Executive, Sweden | Stockholm, Sweden | location: Stockholm, Sweden
   https://www.rubrik.com/company/careers/departments/job.8108721?gh_jid=8108721
 - **rubrik**: Account Executive, UK | London, UK | location: London, UK
@@ -3459,17 +3479,17 @@ Title matched a sales style role but the location rule rejected it. Read these f
 - **rubrik**: Enterprise Account Executive, Sydney - New Logo/Hunting | Sydney | location: Sydney
   https://www.rubrik.com/company/careers/departments/job.8311941?gh_jid=8311941
 - **rubrik**: Large Enterprise Account Executive | Tokyo, Japan | location: Tokyo, Japan
-  https://www.rubrik.com/company/careers/departments/job.8223049?gh_jid=8223049
+  https://www.rubrik.com/company/careers/departments/job.8223036?gh_jid=8223036
+- **rubrik**: Large Enterprise Account Executive | Tokyo, Japan | location: Tokyo, Japan
+  https://www.rubrik.com/company/careers/departments/job.8223155?gh_jid=8223155
 - **rubrik**: Large Enterprise Account Executive | London, United Kingdom | location: London, United Kingdom
   https://www.rubrik.com/company/careers/departments/job.8144285?gh_jid=8144285
 - **rubrik**: Large Enterprise Account Executive | Tokyo, Japan | location: Tokyo, Japan
-  https://www.rubrik.com/company/careers/departments/job.8223155?gh_jid=8223155
+  https://www.rubrik.com/company/careers/departments/job.8223118?gh_jid=8223118
+- **rubrik**: Large Enterprise Account Executive | Tokyo, Japan | location: Tokyo, Japan
+  https://www.rubrik.com/company/careers/departments/job.8223049?gh_jid=8223049
 - **rubrik**: Large Enterprise Account Executive | Tokyo, Japan | location: Tokyo, Japan
   https://www.rubrik.com/company/careers/departments/job.8223043?gh_jid=8223043
-- **rubrik**: Large Enterprise Account Executive | Tokyo, Japan | location: Tokyo, Japan
-  https://www.rubrik.com/company/careers/departments/job.8223036?gh_jid=8223036
-- **rubrik**: Large Enterprise Account Executive | Tokyo, Japan | location: Tokyo, Japan
-  https://www.rubrik.com/company/careers/departments/job.8223118?gh_jid=8223118
 - **rubrik**: Manager, Customer Resilience Management - Customer Success | Morrisville (NC) & Palo Alto (CA) | location: Morrisville (NC) & Palo Alto (CA)
   https://www.rubrik.com/company/careers/departments/job.8139783?gh_jid=8139783
 - **rubrik**: Manager, Planning & Strategic Operations  | Palo Alto, CA | location: Palo Alto, CA
@@ -3502,21 +3522,15 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.samsara.com/company/careers/roles/8103806?gh_jid=8103806
 - **samsara**: Account Executive, Commercial | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/8162034?gh_jid=8162034
-- **samsara**: Account Executive, Commercial ( West) | Remote - US | location: Remote - US
-  https://www.samsara.com/company/careers/roles/8162025?gh_jid=8162025
 - **samsara**: Account Executive, Commercial - Mexico | Remote - Mexico | location: Remote - Mexico
   https://www.samsara.com/company/careers/roles/7516554?gh_jid=7516554
 - **samsara**: Commercial Account Executive  | Remote - Canada | location: Remote - Canada
   https://www.samsara.com/company/careers/roles/7612493?gh_jid=7612493
-- **samsara**: Core AE Northeast [FY27][Pipeline] | Remote - US | location: Remote - US
-  https://www.samsara.com/company/careers/roles/8325412?gh_jid=8325412
-- **samsara**: Core AE Northeast [FY27][Pipeline] | Remote - US | location: Remote - US
+- **samsara**: Core Enterprise Account Executive CST - Remote | Remote - IL; Remote - TX; Remote - US | location: Remote - IL; Remote - TX; Remote - US
   https://www.samsara.com/company/careers/roles/8325426?gh_jid=8325426
-- **samsara**: Core AE TOLA [FY27][Pipeline] | Remote - US | location: Remote - US
-  https://www.samsara.com/company/careers/roles/8325432?gh_jid=8325432
-- **samsara**: Core AE TOLA [FY27][Pipeline] | Remote - US | location: Remote - US
-  https://www.samsara.com/company/careers/roles/8325429?gh_jid=8325429
 - **samsara**: Core Enterprise Account Executive EST/CST - Remote | Remote - US | location: Remote - US
+  https://www.samsara.com/company/careers/roles/8325412?gh_jid=8325412
+- **samsara**: Core Enterprise Account Executive EST/CST- Remote | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/7612608?gh_jid=7612608
 - **samsara**: Core Enterprise Account Executive MST/PST - Remote | Remote - CA; Remote - GA; Remote - US | location: Remote - CA; Remote - GA; Remote - US
   https://www.samsara.com/company/careers/roles/7612676?gh_jid=7612676
@@ -3524,7 +3538,7 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.samsara.com/company/careers/roles/8099250?gh_jid=8099250
 - **samsara**: Core Enterprise Account Executive South East | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/7679100?gh_jid=7679100
-- **samsara**: Core Enterprise Account Executive TOLA | Remote - US | location: Remote - US
+- **samsara**: Core Enterprise Account Executive TOLA | Remote - LA; Remote - US | location: Remote - LA; Remote - US
   https://www.samsara.com/company/careers/roles/7679053?gh_jid=7679053
 - **samsara**: Customer Success Manager | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/8064913?gh_jid=8064913
@@ -3532,6 +3546,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.samsara.com/company/careers/roles/8226209?gh_jid=8226209
 - **samsara**: Customer Success Manager  | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/7603023?gh_jid=7603023
+- **samsara**: Customer Success Manager - French Speaker | Remote - Canada | location: Remote - Canada
+  https://www.samsara.com/company/careers/roles/8029097?gh_jid=8029097
 - **samsara**: Digital Customer Success Manager, AI & Automation | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/8306612?gh_jid=8306612
 - **samsara**: Enterprise Account Executive | Remote - TX; Remote - US | location: Remote - TX; Remote - US
@@ -3551,9 +3567,9 @@ Title matched a sales style role but the location rule rejected it. Read these f
 - **samsara**: Enterprise Customer Success Manager | Remote - Canada | location: Remote - Canada
   https://www.samsara.com/company/careers/roles/8195432?gh_jid=8195432
 - **samsara**: Enterprise Customer Success Manager | Remote - US | location: Remote - US
-  https://www.samsara.com/company/careers/roles/8139049?gh_jid=8139049
-- **samsara**: Enterprise Customer Success Manager | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/8141688?gh_jid=8141688
+- **samsara**: Enterprise Customer Success Manager | Remote - US | location: Remote - US
+  https://www.samsara.com/company/careers/roles/8139049?gh_jid=8139049
 - **samsara**: Enterprise Customer Success Manager - Public Sector | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/8029099?gh_jid=8029099
 - **samsara**: Enterprise Customer Success Manager - Public Sector | Remote - US | location: Remote - US
@@ -3569,15 +3585,13 @@ Title matched a sales style role but the location rule rejected it. Read these f
 - **samsara**: Manager I, Customer Success Manager | Remote - Canada | location: Remote - Canada
   https://www.samsara.com/company/careers/roles/8068523?gh_jid=8068523
 - **samsara**: Manager II, Customer Success | Remote - US | location: Remote - US
-  https://www.samsara.com/company/careers/roles/7589197?gh_jid=7589197
-- **samsara**: Manager II, Customer Success | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/8232209?gh_jid=8232209
+- **samsara**: Manager II, Customer Success | Remote - US | location: Remote - US
+  https://www.samsara.com/company/careers/roles/7589197?gh_jid=7589197
 - **samsara**: Manager, Enterprise Implementation - Core | Remote - Denver | location: Remote - Denver
   https://www.samsara.com/company/careers/roles/8305848?gh_jid=8305848
 - **samsara**: Manager, Implementation - Enterprise Select | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/8146261?gh_jid=8146261
-- **samsara**: Mexico Major AE | Remote - Mexico | location: Remote - Mexico
-  https://www.samsara.com/company/careers/roles/7618041?gh_jid=7618041
 - **samsara**: Public Sector Major Account Executive | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/7612978?gh_jid=7612978
 - **samsara**: Regional Sales Director, Strategic Enterprise - UK | United Kingdom | location: United Kingdom
@@ -3586,7 +3600,7 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.samsara.com/company/careers/roles/8095469?gh_jid=8095469
 - **samsara**: Select Major Account Executive (CST) | Remote - Chicago; Remote - IA; Remote - MI | location: Remote - Chicago; Remote - IA; Remote - MI
   https://www.samsara.com/company/careers/roles/7818248?gh_jid=7818248
-- **samsara**: Select Major Account Executive (EST) | Remote - GA; Remote - NY; Remote - US | location: Remote - GA; Remote - NY; Remote - US
+- **samsara**: Select Major Account Executive (EST) | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/7663706?gh_jid=7663706
 - **samsara**: Select Major Account Executive, UK&I | United Kingdom | location: United Kingdom
   https://www.samsara.com/company/careers/roles/8249717?gh_jid=8249717
@@ -3598,12 +3612,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.samsara.com/company/careers/roles/8259022?gh_jid=8259022
 - **samsara**: Senior Strategic Implementation Consultant | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/8104151?gh_jid=8104151
-- **samsara**: Specialist Seller - Tracking Label - Select Enterprise | Remote - US | location: Remote - US
-  https://www.samsara.com/company/careers/roles/8202839?gh_jid=8202839
-- **samsara**: Specialist Seller, Enterprise Core (AI Products) | Atlanta, Georgia, United States | location: Atlanta, Georgia, United States
-  https://www.samsara.com/company/careers/roles/7982346?gh_jid=7982346
 - **samsara**: Specialist Seller, Enterprise Core (AI Products) | Remote - Chicago | location: Remote - Chicago
   https://www.samsara.com/company/careers/roles/7960413?gh_jid=7960413
+- **samsara**: Specialist Seller, Enterprise Core (AI Products) | Atlanta, Georgia, United States | location: Atlanta, Georgia, United States
+  https://www.samsara.com/company/careers/roles/7982346?gh_jid=7982346
 - **samsara**: Specialist Seller, Enterprise Core (Tracking Label) | Remote - US | location: Remote - US
   https://www.samsara.com/company/careers/roles/8202872?gh_jid=8202872
 - **samsara**: Specialist Seller, Enterprise Select (AI Products | Remote - US | location: Remote - US
@@ -3622,8 +3634,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/sardine/f7c8747e-c21b-4a22-81ba-a4b46bd861dd
 - **sardine**: Strategic Account Executive, Federal | Washington, DC; United States | location: Washington, DC; United States
   https://jobs.ashbyhq.com/sardine/49849fa6-2f48-4438-9708-a25d2ec80abc
-- **sardine**: Strategic Account Manager | United Kingdom / Europe; Europe (remote) | location: United Kingdom / Europe; Europe (remote)
-  https://jobs.ashbyhq.com/sardine/84b8ff1e-81a2-44e7-9161-9ccd5e5b0cb3
 - **sardine**: Strategic Account Manager | Toronto, Ontario (remote) | location: Toronto, Ontario (remote)
   https://jobs.ashbyhq.com/sardine/92da1cab-a832-4a34-b8fc-18a5b0a675d9
 - **sardine**: Strategic Account Manager | North America; United States; Canada (remote) | location: North America; United States; Canada (remote)
@@ -3722,6 +3732,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/smartsheet/jobs/8180767
 - **snowflake**: Account Executive | FI-Helsinki-MSO | location: FI-Helsinki-MSO
   https://jobs.ashbyhq.com/snowflake/87a3a6ce-e7a2-4ec4-8b25-f17a49beff4d
+- **snowflake**: Account Executive | US-NY-New York; US-CA-Bay Area-Remote; Los Angeles, CA | location: US-NY-New York; US-CA-Bay Area-Remote; Los Angeles, CA
+  https://jobs.ashbyhq.com/snowflake/b47c2374-1a78-4356-95d8-50cf6a5c7193
 - **snowflake**: Account Executive - Defence | GB-London | location: GB-London
   https://jobs.ashbyhq.com/snowflake/b6322e07-c781-4df1-81eb-8cc9f7e0dbaa
 - **snowflake**: Account Executive - Expansion  | NL-Amsterdam | location: NL-Amsterdam
@@ -3748,8 +3760,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/snowflake/ff47c9d5-1468-434c-96bc-106dce9b7977
 - **snowflake**: Account Executive, Majors | Los Angeles, CA; US-NY-New York (remote) | location: Los Angeles, CA; US-NY-New York (remote)
   https://jobs.ashbyhq.com/snowflake/285e9caf-1de6-4623-acff-2f007c45e5ff
-- **snowflake**: Account Executive, Majors | AU-Sydney | location: AU-Sydney
-  https://jobs.ashbyhq.com/snowflake/fd40b648-60be-48ae-953d-616a972be561
 - **snowflake**: Account Executive, Majors, Retail | AU-Melbourne | location: AU-Melbourne
   https://jobs.ashbyhq.com/snowflake/14b031ca-fbd3-41c4-8c37-62e2c72ffd76
 - **snowflake**: Account Executive, Media and Entertainment | US-CA-Menlo Park (remote) | location: US-CA-Menlo Park (remote)
@@ -3796,6 +3806,12 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/snowflake/472ec137-a049-4f78-92eb-997d1a63bf7f
 - **snowflake**: Enterprise Account Executive, Observe | US-NY-New York City-Remote | location: US-NY-New York City-Remote
   https://jobs.ashbyhq.com/snowflake/8e68b4f3-04bc-4da8-b8db-7731a9100c7f
+- **snowflake**: Enterprise Account Executive, Public Sector | AU-Sydney | location: AU-Sydney
+  https://jobs.ashbyhq.com/snowflake/be15bb2b-f43e-427a-9c59-9d09eab48d66
+- **snowflake**: Enterprise Account Executive, Public Sector | NZ-Wellington-MSO | location: NZ-Wellington-MSO
+  https://jobs.ashbyhq.com/snowflake/49342b76-029a-451d-bf8c-1488c07a3440
+- **snowflake**: Enterprise Account Executive, Public Sector  | AU-Melbourne | location: AU-Melbourne
+  https://jobs.ashbyhq.com/snowflake/b4e3fdf1-8e22-4f20-a7a3-776903c0b07d
 - **snowflake**: Global Account Manager, Telco | US-WA-Bellevue | location: US-WA-Bellevue
   https://jobs.ashbyhq.com/snowflake/c67fe2e1-f4b6-44ae-989a-f6e9058cb1f2
 - **snowflake**: Majors Account Executive | KR-Seoul | location: KR-Seoul
@@ -3862,22 +3878,20 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://stripe.com/jobs/search?gh_jid=8284974
 - **stripe**: Account Executive - Platforms Hunter (French Fluency) | Dublin | location: Dublin
   https://stripe.com/jobs/search?gh_jid=8241292
-- **stripe**: Account Executive - SEA, Platforms (Grower) | Singapore | location: Singapore
-  https://stripe.com/jobs/search?gh_jid=8108891
 - **stripe**: Account Executive - Startup SaaS Platforms, Scaled UK Hunter | Dublin | location: Dublin
   https://stripe.com/jobs/search?gh_jid=8288876
+- **stripe**: Account Executive - Travel, Ticketing & Hospitality (Hunter)  | London | location: London
+  https://stripe.com/jobs/search?gh_jid=8284978
 - **stripe**: Account Executive Product - Billing (Japanese Fluency)  | Japan, Tokyo | location: Japan, Tokyo
   https://stripe.com/jobs/search?gh_jid=8188088
-- **stripe**: Account Executive Product - Fraud & Risk  | Chicago, Seattle, NYC, San Francisco, Remote  | location: Chicago, Seattle, NYC, San Francisco, Remote 
-  https://stripe.com/jobs/search?gh_jid=8181024
 - **stripe**: Account Executive Product - Fraud & Risk  | London OR Dublin | location: London OR Dublin
   https://stripe.com/jobs/search?gh_jid=8271657
+- **stripe**: Account Executive Product - Fraud & Risk  | Chicago, Seattle, NYC, San Francisco, Remote  | location: Chicago, Seattle, NYC, San Francisco, Remote 
+  https://stripe.com/jobs/search?gh_jid=8181024
 - **stripe**: Account Executive Product - Global Selling | Sydney Or Melbourne | location: Sydney Or Melbourne
   https://stripe.com/jobs/search?gh_jid=8174141
 - **stripe**: Account Executive Product - Link | SF, NYC, CHI, SEA | location: SF, NYC, CHI, SEA
   https://stripe.com/jobs/search?gh_jid=8189798
-- **stripe**: Account Executive Product - Tax | Singapore | location: Singapore
-  https://stripe.com/jobs/search?gh_jid=8175830
 - **stripe**: Account Executive, AI Sales | San Francisco, CA | location: San Francisco, CA
   https://stripe.com/jobs/search?gh_jid=8138044
 - **stripe**: Account Executive, AI Startups - Grower | San Francisco  | location: San Francisco 
@@ -3940,6 +3954,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://stripe.com/jobs/search?gh_jid=8222009
 - **stripe**: Account Executive, Platforms Hunter (German fluency) | Dublin | location: Dublin
   https://stripe.com/jobs/search?gh_jid=8129702
+- **stripe**: Account Executive, Platforms Large Users (Grower) | Sydney or Melbourne | location: Sydney or Melbourne
+  https://stripe.com/jobs/search?gh_jid=8330795
 - **stripe**: Account Executive, Product (Global Payouts - Hunter) | London OR Dublin | location: London OR Dublin
   https://stripe.com/jobs/search?gh_jid=8213481
 - **stripe**: Account Executive, Product (Payouts) - Hunter | London, Dublin | location: London, Dublin
@@ -3954,10 +3970,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://stripe.com/jobs/search?gh_jid=8238098
 - **stripe**: Account Executive, Product - Link | NYC, SF | location: NYC, SF
   https://stripe.com/jobs/search?gh_jid=8049828
-- **stripe**: Account Executive, Product - Local Payment Methods | Singapore | location: Singapore
-  https://stripe.com/jobs/search?gh_jid=8174160
 - **stripe**: Account Executive, Product - Local Payment Methods | US-CA | location: US-CA
   https://stripe.com/jobs/search?gh_jid=8190036
+- **stripe**: Account Executive, Product - Local Payment Methods | Singapore | location: Singapore
+  https://stripe.com/jobs/search?gh_jid=8174160
 - **stripe**: Account Executive, Product - Tax | London OR Dublin | location: London OR Dublin
   https://stripe.com/jobs/search?gh_jid=8196288
 - **stripe**: Account Executive, Product Sales (Billing) - Grower | Dublin | location: Dublin
@@ -3968,12 +3984,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://stripe.com/jobs/search?gh_jid=8113687
 - **stripe**: Account Executive, Product Sales (Data) | US-SF-HQ, US-NYC, US-CHI, US-SEA | location: US-SF-HQ, US-NYC, US-CHI, US-SEA
   https://stripe.com/jobs/search?gh_jid=8190059
-- **stripe**: Account Executive, Product Sales - Crypto | SF, NYC | location: SF, NYC
-  https://stripe.com/jobs/search?gh_jid=8190046
-- **stripe**: Account Executive, Product Sales - Currency Management | Singapore | location: Singapore
-  https://stripe.com/jobs/search?gh_jid=8175828
 - **stripe**: Account Executive, Product Sales - Currency Management | New York  | location: New York 
   https://stripe.com/jobs/search?gh_jid=8190416
+- **stripe**: Account Executive, Product Sales - Currency Management | Singapore | location: Singapore
+  https://stripe.com/jobs/search?gh_jid=8175828
 - **stripe**: Account Executive, Product Sales - Link | Singapore | location: Singapore
   https://stripe.com/jobs/search?gh_jid=8040940
 - **stripe**: Account Executive, Product Sales - Open Issuance | CHI, SF,NYC, SEA | location: CHI, SF,NYC, SEA
@@ -3990,6 +4004,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://stripe.com/jobs/search?gh_jid=8215758
 - **stripe**: Account Executive, Product Sales, Metronome | US-NYC | location: US-NYC
   https://stripe.com/jobs/search?gh_jid=8190042
+- **stripe**: Account Executive, Product Sales, Metronome | US-NYC | location: US-NYC
+  https://stripe.com/jobs/search?gh_jid=8154295
 - **stripe**: Account Executive, Product Sales, Metronome (Hunter)  | US-SF-HQ | location: US-SF-HQ
   https://stripe.com/jobs/search?gh_jid=8029043
 - **stripe**: Account Executive, Retail (Grower) | London | location: London
@@ -3999,21 +4015,21 @@ Title matched a sales style role but the location rule rejected it. Read these f
 - **stripe**: Account Executive, Startup Platforms (Grower) | Chicago, IL | location: Chicago, IL
   https://stripe.com/jobs/search?gh_jid=8237540
 - **stripe**: Account Executive, Startups (Grower) | San Francisco | location: San Francisco
-  https://stripe.com/jobs/search?gh_jid=8128552
-- **stripe**: Account Executive, Startups (Grower) | San Francisco | location: San Francisco
   https://stripe.com/jobs/search?gh_jid=8280266
+- **stripe**: Account Executive, Startups (Grower) | San Francisco | location: San Francisco
+  https://stripe.com/jobs/search?gh_jid=8128552
 - **stripe**: Account Executive, Startups Platforms Scaled Grower (French fluency) | Dublin | location: Dublin
   https://stripe.com/jobs/search?gh_jid=8119498
 - **stripe**: Account Executive, UK Commercial Hunter | London or Dublin | location: London or Dublin
   https://stripe.com/jobs/search?gh_jid=8130729
 - **stripe**: Account Executive, Velocity Platforms (Hunter) | New York, NY | location: New York, NY
   https://stripe.com/jobs/search?gh_jid=8304836
-- **stripe**: Account Executive, Velocity Platforms (Hunter) | Chicago, IL | location: Chicago, IL
-  https://stripe.com/jobs/search?gh_jid=8267841
 - **stripe**: Account Executive, Velocity Platforms (Hunter) | Chicago, IL; New York, NY; San Francisco, CA | location: Chicago, IL; New York, NY; San Francisco, CA
   https://stripe.com/jobs/search?gh_jid=8267839
 - **stripe**: Account Executive, Velocity Platforms (Hunter) | San Francisco, CA | location: San Francisco, CA
   https://stripe.com/jobs/search?gh_jid=8304841
+- **stripe**: Account Executive, Velocity Platforms (Hunter) | Chicago, IL | location: Chicago, IL
+  https://stripe.com/jobs/search?gh_jid=8267841
 - **stripe**: Account Executive, Velocity Scaled Grower (Italian or Spanish fluency) | Dublin | location: Dublin
   https://stripe.com/jobs/search?gh_jid=8241345
 - **stripe**: Account Executive, hunter | London | location: London
@@ -4022,16 +4038,18 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://stripe.com/jobs/search?gh_jid=8195584
 - **stripe**: Channel Sales Executive, SaaS Platforms | Chicago | location: Chicago
   https://stripe.com/jobs/search?gh_jid=8126984
+- **stripe**: Customer Success Enablement Business Partner | San Francisco; Seattle; Remote | location: San Francisco; Seattle; Remote
+  https://stripe.com/jobs/search?gh_jid=8293770
 - **stripe**: Customer Success Leader (Greater China) | Singapore | location: Singapore
   https://stripe.com/jobs/search?gh_jid=8175834
 - **stripe**: Customer Success Manager | Chicago, IL; Atlanta, GA | location: Chicago, IL; Atlanta, GA
   https://stripe.com/jobs/search?gh_jid=6558993
 - **stripe**: Customer Success Manager  | London | location: London
   https://stripe.com/jobs/search?gh_jid=8170772
-- **stripe**: Customer Success Manager, Enterprise | Chicago, US | location: Chicago, US
-  https://stripe.com/jobs/search?gh_jid=8208521
 - **stripe**: Customer Success Manager, Enterprise | New York, NY; Seattle, WA; San Francisco, CA; Chicago, IL; Atlanta, GA | location: New York, NY; Seattle, WA; San Francisco, CA; Chicago, IL; A
   https://stripe.com/jobs/search?gh_jid=8178692
+- **stripe**: Customer Success Manager, Enterprise | Chicago, US | location: Chicago, US
+  https://stripe.com/jobs/search?gh_jid=8208521
 - **stripe**: Customer Success Manager, RFA | Chicago, IL | location: Chicago, IL
   https://stripe.com/jobs/search?gh_jid=8194289
 - **stripe**: Customer Success Manager, Radar | Chicago, IL; Atlanta, GA; San Francisco, CA; Seattle, WA; New York, NY | location: Chicago, IL; Atlanta, GA; San Francisco, CA; Seattle, WA; Ne
@@ -4080,8 +4098,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://stripe.com/jobs/search?gh_jid=8191710
 - **stripe**: Sales Manager, Enterprise (Grower) | Paris | location: Paris
   https://stripe.com/jobs/search?gh_jid=8176737
-- **stripe**: Sales Manager, Enterprise - Growth | US-Chicago | location: US-Chicago
-  https://stripe.com/jobs/search?gh_jid=8191714
 - **stripe**: Sales Manager, Enterprise CEE | Warsaw, Poland | location: Warsaw, Poland
   https://stripe.com/jobs/search?gh_jid=8176724
 - **stripe**: Sales Manager, Enterprise Hunter - Public Sector  | US-Remote, US-Chicago, US-New York, US-San Francisco | location: US-Remote, US-Chicago, US-New York, US-San Francisco
@@ -4122,8 +4138,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://sumup.com/careers/positions/8870663002?gh_jid=8870663002
 - **sumup**: Customer Success Management Manager - LATAM | Santiago, Chile | location: Santiago, Chile
   https://sumup.com/careers/positions/8908730002?gh_jid=8908730002
-- **sumup**: Field Sales Executive | Leeds, England, United Kingdom | location: Leeds, England, United Kingdom
-  https://sumup.com/careers/positions/8456531002?gh_jid=8456531002
+- **sumup**: Field Sales Executive | Sheffield, England, United Kingdom | location: Sheffield, England, United Kingdom
+  https://sumup.com/careers/positions/8456566002?gh_jid=8456566002
 - **sumup**: Field Sales Executive | Colchester, England, United Kingdom | location: Colchester, England, United Kingdom
   https://sumup.com/careers/positions/7786771002?gh_jid=7786771002
 - **sumup**: Field Sales Executive | Norwich, England, United Kingdom | location: Norwich, England, United Kingdom
@@ -4156,6 +4172,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://sumup.com/careers/positions/8381301002?gh_jid=8381301002
 - **sumup**: Field Sales Executive | Hull, England, United Kingdom | location: Hull, England, United Kingdom
   https://sumup.com/careers/positions/8456529002?gh_jid=8456529002
+- **sumup**: Field Sales Executive | Leeds, England, United Kingdom | location: Leeds, England, United Kingdom
+  https://sumup.com/careers/positions/8456531002?gh_jid=8456531002
 - **sumup**: Field Sales Executive | York, England, United Kingdom | location: York, England, United Kingdom
   https://sumup.com/careers/positions/8456534002?gh_jid=8456534002
 - **sumup**: Field Sales Executive | Bradford, England, United Kingdom | location: Bradford, England, United Kingdom
@@ -4164,8 +4182,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://sumup.com/careers/positions/8456541002?gh_jid=8456541002
 - **sumup**: Field Sales Executive | Nottingham, England, United Kingdom | location: Nottingham, England, United Kingdom
   https://sumup.com/careers/positions/8456554002?gh_jid=8456554002
-- **sumup**: Field Sales Executive | Sheffield, England, United Kingdom | location: Sheffield, England, United Kingdom
-  https://sumup.com/careers/positions/8456566002?gh_jid=8456566002
 - **sumup**: Field Sales Executive | Oxford, England, United Kingdom | location: Oxford, England, United Kingdom
   https://sumup.com/careers/positions/8493810002?gh_jid=8493810002
 - **sumup**: Field Sales Executive | Cambridge, England, United Kingdom | location: Cambridge, England, United Kingdom
@@ -4180,10 +4196,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://sumup.com/careers/positions/8644570002?gh_jid=8644570002
 - **sumup**: Field Sales Executive | Belfast, Northern Ireland, United Kingdom | location: Belfast, Northern Ireland, United Kingdom
   https://sumup.com/careers/positions/7786542002?gh_jid=7786542002
-- **sumup**: Field Sales Executive  | Newcastle upon Tyne, England, United Kingdom | location: Newcastle upon Tyne, England, United Kingdom
-  https://sumup.com/careers/positions/8905985002?gh_jid=8905985002
 - **sumup**: Field Sales Executive  | Darlington, England, United Kingdom | location: Darlington, England, United Kingdom
   https://sumup.com/careers/positions/8642839002?gh_jid=8642839002
+- **sumup**: Field Sales Executive  | Newcastle upon Tyne, England, United Kingdom | location: Newcastle upon Tyne, England, United Kingdom
+  https://sumup.com/careers/positions/8905985002?gh_jid=8905985002
 - **sumup**: Field Sales Executive  | Durham, England, United Kingdom | location: Durham, England, United Kingdom
   https://sumup.com/careers/positions/8905986002?gh_jid=8905986002
 - **sumup**: Field Sales Executive  | Middlesbrough, England, United Kingdom | location: Middlesbrough, England, United Kingdom
@@ -4200,8 +4216,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://sumup.com/careers/positions/8605639002?gh_jid=8605639002
 - **sumup**: Territory Sales Manager  | Copenhagen, Denmark | location: Copenhagen, Denmark
   https://sumup.com/careers/positions/8192637002?gh_jid=8192637002
-- **swile**: Channels Sales Executive (Norte, Nordeste & Centro-Oeste) | Minas Gerais | location: Minas Gerais
+- **swile**: Channels Sales Executive (Norte, Nordeste & Centro-Oeste) | Fortaleza, Brasil | location: Fortaleza, Brasil
   https://jobs.lever.co/swile/8e1d4bc8-a69b-45a6-a413-010007487383
+- **swile**: Channels Sales Executive (São Paulo) | Brasil | location: Brasil
+  https://jobs.lever.co/swile/b2046869-eb08-4851-b8cd-15618c2082f3
 - **swile**: Sales Executive (Farmer) Large | Enterprise - SP | São Paulo, Brazil | location: São Paulo, Brazil
   https://jobs.lever.co/swile/3a3c4dbb-2f80-43e8-9db5-31ba504de2fd
 - **swile**: Sales Executive Middle Market (Rio de Janeiro) | Rio de Janeiro, Brasil | location: Rio de Janeiro, Brasil
@@ -4232,6 +4250,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/tailscale/jobs/4744215005
 - **tailscale**: Strategic Enterprise Account Executive | Remote (United States) | location: Remote (United States)
   https://job-boards.greenhouse.io/tailscale/jobs/4744879005
+- **temporal**: Account Executive, Commercial New Logo  | United Kingdom (Remote) | location: United Kingdom (Remote)
+  https://jobs.ashbyhq.com/temporal/5a07f642-b790-4511-b637-2e81e16399aa
 - **temporal**: Account Executive, EMEA | Paris, France (remote) | location: Paris, France (remote)
   https://jobs.ashbyhq.com/temporal/8d36eacb-61cf-466d-ba9a-d5849d3312eb
 - **temporal**: Enterprise Account Executive  | London, England (remote) | location: London, England (remote)
@@ -4288,6 +4308,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/twilio/jobs/8209103
 - **twilio**: New Business Account Executive | Remote - Japan | location: Remote - Japan
   https://job-boards.greenhouse.io/twilio/jobs/8125581
+- **twilio**: New Business Account Executive | Remote - United Kingdom | location: Remote - United Kingdom
+  https://job-boards.greenhouse.io/twilio/jobs/8327527
 - **twilio**: New Business Account Executive  | Remote - Singapore | location: Remote - Singapore
   https://job-boards.greenhouse.io/twilio/jobs/6372770
 - **twilio**: New Business Account Executive (German speaker) | Remote - United Kingdom | location: Remote - United Kingdom
@@ -4304,16 +4326,16 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/twilio/jobs/8185629
 - **twilio**: Strategic Account Excecutive | Remote - Mexico | location: Remote - Mexico
   https://job-boards.greenhouse.io/twilio/jobs/8076981
-- **twilio**: Strategic Account Executive | Remote - Australia | location: Remote - Australia
-  https://job-boards.greenhouse.io/twilio/jobs/8330326
-- **twilio**: Strategic Account Executive | Remote - United Kingdom | location: Remote - United Kingdom
-  https://job-boards.greenhouse.io/twilio/jobs/7785025
 - **twilio**: Strategic Account Executive | Remote - Singapore | location: Remote - Singapore
   https://job-boards.greenhouse.io/twilio/jobs/8178812
 - **twilio**: Strategic Account Executive | Remote - United Kingdom | location: Remote - United Kingdom
-  https://job-boards.greenhouse.io/twilio/jobs/8160532
-- **twilio**: Strategic Account Executive | Remote - United Kingdom | location: Remote - United Kingdom
   https://job-boards.greenhouse.io/twilio/jobs/8243069
+- **twilio**: Strategic Account Executive | Remote - United Kingdom | location: Remote - United Kingdom
+  https://job-boards.greenhouse.io/twilio/jobs/7785025
+- **twilio**: Strategic Account Executive | Remote - United Kingdom | location: Remote - United Kingdom
+  https://job-boards.greenhouse.io/twilio/jobs/8160532
+- **twilio**: Strategic Account Executive | Remote - Australia | location: Remote - Australia
+  https://job-boards.greenhouse.io/twilio/jobs/8330326
 - **twilio**: Strategic Account Executive 4 | Remote - US | location: Remote - US
   https://job-boards.greenhouse.io/twilio/jobs/8056267
 - **twilio**: Strategic Account Executive 4 - Regverts | Remote - US | location: Remote - US
@@ -4338,8 +4360,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://jobs.ashbyhq.com/vanta/db79e344-6222-4377-b674-8117ea4d1817
 - **vanta**: Account Executive, Growth - France | London, UK (remote) | location: London, UK (remote)
   https://jobs.ashbyhq.com/vanta/102dbbdc-882a-4bcf-bf69-ec9fe9351a29
-- **vanta**: Account Executive, Growth - UK&I | Dublin, Ireland | location: Dublin, Ireland
-  https://jobs.ashbyhq.com/vanta/fb60fcb9-6a5f-45d4-988d-a7a36c798724
 - **vanta**: Account Executive, SLED Government - Mountain West | Denver, CO | location: Denver, CO
   https://jobs.ashbyhq.com/vanta/03199be5-023c-46b6-97c8-6c568afe9514
 - **vanta**: Account Executive, SLED Government - South | Austin, TX | location: Austin, TX
@@ -4380,8 +4400,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/vercel/jobs/5825469004
 - **vercel**: Strategic Product Partnerships Lead | Hybrid - San Francisco, New York City, Austin | location: Hybrid - San Francisco, New York City, Austin
   https://job-boards.greenhouse.io/vercel/jobs/6188898004
-- **vercel**: Strategic Sourcing Manager | Hybrid - San Francisco | location: Hybrid - San Francisco
-  https://job-boards.greenhouse.io/vercel/jobs/6163582004
 - **wizinc**: Director, Strategic Partners - TCS | Remote - USA | location: Remote - USA
   https://www.wiz.io/careers/job/4712009006/:title?gh_jid=4712009006
 - **wizinc**: Enterprise Account Executive | Paris, France | location: Paris, France
@@ -4406,8 +4424,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.wiz.io/careers/job/4717735006/:title?gh_jid=4717735006
 - **wizinc**: Growth Account Executive - West | Remote - USA | location: Remote - USA
   https://www.wiz.io/careers/job/4722998006/:title?gh_jid=4722998006
-- **wizinc**: Head of Strategic Programs Operations | Remote - USA | location: Remote - USA
-  https://www.wiz.io/careers/job/4720248006/:title?gh_jid=4720248006
 - **wizinc**: Majors Account Executive - Conglomerates, West India | Mumbai, India | location: Mumbai, India
   https://www.wiz.io/careers/job/4712673006/:title?gh_jid=4712673006
 - **wizinc**: Majors Account Executive, PNW | Seattle, Washington | location: Seattle, Washington
@@ -4432,32 +4448,30 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://www.wiz.io/careers/job/4703063006/:title?gh_jid=4703063006
 - **wizinc**: Regional Partner Manager, UK | London, UK; Remote - United Kingdom | location: London, UK; Remote - United Kingdom
   https://www.wiz.io/careers/job/4705349006/:title?gh_jid=4705349006
-- **workato**: Account Executive | Amsterdam, Netherlands | location: Amsterdam, Netherlands
-  https://www.workato.com/careers?gh_jid=8284777002#open-roles
 - **workato**: Account Executive | Tokyo, Japan | location: Tokyo, Japan
   https://www.workato.com/careers?gh_jid=8921187002#open-roles
+- **workato**: Account Executive | Amsterdam, Netherlands | location: Amsterdam, Netherlands
+  https://www.workato.com/careers?gh_jid=8284777002#open-roles
 - **workato**: Account Manager | New York, New York | location: New York, New York
   https://www.workato.com/careers?gh_jid=8731391002#open-roles
 - **workato**: Chief Strategic Architect | London, United Kingdom | location: London, United Kingdom
-  https://www.workato.com/careers?gh_jid=8619069002#open-roles
-- **workato**: Chief Strategic Architect | London, United Kingdom | location: London, United Kingdom
   https://www.workato.com/careers?gh_jid=8687306002#open-roles
+- **workato**: Chief Strategic Architect | London, United Kingdom | location: London, United Kingdom
+  https://www.workato.com/careers?gh_jid=8619069002#open-roles
 - **workato**: Commercial Account Executive | San Francisco, California | location: San Francisco, California
   https://www.workato.com/careers?gh_jid=8901398002#open-roles
 - **workato**: Director, Product Management (Platform, Security & Enterprise Readiness) | Palo Alto, California | location: Palo Alto, California
   https://www.workato.com/careers?gh_jid=8497003002#open-roles
-- **workato**: Enterprise Account Executive | Sydney, Australia | location: Sydney, Australia
-  https://www.workato.com/careers?gh_jid=8716940002#open-roles
 - **workato**: Enterprise Account Executive | Singapore | location: Singapore
   https://www.workato.com/careers?gh_jid=8204080002#open-roles
+- **workato**: Enterprise Account Executive | Sydney, Australia | location: Sydney, Australia
+  https://www.workato.com/careers?gh_jid=8716940002#open-roles
 - **workato**: Enterprise Account Executive | London, United Kingdom | location: London, United Kingdom
   https://www.workato.com/careers?gh_jid=8555874002#open-roles
 - **workato**: Enterprise Development Representative | Dublin, Ireland | location: Dublin, Ireland
   https://www.workato.com/careers?gh_jid=8904556002#open-roles
 - **workato**: Global Account Director | Tokyo, Japan | location: Tokyo, Japan
   https://www.workato.com/careers?gh_jid=8720210002#open-roles
-- **workato**: Manager, Commercial Customer Success | Bangalore, India; Chennai, India; Hyderabad, India | location: Bangalore, India; Chennai, India; Hyderabad, India
-  https://www.workato.com/careers?gh_jid=8896169002#open-roles
 - **workato**: Partner Sales Manager | Seoul, South Korea | location: Seoul, South Korea
   https://www.workato.com/careers?gh_jid=8568182002#open-roles
 - **workato**: Partner Sales Manager | Tokyo, Japan | location: Tokyo, Japan
@@ -4500,8 +4514,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/wrike/jobs/4652994005
 - **wrike**: Strategic Account Executive 8 | US - Remote | location: US - Remote
   https://job-boards.greenhouse.io/wrike/jobs/4745689005
-- **yext**: Customer Success Manager, Enterprise - Healthcare | Chicago, IL | location: Chicago, IL
-  https://job-boards.greenhouse.io/yext/jobs/8046381
 - **yext**: Director, Enterprise Sales | Paris, France | location: Paris, France
   https://job-boards.greenhouse.io/yext/jobs/7705068
 - **yext**: RVP, Enterprise Sales  | London, UK  | location: London, UK 
@@ -4522,6 +4534,8 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/zscaler/jobs/5246304007
 - **zscaler**: Account Executive - Fed Civilian | Remote - D.C., USA | location: Remote - D.C., USA
   https://job-boards.greenhouse.io/zscaler/jobs/5207284007
+- **zscaler**: Account Executive - Higher Education - SLED - Mid-Atlantic | Remote - Maryland, USA; Remote - Pennsylvania, USA; Remote - Virginia, USA | location: Remote - Maryland, USA; Remote - Pennsylvania, USA; Remote -
+  https://job-boards.greenhouse.io/zscaler/jobs/5173192007
 - **zscaler**: Account Executive - Majors | Mumbai, IND | location: Mumbai, IND
   https://job-boards.greenhouse.io/zscaler/jobs/5272056007
 - **zscaler**: Account Executive - Majors - Ohio | Remote - Ohio, USA | location: Remote - Ohio, USA
@@ -4531,9 +4545,9 @@ Title matched a sales style role but the location rule rejected it. Read these f
 - **zscaler**: Account Executive - Majors, Florida | Remote - Florida, USA | location: Remote - Florida, USA
   https://job-boards.greenhouse.io/zscaler/jobs/5249657007
 - **zscaler**: Account Executive - Strategic（大手顧客担当） | Tokyo, JPN | location: Tokyo, JPN
-  https://job-boards.greenhouse.io/zscaler/jobs/5202975007
-- **zscaler**: Account Executive - Strategic（大手顧客担当） | Tokyo, JPN | location: Tokyo, JPN
   https://job-boards.greenhouse.io/zscaler/jobs/5156033007
+- **zscaler**: Account Executive - Strategic（大手顧客担当） | Tokyo, JPN | location: Tokyo, JPN
+  https://job-boards.greenhouse.io/zscaler/jobs/5202975007
 - **zscaler**: Account Executive, Commercial | Tokyo, JPN | location: Tokyo, JPN
   https://job-boards.greenhouse.io/zscaler/jobs/5215890007
 - **zscaler**: Account Executive, Commercial (Nagoya) | Remote - Japan | location: Remote - Japan
@@ -4545,9 +4559,9 @@ Title matched a sales style role but the location rule rejected it. Read these f
 - **zscaler**: Account Executive, Commercial - Ohio | Remote - Ohio, USA | location: Remote - Ohio, USA
   https://job-boards.greenhouse.io/zscaler/jobs/5273283007
 - **zscaler**: Account Executive, Enterprise | Tokyo, JPN | location: Tokyo, JPN
-  https://job-boards.greenhouse.io/zscaler/jobs/5251774007
-- **zscaler**: Account Executive, Enterprise | Tokyo, JPN | location: Tokyo, JPN
   https://job-boards.greenhouse.io/zscaler/jobs/5251772007
+- **zscaler**: Account Executive, Enterprise | Tokyo, JPN | location: Tokyo, JPN
+  https://job-boards.greenhouse.io/zscaler/jobs/5251774007
 - **zscaler**: Account Executive, Enterprise | Tokyo, JPN | location: Tokyo, JPN
   https://job-boards.greenhouse.io/zscaler/jobs/5233183007
 - **zscaler**: Account Executive, Enterprise - AI | Tokyo, JPN | location: Tokyo, JPN
@@ -4564,11 +4578,13 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/zscaler/jobs/5164504007
 - **zscaler**: Account Executive, Majors（製造業） | Tokyo, JPN | location: Tokyo, JPN
   https://job-boards.greenhouse.io/zscaler/jobs/5119845007
+- **zscaler**: Account Executive- Commercial  | Mumbai, IND | location: Mumbai, IND
+  https://job-boards.greenhouse.io/zscaler/jobs/5276812007
 - **zscaler**: Cloud Sales Account Executive | Melbourne, AUS; Sydney, AUS | location: Melbourne, AUS; Sydney, AUS
   https://job-boards.greenhouse.io/zscaler/jobs/5252246007
 - **zscaler**: Commercial Account Executive  | United Kingdom - Update Location | location: United Kingdom - Update Location
   https://job-boards.greenhouse.io/zscaler/jobs/5230419007
-- **zscaler**: Commercial Account Executive 2 | Remote - Illinois, USA | location: Remote - Illinois, USA
+- **zscaler**: Commercial Account Executive 2 | Remote - Illinois, USA; Remote - Texas, USA | location: Remote - Illinois, USA; Remote - Texas, USA
   https://job-boards.greenhouse.io/zscaler/jobs/5244295007
 - **zscaler**: Commercial Account Executive, UK/I  | City of London Corporation, GBR | location: City of London Corporation, GBR
   https://job-boards.greenhouse.io/zscaler/jobs/5230417007
@@ -4578,10 +4594,6 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/zscaler/jobs/5242463007
 - **zscaler**: Partner Sales Specialist - Tech Alliances  | Remote - New York, USA; Remote - Texas, USA; Remote - USA | location: Remote - New York, USA; Remote - Texas, USA; Remote - USA
   https://job-boards.greenhouse.io/zscaler/jobs/5242465007
-- **zscaler**: Product Sales Account Executive | Mumbai, IND | location: Mumbai, IND
-  https://job-boards.greenhouse.io/zscaler/jobs/5219181007
-- **zscaler**: Product Sales Account Executive  | Canada - Update Location | location: Canada - Update Location
-  https://job-boards.greenhouse.io/zscaler/jobs/5241329007
 - **zscaler**: Regional Director, Enterprise UK | City of London Corporation, GBR | location: City of London Corporation, GBR
   https://job-boards.greenhouse.io/zscaler/jobs/5255298007
 - **zscaler**: Regional Sales Director, Enterprise - Texas | Dallas, Texas, USA | location: Dallas, Texas, USA
@@ -4594,14 +4606,12 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/zscaler/jobs/5209068007
 - **zscaler**: Sales Account Executive - Enterprise  | Remote - USA | location: Remote - USA
   https://job-boards.greenhouse.io/zscaler/jobs/4656399007
-- **zscaler**: Sales Account Executive - FED Civilian | Remote - D.C., USA | location: Remote - D.C., USA
-  https://job-boards.greenhouse.io/zscaler/jobs/5254620007
 - **zscaler**: Sales Account Executive - FED DoW - Army | Remote - California, USA; Remote - D.C., USA; Remote - Hawaii, USA; Remote - North Carolina, USA | location: Remote - California, USA; Remote - D.C., USA; Remote - Hawai
   https://job-boards.greenhouse.io/zscaler/jobs/5225785007
-- **zscaler**: Sales Account Executive - Majors | Remote - California, USA | location: Remote - California, USA
-  https://job-boards.greenhouse.io/zscaler/jobs/5259370007
 - **zscaler**: Sales Account Executive - Majors | Remote - USA | location: Remote - USA
   https://job-boards.greenhouse.io/zscaler/jobs/4662814007
+- **zscaler**: Sales Account Executive - Majors | Remote - California, USA | location: Remote - California, USA
+  https://job-boards.greenhouse.io/zscaler/jobs/5259370007
 - **zscaler**: Sales Account Executive - SLED - Mid-Atlantic and Carolinas | Remote - Maryland, USA; Remote - North Carolina, USA; Remote - Virginia, USA | location: Remote - Maryland, USA; Remote - North Carolina, USA; Remote
   https://job-boards.greenhouse.io/zscaler/jobs/5249655007
 - **zscaler**: Sales Account Executive - SLED - South Florida | Remote - Florida, USA | location: Remote - Florida, USA
@@ -4610,10 +4620,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/zscaler/jobs/5234995007
 - **zscaler**: Sales Account Executive 2 - Enterprise | Remote - Netherlands | location: Remote - Netherlands
   https://job-boards.greenhouse.io/zscaler/jobs/5189009007
-- **zscaler**: Sales Account Executive, Enterprise | City of London Corporation, GBR | location: City of London Corporation, GBR
-  https://job-boards.greenhouse.io/zscaler/jobs/5251674007
 - **zscaler**: Sales Account Executive, Enterprise | Ville de Paris, FRA | location: Ville de Paris, FRA
   https://job-boards.greenhouse.io/zscaler/jobs/5197823007
+- **zscaler**: Sales Account Executive, Enterprise | City of London Corporation, GBR | location: City of London Corporation, GBR
+  https://job-boards.greenhouse.io/zscaler/jobs/5251674007
 - **zscaler**: Sales Account Executive, Majors | City of London Corporation, GBR | location: City of London Corporation, GBR
   https://job-boards.greenhouse.io/zscaler/jobs/5232094007
 - **zscaler**: Sales Account Executive, Majors | Remote - Sweden | location: Remote - Sweden
@@ -4624,6 +4634,10 @@ Title matched a sales style role but the location rule rejected it. Read these f
   https://job-boards.greenhouse.io/zscaler/jobs/5246299007
 - **zscaler**: Specialist Account Executive - AI Security | Remote - USA | location: Remote - USA
   https://job-boards.greenhouse.io/zscaler/jobs/5260493007
+- **zscaler**: Specialist Account Executive - AI Security | Mumbai, IND | location: Mumbai, IND
+  https://job-boards.greenhouse.io/zscaler/jobs/5219181007
+- **zscaler**: Specialist Account Executive - Data Security | Canada - Update Location | location: Canada - Update Location
+  https://job-boards.greenhouse.io/zscaler/jobs/5241329007
 - **zscaler**: Specialist Account Executive, SecOps - Commercial, IL/OH/CO | Remote - Colorado, USA; Remote - Illinois, USA; Remote - Ohio, USA | location: Remote - Colorado, USA; Remote - Illinois, USA; Remote - Ohi
   https://job-boards.greenhouse.io/zscaler/jobs/5216237007
 - **zscaler**: Specialist Account Executive, SecOps - Enterprise, PA/MD/VA/DC/Fed | Remote - Maryland, USA; Remote - Pennsylvania, USA; Remote - Virginia, USA | location: Remote - Maryland, USA; Remote - Pennsylvania, USA; Remote -
