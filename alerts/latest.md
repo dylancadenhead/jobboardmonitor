@@ -1,20 +1,11 @@
-# Board scan 2026-11-07
+# Board scan 2026-11-08
 
-Boards checked: 119 of 121. Postings read: 15875. Title matches kept: 431. New: 5. Closed: 11.
+Boards checked: 119 of 121. Postings read: 15874. Title matches kept: 431. New: 0. Closed: 0.
 
-## New since last run (5)
-- **kaseya**: Account Manager DACH Market | Munich, Germany, posted 2026-11-06
-  https://www.kaseya.com/careers/jobs/id/6251483004/?gh_jid=6251483004
-- **parloa**: Strategic Engagement Manager | Berlin; Munich; London (remote), posted 2026-11-06
-  https://jobs.ashbyhq.com/parloa/658073b5-f4d6-4294-b552-e4eba3cc01b5
-- **samsara**: Enterprise Customer Success Manager | Remote - Germany, posted 2026-11-06
-  https://www.samsara.com/company/careers/roles/8359136?gh_jid=8359136
-- **samsara**: Enterprise Implementation Consultant - Public Sector | Remote - GA, posted 2026-11-06 (generic remote or EMEA, confirm Spain on the job page)
-  https://www.samsara.com/company/careers/roles/8360093?gh_jid=8360093
-- **supabase**: GTM, Strategic Planning  | Remote, Global, posted 2026-11-06 (generic remote or EMEA, confirm Spain on the job page)
-  https://jobs.ashbyhq.com/supabase/1dfafad5-e177-4d31-bc94-e8b6d0a7a046
+## New since last run (0)
+- none
 
-## Still open (426)
+## Still open (431)
 - **1password**: Account Executive Enterprise DACH | Germany (remote), posted 2026-09-29
   https://jobs.ashbyhq.com/1password/17daeab3-9eb2-439c-88d3-91afd8dd2c63
 - **6sense**: Business Solutions Partner - Enterprise AI | Costa Rica, Remote, posted 2026-10-29
@@ -253,10 +244,10 @@ Boards checked: 119 of 121. Postings read: 15875. Title matches kept: 431. New: 
   https://databricks.com/company/careers/open-positions/job?gh_jid=8871482002
 - **databricks**: Strategic Account Executive, Transportation and Logistics | Remote - Denmark, posted 2026-08-25
   https://databricks.com/company/careers/open-positions/job?gh_jid=8736883002
-- **databricks**: Strategic Core Account Executive | Remote - Virginia; Remote - Washington D.C., posted 2026-10-20
-  https://databricks.com/company/careers/open-positions/job?gh_jid=8902939002
 - **databricks**: Strategic Core Account Executive | Madrid, posted 2026-11-03
   https://databricks.com/company/careers/open-positions/job?gh_jid=8883463002
+- **databricks**: Strategic Core Account Executive | Remote - Virginia; Remote - Washington D.C., posted 2026-10-20
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8902939002
 - **databricks**: Strategic Core Account Executive - Automotive | Baden-Württemberg, Germany, posted 2026-10-22
   https://databricks.com/company/careers/open-positions/job?gh_jid=8903089002
 - **databricks**: Strategic Core Account Executive - Automotive/OEM | Munich, Germany, posted 2026-07-30
@@ -383,6 +374,8 @@ Boards checked: 119 of 121. Postings read: 15875. Title matches kept: 431. New: 
   https://jobs.lever.co/jobandtalent/f8e6206c-bca6-40c7-ad95-b1826dccc547
 - **kaseya**: Account Manager | Munich, Germany, posted 2026-11-05
   https://www.kaseya.com/careers/jobs/id/6250465004/?gh_jid=6250465004
+- **kaseya**: Account Manager DACH Market | Munich, Germany, posted 2026-11-06
+  https://www.kaseya.com/careers/jobs/id/6251483004/?gh_jid=6251483004
 - **klaviyo**: Large Enterprise, Account Executive | Munich, DE, posted 2026-10-15
   https://www.klaviyo.com/careers/jobs/8019632003?gh_jid=8019632003
 - **kong**: Enterprise Account Executive | Indonesia (remote), posted 2026-07-24
@@ -525,6 +518,8 @@ Boards checked: 119 of 121. Postings read: 15875. Title matches kept: 431. New: 
   https://jobs.ashbyhq.com/parloa/712431eb-e8f0-41c8-8170-e141d929f640
 - **parloa**: Senior Partnerships Sales Manager (Eastern Europe) | Germany Remote; Munich; Berlin, posted 2026-10-06
   https://jobs.ashbyhq.com/parloa/98176241-006f-43d1-a418-10100d0774fd
+- **parloa**: Strategic Engagement Manager | Berlin; Munich; London (remote), posted 2026-11-06
+  https://jobs.ashbyhq.com/parloa/658073b5-f4d6-4294-b552-e4eba3cc01b5
 - **payhawkio**: Account Executive (Italian & Spanish Market) | Barcelona, posted 2024-07-19
   https://job-boards.eu.greenhouse.io/payhawkio/jobs/4367152101
 - **payhawkio**: Account Executive - DACH | Berlin, posted 2023-07-12
@@ -705,10 +700,14 @@ Boards checked: 119 of 121. Postings read: 15875. Title matches kept: 431. New: 
   https://www.samsara.com/company/careers/roles/8306291?gh_jid=8306291
 - **samsara**: Enterprise Core Customer Success Manager | Remote - FL; Remote - GA; Remote - NC; Remote - NV; Remote - PA; Remote - TX, posted 2026-09-02
   https://www.samsara.com/company/careers/roles/8173658?gh_jid=8173658
+- **samsara**: Enterprise Customer Success Manager | Remote - Germany, posted 2026-11-06
+  https://www.samsara.com/company/careers/roles/8359136?gh_jid=8359136
 - **samsara**: Enterprise Customer Success Manager - Public Sector | Remote - AZ; Remote - Dallas; Remote - FL; Remote - GA; Remote - Houston; Remote - PA; Remote - TX, posted 2026-08-14
   https://www.samsara.com/company/careers/roles/8029099?gh_jid=8029099
 - **samsara**: Enterprise Customer Success Manager - Public Sector | Remote - CA; Remote - TX; Remote - WA, posted 2026-09-24
   https://www.samsara.com/company/careers/roles/8227725?gh_jid=8227725
+- **samsara**: Enterprise Implementation Consultant - Public Sector | Remote - GA, posted 2026-11-06
+  https://www.samsara.com/company/careers/roles/8360093?gh_jid=8360093
 - **samsara**: Manager, Customer Success Account Management | Remote - CA; Remote - IL; Remote - TX; Remote - WA, posted 2026-10-22
   https://www.samsara.com/company/careers/roles/8232209?gh_jid=8232209
 - **samsara**: Manager, Enterprise Collections | Remote - AL, posted 2026-10-01
@@ -785,16 +784,16 @@ Boards checked: 119 of 121. Postings read: 15875. Title matches kept: 431. New: 
   https://sumup.com/careers/positions/8507799002?gh_jid=8507799002
 - **sumup**: Field Sales Manager (m/w/d) | Düsseldorf, North Rhine-Westphalia, Germany, posted 2025-07-31
   https://sumup.com/careers/positions/8082062002?gh_jid=8082062002
+- **sumup**: Field Sales Manager (m/w/d) | Münster, North Rhine-Westphalia, Germany, posted 2026-03-18
+  https://sumup.com/careers/positions/8468108002?gh_jid=8468108002
 - **sumup**: Field Sales Manager (m/w/d) | Dortmund, North Rhine-Westphalia, Germany, posted 2025-08-19
   https://sumup.com/careers/positions/8126118002?gh_jid=8126118002
+- **sumup**: Field Sales Manager (m/w/d) | Aachen, North Rhine-Westphalia, Germany, posted 2025-12-02
+  https://sumup.com/careers/positions/8317464002?gh_jid=8317464002
 - **sumup**: Field Sales Manager (m/w/d) | Cologne, Germany, posted 2025-07-31
   https://sumup.com/careers/positions/8082105002?gh_jid=8082105002
 - **sumup**: Field Sales Manager (m/w/d) | Duisburg, North Rhine-Westphalia, Germany, posted 2025-12-12
   https://sumup.com/careers/positions/8331798002?gh_jid=8331798002
-- **sumup**: Field Sales Manager (m/w/d) | Münster, North Rhine-Westphalia, Germany, posted 2026-03-18
-  https://sumup.com/careers/positions/8468108002?gh_jid=8468108002
-- **sumup**: Field Sales Manager (m/w/d) | Aachen, North Rhine-Westphalia, Germany, posted 2025-12-02
-  https://sumup.com/careers/positions/8317464002?gh_jid=8317464002
 - **sumup**: Sales Manager (m/w/d) | Berlin, Germany, posted 2026-07-20
   https://sumup.com/careers/positions/8640268002?gh_jid=8640268002
 - **sumup**: Strategic Sourcing Manager- Hardware | Berlin, Germany, posted 2026-10-23
@@ -807,6 +806,8 @@ Boards checked: 119 of 121. Postings read: 15875. Title matches kept: 431. New: 
   https://sumup.com/careers/positions/8794670002?gh_jid=8794670002
 - **supabase**:  Account Executive (German-Speaking) | Remote, EMEA; Europe, posted 2026-08-26
   https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc
+- **supabase**: GTM, Strategic Planning  | Remote, Global, posted 2026-11-06
+  https://jobs.ashbyhq.com/supabase/1dfafad5-e177-4d31-bc94-e8b6d0a7a046
 - **swile**: Sales Executive Middle Market (Rio Grande do Sul) | Remote, Brasil, posted 2026-10-09
   https://jobs.lever.co/swile/68cebbc4-0c25-483c-b1a5-ca5a3ce1cf8a
 - **synthesia**: Enterprise Account Executive DACH | Germany; Munich; Zurich; Berlin (remote), posted 2026-06-11
@@ -868,29 +869,8 @@ Boards checked: 119 of 121. Postings read: 15875. Title matches kept: 431. New: 
 - **zscaler**: Sales Account Executive, Majors | Remote - Belgium, posted 2026-09-20
   https://job-boards.greenhouse.io/zscaler/jobs/5231974007
 
-## Closed since last run (11)
-- **databricks**: Named Core Account Executive | Remote - Denmark, posted 2026-10-27
-  https://databricks.com/company/careers/open-positions/job?gh_jid=8805589002
-- **getyourguide**: Account Executive Greece (Greek Speaking) | Berlin, posted 2026-09-02
-  https://job-boards.greenhouse.io/getyourguide/jobs/8173479
-- **getyourguide**: Head of Strategic Programs | Berlin, posted 2026-06-25
-  https://job-boards.greenhouse.io/getyourguide/jobs/8025801
-- **n8n**: Low-touch Customer Success Manager (Remote - EMEA) | Berlin Office; Netherlands; Portugal; Germany; Austria; Lithuania; Ireland; Denmark; Belgium; United Kingdom; Spain (remote), posted 2026-10-30
-  https://jobs.ashbyhq.com/n8n/588577b5-f7c6-4b46-9f07-4250000a40ed
-- **okta**: Account Executive Auth0 | Madrid, Spain, posted 2026-07-24
-  https://www.okta.com/company/careers/opportunity/8079108?gh_jid=8079108
-- **parloa**: Enterprise Account Executive - Austria | Berlin HQ, posted 2026-06-18
-  https://jobs.ashbyhq.com/parloa/67db8982-34f4-42ae-ae34-d8905a889d3a
-- **samsara**: Enterprise Customer Success Manager | Remote - Germany, posted 2026-08-24
-  https://www.samsara.com/company/careers/roles/8132327?gh_jid=8132327
-- **samsara**: Enterprise Implementation Consultant - Public Sector | Remote - GA, posted 2026-10-26
-  https://www.samsara.com/company/careers/roles/8304710?gh_jid=8304710
-- **samsara**: Specialist Seller - Enterprise Select - (AI Products) | Remote - CA; Remote - NY; Remote - OH; Remote - TX, posted 2026-10-26
-  https://www.samsara.com/company/careers/roles/8325410?gh_jid=8325410
-- **samsara**: Specialist Seller - Enterprise Select -(AI Products) | Remote - CA; Remote - NC, posted 2026-10-26
-  https://www.samsara.com/company/careers/roles/8325411?gh_jid=8325411
-- **zscaler**: Commercial Account Executive | Madrid, ESP, posted 2026-08-07
-  https://job-boards.greenhouse.io/zscaler/jobs/5200390007
+## Closed since last run (0)
+- none
 
 ## Boards that failed (2)
 - greenhouse/parloa: HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/
