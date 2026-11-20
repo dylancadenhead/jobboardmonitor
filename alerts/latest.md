@@ -1,34 +1,28 @@
-# Board scan 2026-11-19
+# Board scan 2026-11-20
 
-Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 13. Closed: 6.
+Boards checked: 119 of 121. Postings read: 15982. Title matches kept: 456. New: 10. Closed: 15.
 
-## New since last run (13)
-- **adyen**: Enterprise Account Manager  | Munich, posted 2025-12-08
-  https://job-boards.greenhouse.io/adyen/jobs/7451786
-- **databricks**: Enterprise Hunter Account Executive, FSI/ DIB | Remote - Washington D.C., posted 2026-11-18 (generic remote or EMEA, confirm Spain on the job page)
-  https://databricks.com/company/careers/open-positions/job?gh_jid=8870726002
-- **forto**: (Senior) Sales Manager (f/m/d) - West | Remote Germany, posted 2026-11-19
-  https://jobs.ashbyhq.com/forto/780ba3bf-2bc2-40a0-a118-d89ab23f71f4
-- **harvey**: Customer Success Manager, Enterprise  | Seoul (remote), posted 2026-11-19 (generic remote or EMEA, confirm Spain on the job page)
-  https://jobs.ashbyhq.com/harvey/1040ff3a-6802-4c0d-bd58-2ddff482d8f8
-- **intercom**: Account Executive, Enterprise | NYC, Remote, posted 2026-11-18 (generic remote or EMEA, confirm Spain on the job page)
-  https://job-boards.greenhouse.io/intercom/jobs/8400631
-- **n8n**: Customer Success Manager - Guided - West Coast | Washington State; California; Colorado; Texas (remote), posted 2026-11-19 (generic remote or EMEA, confirm Spain on the job page)
-  https://jobs.ashbyhq.com/n8n/4b44cb99-be47-425c-bba6-8f9976c71ca8
-- **okta**: Regional Sales Manager (Bay Area) | California Remote, posted 2026-11-18 (generic remote or EMEA, confirm Spain on the job page)
-  https://www.okta.com/company/careers/opportunity/8398418?gh_jid=8398418
-- **okta**: Strategic Account Executive | Texas Remote, posted 2026-11-18 (generic remote or EMEA, confirm Spain on the job page)
-  https://www.okta.com/company/careers/opportunity/8397952?gh_jid=8397952
-- **onetrust**: Manager Enterprise and Strategic - Iberia  | Madrid, Spain, posted 2026-11-18
-  https://job-boards.greenhouse.io/onetrust/jobs/8330585
-- **purestorage**: Account Executive, Enterprise (Atlanta/Tennessee) | Remote, Georgia; Remote, Tennessee, posted 2026-11-18 (generic remote or EMEA, confirm Spain on the job page)
-  https://job-boards.greenhouse.io/purestorage/jobs/8394759
-- **purestorage**: Account Executive, Enterprise (Columbus, Ohio) | Remote, Ohio, posted 2026-11-18 (generic remote or EMEA, confirm Spain on the job page)
-  https://job-boards.greenhouse.io/purestorage/jobs/8399221
-- **purestorage**: Account Executive, Enterprise (Walmart) | Remote, Texas, posted 2026-11-18 (generic remote or EMEA, confirm Spain on the job page)
-  https://job-boards.greenhouse.io/purestorage/jobs/8396316
-- **snowflake**: Enterprise Account Executive, Acquisition | MY-Malaysia-Remote, posted 2026-11-19 (generic remote or EMEA, confirm Spain on the job page)
-  https://jobs.ashbyhq.com/snowflake/6f46e934-c796-4564-bc6c-83bb84557d4d
+## New since last run (10)
+- **airwallex**: Account Executive , SME & Growth, Spain | ES - Barcelona (remote), posted 2026-11-19
+  https://jobs.ashbyhq.com/airwallex/b6e95681-c4d3-4a70-a1e0-97db3808a282
+- **airwallex**: Customer Success Manager, SME & Growth, DACH | DE - Berlin, posted 2026-11-19
+  https://jobs.ashbyhq.com/airwallex/d21d9af9-7194-4054-978b-3085160cd7ab
+- **celonis**: Principal Enterprise Architect - AI & Cloud Integrations | Madrid, Spain, posted 2026-11-20
+  https://job-boards.greenhouse.io/celonis/jobs/8210402003?gh_jid=8210402003
+- **clickhouse**: Enterprise Account Executive-Mid Atlantic | Washington D.C.; Philadelphia (remote), posted 2026-11-19 (generic remote or EMEA, confirm Spain on the job page)
+  https://jobs.ashbyhq.com/clickhouse/af586494-e4d1-48ed-b734-5b7f51902f04
+- **n8n**: Head of Global Enterprise Renewals (EMEA - Remote) | Berlin, Germany; Bosnia; Norway; Estonia; Latvia; Slovenia; Netherlands; Hungary; Kosovo; Portugal; Poland; Serbia; Germany; Austria; Finland; Lithuania; Slovakia; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece (remote), posted 2026-11-19
+  https://jobs.ashbyhq.com/n8n/3d7b16dc-f9c2-4d3e-bac5-83abc21d8b48
+- **netskope**: Strategic Sales Manager - Major Accounts Western Germany | Germany, posted 2026-11-20
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=8405460
+- **purestorage**: Account Executive, Enterprise (Virginia) | Remote, Virginia, posted 2026-11-19 (generic remote or EMEA, confirm Spain on the job page)
+  https://job-boards.greenhouse.io/purestorage/jobs/8396660
+- **purestorage**: District Manager, Enterprise (Florida) | Remote, Florida, posted 2026-11-19 (generic remote or EMEA, confirm Spain on the job page)
+  https://job-boards.greenhouse.io/purestorage/jobs/8394698
+- **purestorage**: Sr District Manager, Enterprise (Majors) | Remote, California, posted 2026-11-19 (generic remote or EMEA, confirm Spain on the job page)
+  https://job-boards.greenhouse.io/purestorage/jobs/8396869
+- **zscaler**: Commercial Account Executive - Berlin | Remote - Germany, posted 2026-11-20
+  https://job-boards.greenhouse.io/zscaler/jobs/5296725007
 
 ## Still open (446)
 - **1password**: Account Executive Enterprise DACH | Germany (remote), posted 2026-09-29
@@ -39,6 +33,8 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://job-boards.greenhouse.io/adyen/jobs/7340032
 - **adyen**: Enterprise Account Manager | Berlin, posted 2025-12-08
   https://job-boards.greenhouse.io/adyen/jobs/7342856
+- **adyen**: Enterprise Account Manager  | Munich, posted 2025-12-08
+  https://job-boards.greenhouse.io/adyen/jobs/7451786
 - **adyen**: Enterprise Sales Manager | Berlin; Munich, posted 2026-09-09
   https://job-boards.greenhouse.io/adyen/jobs/8188049
 - **adyen**: Enterprise Sales Manager, Platforms  | Berlin; Munich, posted 2026-09-03
@@ -103,10 +99,10 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://jobs.ashbyhq.com/Ashby/50edd021-cc90-48aa-916a-aead552e4d4f
 - **bitwarden**: Public Sector - Account Executive | Remote, U.S., posted 2026-11-16
   https://bitwarden.com/careers/8202682003/?gh_jid=8202682003
-- **braze**: Account Executive | Munich, posted 2026-08-19
-  https://job-boards.greenhouse.io/braze/jobs/8141353
 - **braze**: Account Executive | Berlin, posted 2026-08-19
   https://job-boards.greenhouse.io/braze/jobs/8131994
+- **braze**: Account Executive | Munich, posted 2026-08-19
+  https://job-boards.greenhouse.io/braze/jobs/8141353
 - **braze**: Account Executive, Enterprise | Berlin, posted 2026-11-17
   https://job-boards.greenhouse.io/braze/jobs/8306114
 - **braze**: Enterprise Account Manager | Berlin, posted 2026-10-12
@@ -145,34 +141,38 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://job-boards.greenhouse.io/canonical/jobs/7440248
 - **celonis**: (Strategic) Account Executive - Retail / CPG | Munich, Germany, posted 2026-10-13
   https://job-boards.greenhouse.io/celonis/jobs/8004218003?gh_jid=8004218003
-- **celonis**: Account Executive - Cross Industries | Zürich, Switzerland, posted 2026-11-18
-  https://job-boards.greenhouse.io/celonis/jobs/8042632003?gh_jid=8042632003
 - **celonis**: Account Executive - Cross Industries | Remote, Switzerland, posted 2026-11-18
   https://job-boards.greenhouse.io/celonis/jobs/8208041003?gh_jid=8208041003
-- **celonis**: Account Executive - Public Sector Germany - Defense (Bundeswehr) | Remote, Germany, posted 2026-10-21
-  https://job-boards.greenhouse.io/celonis/jobs/8039943003?gh_jid=8039943003
+- **celonis**: Account Executive - Cross Industries | Zürich, Switzerland, posted 2026-11-18
+  https://job-boards.greenhouse.io/celonis/jobs/8042632003?gh_jid=8042632003
 - **celonis**: Account Executive - Public Sector Germany - Defense (Bundeswehr) | Munich, Germany, posted 2026-10-21
   https://job-boards.greenhouse.io/celonis/jobs/8040046003?gh_jid=8040046003
-- **celonis**: Account Executive - Public Sector Germany - Police (Polizei) | Remote, Germany, posted 2026-10-21
-  https://job-boards.greenhouse.io/celonis/jobs/8015242003?gh_jid=8015242003
+- **celonis**: Account Executive - Public Sector Germany - Defense (Bundeswehr) | Remote, Germany, posted 2026-10-21
+  https://job-boards.greenhouse.io/celonis/jobs/8039943003?gh_jid=8039943003
 - **celonis**: Account Executive - Public Sector Germany - Police (Polizei) | Munich, Germany, posted 2026-10-21
   https://job-boards.greenhouse.io/celonis/jobs/8040049003?gh_jid=8040049003
+- **celonis**: Account Executive - Public Sector Germany - Police (Polizei) | Remote, Germany, posted 2026-10-21
+  https://job-boards.greenhouse.io/celonis/jobs/8015242003?gh_jid=8015242003
 - **celonis**: Enterprise AI Consultant | Munich, Germany, posted 2026-08-25
   https://job-boards.greenhouse.io/celonis/jobs/7972958003?gh_jid=7972958003
 - **celonis**: Enterprise Account Executive Public Sector | Madrid, Spain, posted 2026-10-29
   https://job-boards.greenhouse.io/celonis/jobs/8042640003?gh_jid=8042640003
 - **celonis**: Principal Enterprise Architect | Zürich, Switzerland, posted 2026-11-16
   https://job-boards.greenhouse.io/celonis/jobs/8205462003?gh_jid=8205462003
-- **celonis**: Principal Enterprise Architect - AI & SAP Integrations | Munich, Germany, posted 2026-09-29
+- **celonis**: Principal Enterprise Architect - AI & Cloud Integration | Remote, Austria, posted 2026-11-12
+  https://job-boards.greenhouse.io/celonis/jobs/8201885003?gh_jid=8201885003
+- **celonis**: Principal Enterprise Architect - AI & Cloud Integrations | Munich, Germany, posted 2026-09-29
   https://job-boards.greenhouse.io/celonis/jobs/7800468003?gh_jid=7800468003
+- **celonis**: Principal Enterprise Architect - AI & Cloud Integrations | Remote, Belgium, posted 2026-11-12
+  https://job-boards.greenhouse.io/celonis/jobs/8201889003?gh_jid=8201889003
 - **celonis**: Strategic Account Executive - Manufacturing | Zürich, Switzerland, posted 2026-09-22
   https://job-boards.greenhouse.io/celonis/jobs/7988891003?gh_jid=7988891003
 - **celonis**: Strategic Account Executive - Manufacturing | Remote, Switzerland, posted 2026-09-22
   https://job-boards.greenhouse.io/celonis/jobs/8002500003?gh_jid=8002500003
-- **celonis**: Strategic Account Executive - Transportation & Logistics | Remote, Germany, posted 2026-10-20
-  https://job-boards.greenhouse.io/celonis/jobs/8038816003?gh_jid=8038816003
 - **celonis**: Strategic Account Executive - Transportation & Logistics | Munich, Germany, posted 2026-10-20
   https://job-boards.greenhouse.io/celonis/jobs/8009490003?gh_jid=8009490003
+- **celonis**: Strategic Account Executive - Transportation & Logistics | Remote, Germany, posted 2026-10-20
+  https://job-boards.greenhouse.io/celonis/jobs/8038816003?gh_jid=8038816003
 - **chainguard**: Enterprise Account Executive - Bay Area | California - Remote, posted 2026-09-23
   https://job-boards.greenhouse.io/chainguard/jobs/4716103006
 - **chainguard**: Enterprise Account Executive - Central | Illinois - Remote, posted 2026-11-10
@@ -245,8 +245,6 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://jobs.ashbyhq.com/cursor/86f0738c-613a-4e75-ae9f-1503d335512e
 - **cursor**: Strategic Account Executive, Enterprise - South Korea | South Korea (remote), posted 2026-11-09
   https://jobs.ashbyhq.com/cursor/b32330b1-deb0-49fb-bcce-9fc339c34fd0
-- **cursor**: Strategic Account Executive, Federal Sales — Civilian  | Remote, posted 2026-11-09
-  https://jobs.ashbyhq.com/cursor/7bd4ecc4-e5b6-4a95-870a-2ae41a9b40cf
 - **cursor**: Strategic Account Executive, Federal Sales — DoW  | Remote, posted 2026-11-09
   https://jobs.ashbyhq.com/cursor/5df283dc-d53e-4769-9b30-1190a06a9adc
 - **cursor**: Strategic Account Executive, Life Sciences | Remote, posted 2026-11-09
@@ -265,6 +263,8 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://databricks.com/company/careers/open-positions/job?gh_jid=8870724002
 - **databricks**: Enterprise Account Executive, Healthcare | Remote - California, posted 2026-11-02
   https://databricks.com/company/careers/open-positions/job?gh_jid=8925472002
+- **databricks**: Enterprise Hunter Account Executive, FSI/ DIB | Remote - Washington D.C., posted 2026-11-18
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8870726002
 - **databricks**: Named Core Account Executive - Retail | Munich, Germany, posted 2026-09-07
   https://databricks.com/company/careers/open-positions/job?gh_jid=8700402002
 - **databricks**: Strategic Account Executive, Life Science | Remote - Denmark, posted 2026-07-17
@@ -295,30 +295,24 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://databricks.com/company/careers/open-positions/job?gh_jid=8458710002
 - **databricks**: Strategic Core Account Executive - Telco  | Remote - Washington, posted 2026-11-10
   https://databricks.com/company/careers/open-positions/job?gh_jid=8931264002
-- **databricks**: Strategic Core Account Executive, Federal System Integrators | Remote - Washington D.C., posted 2025-10-09
-  https://databricks.com/company/careers/open-positions/job?gh_jid=8193165002
 - **databricks**: Strategic Enterprise Account Executive - Airlines | Remote - Texas, posted 2026-11-04
   https://databricks.com/company/careers/open-positions/job?gh_jid=8870940002
 - **databricks**: Strategic Enterprise Account Executive - Financial Services | Remote - Virginia; Remote - Washington D.C., posted 2026-10-20
   https://databricks.com/company/careers/open-positions/job?gh_jid=8902939002
 - **datadog**: Director, Enterprise Sales | Colombia, Remote, posted 2026-11-11
   https://careers.datadoghq.com/detail/8368886/?gh_jid=8368886
-- **datadog**: Enterprise Sales Executive | Colombia, Remote, posted 2026-11-11
-  https://careers.datadoghq.com/detail/7405834/?gh_jid=7405834
 - **datadog**: Strategic Account Executive | Chile, Remote, posted 2026-01-22
   https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404
-- **datadog**: Strategic Account Executive  | Colombia, Remote, posted 2026-11-11
-  https://careers.datadoghq.com/detail/8356637/?gh_jid=8356637
 - **datadog**: Strategic Account Executive (DACH) | Austria, Remote ; Germany, Remote; Poland, Remote, posted 2023-11-21
   https://careers.datadoghq.com/detail/5511968/?gh_jid=5511968
 - **drata**: Enterprise Account Executive - London/UK | Remote - EMEA, posted 2026-09-10
   https://jobs.ashbyhq.com/drata/5e36d774-f149-43bc-b015-5ecd552d86ec
 - **ecosio**: Senior Account Manager DACH (f/m/d) | Vienna, Vienna, Austria, Croatia, Paris, Paris, France, München, Bavaria, Germany, Budapest, Budapest, Hungary, Milano, Milan, Italy, Lisbon, Lisbon, Portugal, València, Valencia, Spain, London, England, United Kingdom, posted 2026-10-06
   https://job-boards.eu.greenhouse.io/ecosio/jobs/4998186101
-- **elastic**: Enterprise Account Executive | Austria, posted 2026-11-03
-  https://jobs.elastic.co/jobs?gh_jid=8336443&gh_jid=8336443
 - **elastic**: Enterprise Account Executive | Germany, posted 2026-09-18
   https://jobs.elastic.co/jobs?gh_jid=8176627&gh_jid=8176627
+- **elastic**: Enterprise Account Executive | Austria, posted 2026-11-03
+  https://jobs.elastic.co/jobs?gh_jid=8336443&gh_jid=8336443
 - **elastic**: Inside Account Executive (French speaking) | Barcelona, Spain, posted 2026-07-30
   https://jobs.elastic.co/jobs?gh_jid=8067200&gh_jid=8067200
 - **elevenlabs**: Enterprise Account Executive - Chile | Chile; Argentina (remote), posted 2026-09-22
@@ -337,6 +331,8 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://boards.greenhouse.io/figma/jobs/6143018004?gh_jid=6143018004
 - **forto**: (Senior) Sales Manager (f/m/d) - North Germany  | Remote Germany, posted 2026-11-10
   https://jobs.ashbyhq.com/forto/7286924c-5d23-4cb6-abcb-3fb55984d07c
+- **forto**: (Senior) Sales Manager (f/m/d) - West | Remote Germany, posted 2026-11-19
+  https://jobs.ashbyhq.com/forto/780ba3bf-2bc2-40a0-a118-d89ab23f71f4
 - **forto**: (Senior) Sales Manager - Commodities  | Europe Remote, posted 2026-10-06
   https://jobs.ashbyhq.com/forto/44d3a68d-0596-482e-84da-837647490a6b
 - **forto**: Sales Manager (f/m/d) - South & East Germany  | Remote Germany, posted 2026-09-02
@@ -363,10 +359,6 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://job-boards.greenhouse.io/gitlab/jobs/8936142002
 - **gitlab**: Strategic Account Executive - Spain  | Remote, Spain, posted 2026-11-11
   https://job-boards.greenhouse.io/gitlab/jobs/8936156002
-- **gitlab**: Strategic Account Executive, France | Remote, posted 2026-10-06
-  https://job-boards.greenhouse.io/gitlab/jobs/8868220002
-- **gitlab**: Strategic Account Executive, Poland | Remote, posted 2026-08-10
-  https://job-boards.greenhouse.io/gitlab/jobs/8675560002
 - **grafanalabs**: Commercial Account Executive, Growth | Remote | Germany | Germany (Remote), posted 2026-11-17
   https://job-boards.greenhouse.io/grafanalabs/jobs/6263996004
 - **grafanalabs**: Enterprise Account Executive, Acquisition - META | Remote | Spain | Spain (Remote), posted 2026-09-17
@@ -387,14 +379,16 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://jobs.ashbyhq.com/harvey/da36fca6-0d0b-492e-b8d2-7a7f971f3e8e
 - **harvey**: Customer Success Manager, Enterprise, EMEA | Munich (remote), posted 2026-07-02
   https://jobs.ashbyhq.com/harvey/667ee044-f6ae-4714-8339-ff949f8faef1
+- **harvey**: Enterprise Customer Success Manager, Korea | Seoul (remote), posted 2026-11-19
+  https://jobs.ashbyhq.com/harvey/1040ff3a-6802-4c0d-bd58-2ddff482d8f8
 - **harvey**: Sales Manager, Enterprise, India | Bengaluru (remote), posted 2026-10-29
   https://jobs.ashbyhq.com/harvey/710bcb7e-c80d-4f38-99e9-5e9704a54aaf
-- **harvey**: Sales Manager, Public Sector | Washington DC (remote), posted 2026-08-19
-  https://jobs.ashbyhq.com/harvey/1b2c2891-8152-4cc5-8bd1-f2cf0a552532
 - **harvey**: Strategic Account Executive, DACH | Munich (remote), posted 2026-10-07
   https://jobs.ashbyhq.com/harvey/c34ee114-fd2d-4507-9888-711397e037bd
 - **hoxhunt**: Enterprise Account Executive, EMEA, English-speaking | Helsinki, Finland (remote), posted 2026-11-16
   https://jobs.ashbyhq.com/hoxhunt/14521d9a-3200-4a8d-97c3-b386ef49b787
+- **intercom**: Account Executive, Enterprise | NYC, Remote, posted 2026-11-18
+  https://job-boards.greenhouse.io/intercom/jobs/8400631
 - **jfrog**: Strategic Account Executive | Remote, Germany, posted 2026-07-16
   https://join.jfrog.com/job/?job=8045681&gh_jid=8045681
 - **jobandtalent**: ES - Account Executive | Barcelona, ES, posted 2026-10-23
@@ -445,12 +439,12 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://www.mongodb.com/careers/job/?gh_jid=7217822
 - **mongodb**: Enterprise Account Executive, AI Natives | Berlin; Frankfurt; Munich, posted 2026-08-31
   https://www.mongodb.com/careers/job/?gh_jid=8147945
-- **mongodb**: Enterprise Account Executive, Growth | Frankfurt, posted 2025-04-29
-  https://www.mongodb.com/careers/job/?gh_jid=6848268
-- **mongodb**: Enterprise Account Executive, Growth | Zurich, posted 2025-09-03
-  https://www.mongodb.com/careers/job/?gh_jid=7217805
 - **mongodb**: Enterprise Account Executive, Growth | Berlin; Frankfurt, posted 2026-05-27
   https://www.mongodb.com/careers/job/?gh_jid=7219021
+- **mongodb**: Enterprise Account Executive, Growth | Zurich, posted 2025-09-03
+  https://www.mongodb.com/careers/job/?gh_jid=7217805
+- **mongodb**: Enterprise Account Executive, Growth | Frankfurt, posted 2025-04-29
+  https://www.mongodb.com/careers/job/?gh_jid=6848268
 - **mongodb**: Strategic Customer Success Manager | Frankfurt; Munich, posted 2026-09-08
   https://www.mongodb.com/careers/job/?gh_jid=8153218
 - **moss**: (Senior) Account Executive, DACH (f/m/d) | Munich, posted 2026-11-17
@@ -469,44 +463,34 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://jobs.ashbyhq.com/n8n/f16af9d9-2c3e-4eed-98cc-4b25277e44e8
 - **n8n**: Enterprise Account Executive Nordics (Remote Nordics) | Denmark; Finland (remote), posted 2026-10-31
   https://jobs.ashbyhq.com/n8n/7a223f15-4d26-4515-837c-dc8a3bcd98d4
-- **n8n**: Enterprise Account Executive US Central (Remote US Central) | Texas; Colorado (remote), posted 2026-10-31
-  https://jobs.ashbyhq.com/n8n/592d917f-8dfc-4207-af49-ef48572fe3d2
-- **n8n**: Enterprise Account Executive US West (Remote US West) | California; Washington State (remote), posted 2026-10-31
-  https://jobs.ashbyhq.com/n8n/baafca43-7cd1-4355-b6fa-e11075d8ce54
 - **n8n**: Enterprise Account Executive, Major Accounts (DACH) | Germany; Austria (remote), posted 2026-10-30
   https://jobs.ashbyhq.com/n8n/6a343c1a-029e-420b-93f3-c4b547780629
 - **n8n**: Enterprise Account Executive, Major Accounts (Europe - South) | Spain; Portugal; Greece (remote), posted 2026-11-12
   https://jobs.ashbyhq.com/n8n/804c5b7b-e9fe-45ab-aaa5-2b2f0800c2e1
-- **n8n**: Enterprise Sales Leader | London Office; Netherlands; Germany; Ireland; United Kingdom (remote), posted 2026-11-02
+- **n8n**: Enterprise Sales Leader | London, United Kingdom; Netherlands; Germany; Ireland; United Kingdom (remote), posted 2026-11-02
   https://jobs.ashbyhq.com/n8n/01e97911-afbc-4d4b-bdc7-ea6cd5e51662
-- **n8n**: Enterprise Sales Leader, DACH | Berlin Office; Germany (remote), posted 2026-10-12
+- **n8n**: Enterprise Sales Leader, DACH | Berlin, Germany; Germany (remote), posted 2026-10-12
   https://jobs.ashbyhq.com/n8n/da8c6a37-670d-4ad9-b5b3-898c395feee4
-- **n8n**: Head of Enterprise Product | Berlin Office; Bosnia; Romania; Norway; Estonia; Latvia; Slovenia; Netherlands; Hungary; Portugal; Serbia; Germany; Finland; Albania; Lithuania; Slovakia; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece (remote), posted 2026-11-11
+- **n8n**: Head of Enterprise Product | Berlin, Germany; Bosnia; Romania; Norway; Estonia; Latvia; Slovenia; Netherlands; Hungary; Portugal; Serbia; Germany; Finland; Albania; Lithuania; Slovakia; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece (remote), posted 2026-11-11
   https://jobs.ashbyhq.com/n8n/cc5ce6e0-5d50-4cfd-a522-4304dc09d29b
-- **n8n**: Large Enterprise Account Executive US West (Remote US West) | California; Washington State; Colorado; Texas (remote), posted 2026-10-31
-  https://jobs.ashbyhq.com/n8n/40332dfe-2da2-4655-b343-87d847134b8e
-- **n8n**: Low-touch Customer Success Manager (Remote - EMEA) | Berlin Office; Netherlands; Portugal; Germany; Austria; Lithuania; Ireland; Denmark; Belgium; United Kingdom; Spain (remote), posted 2026-10-30
+- **n8n**: Low-touch Customer Success Manager (Remote - EMEA) | Berlin, Germany; Netherlands; Portugal; Germany; Austria; Lithuania; Ireland; Denmark; Belgium; United Kingdom; Spain (remote), posted 2026-10-30
   https://jobs.ashbyhq.com/n8n/588577b5-f7c6-4b46-9f07-4250000a40ed
-- **n8n**: Manager, Customer Success (Remote - EMEA) | Berlin Office; Norway; Estonia; Netherlands; Hungary; Portugal; Poland; Germany; Austria; Finland; Lithuania; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece (remote), posted 2026-10-28
+- **n8n**: Manager, Customer Success (Remote - EMEA) | Berlin, Germany; Norway; Estonia; Netherlands; Hungary; Portugal; Poland; Germany; Austria; Finland; Lithuania; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece (remote), posted 2026-10-28
   https://jobs.ashbyhq.com/n8n/240f952d-fa35-4268-b84e-c5697024dab8
-- **n8n**: Senior Customer Success Manager - German Speaking (Remote) | Berlin Office; Bosnia; Norway; Estonia; Latvia; Slovenia; Netherlands; Hungary; Kosovo; Portugal; Poland; Serbia; Germany; Austria; Finland; Albania; Lithuania; Slovakia; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece (remote), posted 2026-10-07
+- **n8n**: Senior Customer Success Manager - German Speaking (Remote) | Berlin, Germany; Bosnia; Norway; Estonia; Latvia; Slovenia; Netherlands; Hungary; Kosovo; Portugal; Poland; Serbia; Germany; Austria; Finland; Albania; Lithuania; Slovakia; Ireland; Bulgaria; Denmark; Belgium; Czech Republic; United Kingdom; Croatia; Spain; Greece (remote), posted 2026-10-07
   https://jobs.ashbyhq.com/n8n/0b21fdb3-006f-4cd3-98b1-68c33f5286fa
 - **neo4j**: Sr.Enterprise Account Executive  - Munich | Remote: Germany, posted 2026-08-11
   https://boards.greenhouse.io/neo4j/jobs/4703656006?gh_jid=4703656006
-- **netskope**: Director, Regional Sales  | Switzerland, posted 2026-04-29
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=7865634
 - **netskope**: Director, Regional Sales  | Austria, posted 2026-04-29
   https://www.netskope.com/company/careers/open-positions/?gh_jid=7866370
+- **netskope**: Director, Regional Sales  | Switzerland, posted 2026-04-29
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=7865634
 - **netskope**: Regional Sales Manager - Financial Services  | Germany, posted 2026-09-07
   https://www.netskope.com/company/careers/open-positions/?gh_jid=8184843
 - **netskope**: Regional Sales Manager - Public Sector | Madrid, Madrid, Spain, posted 2026-07-29
   https://www.netskope.com/company/careers/open-positions/?gh_jid=8085113
 - **netskope**: Regional Sales Manager - Public Sector  | Germany, posted 2026-10-07
   https://www.netskope.com/company/careers/open-positions/?gh_jid=8260965
-- **netskope**: Strategic Sales Manager | Germany, posted 2026-08-11
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=8092053
-- **netskope**: Strategic Sales Manager - Major Accounts | Germany, posted 2026-05-20
-  https://www.netskope.com/company/careers/open-positions/?gh_jid=7947250
 - **netskope**: Strategic Sales Manager - Major Accounts  | Switzerland, posted 2026-10-02
   https://www.netskope.com/company/careers/open-positions/?gh_jid=8223051
 - **notion**: Regional Partner Manager, DACH | Munich, Germany, posted 2026-05-28
@@ -515,8 +499,14 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://www.okta.com/company/careers/opportunity/8354795?gh_jid=8354795
 - **okta**: Large Enterprise Account Executive Auth0 | Germany, posted 2026-08-03
   https://www.okta.com/company/careers/opportunity/8095974?gh_jid=8095974
+- **okta**: Regional Sales Manager (Bay Area) | California Remote, posted 2026-11-18
+  https://www.okta.com/company/careers/opportunity/8398418?gh_jid=8398418
+- **okta**: Strategic Account Executive | Texas Remote, posted 2026-11-18
+  https://www.okta.com/company/careers/opportunity/8397952?gh_jid=8397952
 - **onetrust**: Account Executive, Enterprise - Middle East | Madrid, Spain, posted 2026-10-28
   https://job-boards.greenhouse.io/onetrust/jobs/8289254
+- **onetrust**: Manager Enterprise and Strategic - Iberia  | Madrid, Spain, posted 2026-11-18
+  https://job-boards.greenhouse.io/onetrust/jobs/8330585
 - **openai**: Account Director, Digital Native | Seoul, South Korea (remote), posted 2026-08-21
   https://jobs.ashbyhq.com/openai/52263a22-1621-4dbb-9a11-ae4490f2acc8
 - **openai**: Account Director, Federal Partnerships (Defense) | Washington, DC (remote), posted 2026-10-29
@@ -573,8 +563,6 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://jobs.ashbyhq.com/pennylane/d1b52bb3-3ee0-41c7-af87-444a8ac3c098
 - **pennylane**: Account Executive – Steuerkanzleien (m/w/d) | Remote, Deutschland | Germany (remote), posted 2026-11-05
   https://jobs.ashbyhq.com/pennylane/c8590217-e0c7-41ea-8749-65b4ac9d42ac
-- **pennylane**: Customer Success Manager (w/m/d) - Accounting & Taxation | Germany (remote); Berlin Office, posted 2026-08-20
-  https://jobs.ashbyhq.com/pennylane/9b1e4be0-5e7a-4cb6-90e8-1599a6282b52
 - **pennylane**: Junior Sales Manager (m/w/d) – 100 % Inbound, SaaS | Berlin (Hybrid) | Berlin Office (remote), posted 2026-10-30
   https://jobs.ashbyhq.com/pennylane/a1502a37-ef9c-4ca0-98ed-1468e52effd0
 - **pennylane**: Partner Success Manager (w/m/d) - Fintech SaaS Scale-Up | Germany (remote); Berlin Office, posted 2026-08-20
@@ -583,8 +571,6 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://jobs.ashbyhq.com/Perk/56b63aa8-78c1-4e2b-acc8-6c7a45e3642f
 - **perk**: Account Executive - Danish Speaker | Barcelona (remote), posted 2026-09-18
   https://jobs.ashbyhq.com/Perk/61e99485-75c0-47f2-a8ca-3e7ed5c16e97
-- **perk**: Account Executive - Growth Markets   - Italian  | Barcelona (remote), posted 2026-10-19
-  https://jobs.ashbyhq.com/Perk/25f3885e-1ef6-4c2b-9cd8-1f8cac316bcc
 - **perk**: Account Executive - UKI | Barcelona (remote), posted 2023-10-24
   https://jobs.ashbyhq.com/Perk/1eda2d6a-33f0-4956-b4c7-7a0952aed80f
 - **perk**: Account Manager - UKI  | Barcelona (remote), posted 2026-10-30
@@ -649,12 +635,18 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://job-boards.greenhouse.io/purestorage/jobs/8395558
 - **purestorage**: Account Executive, Commercial (Richmond, Virginia) | Remote, Virginia, posted 2026-11-16
   https://job-boards.greenhouse.io/purestorage/jobs/8370309
+- **purestorage**: Account Executive, Enterprise (Atlanta/Tennessee) | Remote, Georgia; Remote, Tennessee, posted 2026-11-18
+  https://job-boards.greenhouse.io/purestorage/jobs/8394759
 - **purestorage**: Account Executive, Enterprise (Chicago) | Remote, Illinois, posted 2026-09-21
   https://job-boards.greenhouse.io/purestorage/jobs/8180695
 - **purestorage**: Account Executive, Enterprise (Cincinnati) | Remote, Ohio, posted 2026-10-26
   https://job-boards.greenhouse.io/purestorage/jobs/8325134
+- **purestorage**: Account Executive, Enterprise (Columbus, Ohio) | Remote, Ohio, posted 2026-11-18
+  https://job-boards.greenhouse.io/purestorage/jobs/8399221
 - **purestorage**: Account Executive, Enterprise (Denmark) | Remote, Denmark, posted 2026-09-09
   https://job-boards.greenhouse.io/purestorage/jobs/8179428
+- **purestorage**: Account Executive, Enterprise (Walmart) | Remote, Texas, posted 2026-11-18
+  https://job-boards.greenhouse.io/purestorage/jobs/8396316
 - **purestorage**: Account Executive, Federal (Intelligence Community) | Remote, Virginia, posted 2026-09-24
   https://job-boards.greenhouse.io/purestorage/jobs/8226648
 - **purestorage**: Account Executive, Higher Education (MI/OH) | Remote, Michigan; Remote, Ohio, posted 2026-10-06
@@ -699,22 +691,22 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://www.qualtrics.com/careers/us/en/job/8064430?gh_jid=8064430
 - **qualtrics**: Account Executive - Munich | Munich, Germany, posted 2026-04-24
   https://www.qualtrics.com/careers/us/en/job/7843052?gh_jid=7843052
-- **qualtrics**: Enterprise Account Executive - DACH | Munich, Germany, posted 2026-06-09
-  https://www.qualtrics.com/careers/us/en/job/7992401?gh_jid=7992401
 - **qualtrics**: Enterprise Account Executive - DACH | Germany (Remote), posted 2026-06-09
   https://www.qualtrics.com/careers/us/en/job/7985713?gh_jid=7985713
-- **rubrik**: Account Executive, Named - Germany | Frankfurt, Hesse, Germany, posted 2026-10-13
-  https://www.rubrik.com/company/careers/departments/job.8105674?gh_jid=8105674
-- **rubrik**: Account Executive, Named - Germany | Munich, Bavaria, Germany, posted 2026-11-12
-  https://www.rubrik.com/company/careers/departments/job.8382682?gh_jid=8382682
+- **qualtrics**: Enterprise Account Executive - DACH | Munich, Germany, posted 2026-06-09
+  https://www.qualtrics.com/careers/us/en/job/7992401?gh_jid=7992401
 - **rubrik**: Account Executive, Named - Germany | Dusseldorf, North Rhine-Westphalia, Germany, posted 2026-11-12
   https://www.rubrik.com/company/careers/departments/job.8382689?gh_jid=8382689
-- **rubrik**: Account Executive, Named - Germany | Stuttgart, Baden-Württemberg, Germany, posted 2026-11-12
-  https://www.rubrik.com/company/careers/departments/job.8382696?gh_jid=8382696
-- **rubrik**: Account Executive, Named - Germany | Berlin, Germany, posted 2026-11-12
-  https://www.rubrik.com/company/careers/departments/job.8382713?gh_jid=8382713
+- **rubrik**: Account Executive, Named - Germany | Frankfurt, Hesse, Germany, posted 2026-10-13
+  https://www.rubrik.com/company/careers/departments/job.8105674?gh_jid=8105674
 - **rubrik**: Account Executive, Named - Germany | Hamburg, Germany, posted 2026-11-12
   https://www.rubrik.com/company/careers/departments/job.8382716?gh_jid=8382716
+- **rubrik**: Account Executive, Named - Germany | Berlin, Germany, posted 2026-11-12
+  https://www.rubrik.com/company/careers/departments/job.8382713?gh_jid=8382713
+- **rubrik**: Account Executive, Named - Germany | Munich, Bavaria, Germany, posted 2026-11-12
+  https://www.rubrik.com/company/careers/departments/job.8382682?gh_jid=8382682
+- **rubrik**: Account Executive, Named - Germany | Stuttgart, Baden-Württemberg, Germany, posted 2026-11-12
+  https://www.rubrik.com/company/careers/departments/job.8382696?gh_jid=8382696
 - **rubrik**: Account Executive, Named - Germany | Leipzig, Saxony, Germany, posted 2026-11-12
   https://www.rubrik.com/company/careers/departments/job.8382717?gh_jid=8382717
 - **rubrik**: Account Executive, Product Sales Specialist (Identity) - Switzerland | Germany, Remote, posted 2026-11-17
@@ -723,34 +715,34 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://www.rubrik.com/company/careers/departments/job.8382763?gh_jid=8382763
 - **rubrik**: Senior GSI Account Executive - M365 | Remote - New Jersey / NYC Area, posted 2026-11-13
   https://www.rubrik.com/company/careers/departments/job.8385519?gh_jid=8385519
-- **rubrik**: Territory Account Executive  | Berlin, Germany, posted 2026-11-12
-  https://www.rubrik.com/company/careers/departments/job.8382652?gh_jid=8382652
 - **rubrik**: Territory Account Executive  | Stuttgart, Baden-Württemberg, Germany, posted 2026-11-12
   https://www.rubrik.com/company/careers/departments/job.8382651?gh_jid=8382651
+- **rubrik**: Territory Account Executive  | Berlin, Germany, posted 2026-11-12
+  https://www.rubrik.com/company/careers/departments/job.8382652?gh_jid=8382652
 - **rubrik**: Territory Account Executive  | Hamburg, Germany, posted 2026-11-12
   https://www.rubrik.com/company/careers/departments/job.8382653?gh_jid=8382653
-- **rubrik**: Territory Account Executive  | Dusseldorf, North Rhine-Westphalia, Germany, posted 2026-11-12
-  https://www.rubrik.com/company/careers/departments/job.8382650?gh_jid=8382650
-- **rubrik**: Territory Account Executive  | Frankfurt, Hesse, Germany, posted 2026-11-12
-  https://www.rubrik.com/company/careers/departments/job.8382649?gh_jid=8382649
 - **rubrik**: Territory Account Executive  | Leipzig, Saxony, Germany, posted 2026-11-12
   https://www.rubrik.com/company/careers/departments/job.8382654?gh_jid=8382654
+- **rubrik**: Territory Account Executive  | Dusseldorf, North Rhine-Westphalia, Germany, posted 2026-11-12
+  https://www.rubrik.com/company/careers/departments/job.8382650?gh_jid=8382650
 - **rubrik**: Territory Account Executive  | Munich, Bavaria, Germany, posted 2026-10-14
   https://www.rubrik.com/company/careers/departments/job.8158839?gh_jid=8158839
+- **rubrik**: Territory Account Executive  | Frankfurt, Hesse, Germany, posted 2026-11-12
+  https://www.rubrik.com/company/careers/departments/job.8382649?gh_jid=8382649
 - **runpod**: Account Manager EMEA | Remote - EMEA, posted 2026-11-13
   https://jobs.ashbyhq.com/runpod/30c9e970-5511-477c-8785-d7a5360f0ce7
 - **samsara**: Account Executive, Commercial ( West) | Remote - AZ; Remote - CA, posted 2026-09-03
   https://www.samsara.com/company/careers/roles/8162024?gh_jid=8162024
 - **samsara**: Account Executive, Commercial ( West) | Remote - CO; Remote - GA; Remote - UT, posted 2026-10-28
   https://www.samsara.com/company/careers/roles/8331538?gh_jid=8331538
-- **samsara**: Core Enterprise Account Executive Midwest | Remote - OH; Remote - OK, posted 2026-10-26
-  https://www.samsara.com/company/careers/roles/8325433?gh_jid=8325433
 - **samsara**: Core Enterprise Account Executive Midwest | Remote - AL, posted 2026-10-26
   https://www.samsara.com/company/careers/roles/8325434?gh_jid=8325434
-- **samsara**: Core Enterprise Account Executive TOLA  | Remote - TX, posted 2026-10-26
-  https://www.samsara.com/company/careers/roles/8325432?gh_jid=8325432
+- **samsara**: Core Enterprise Account Executive Midwest | Remote - OH; Remote - OK, posted 2026-10-26
+  https://www.samsara.com/company/careers/roles/8325433?gh_jid=8325433
 - **samsara**: Core Enterprise Account Executive TOLA  | Remote - AR; Remote - OK, posted 2026-10-26
   https://www.samsara.com/company/careers/roles/8325429?gh_jid=8325429
+- **samsara**: Core Enterprise Account Executive TOLA  | Remote - TX, posted 2026-10-26
+  https://www.samsara.com/company/careers/roles/8325432?gh_jid=8325432
 - **samsara**: Customer Success Manager  | Remote - AZ; Remote - FL; Remote - GA; Remote - PA; Remote - TX, posted 2026-08-28
   https://www.samsara.com/company/careers/roles/7603023?gh_jid=7603023
 - **samsara**: Enterprise Account Executive - Public Sector, West | Remote - AZ; Remote - CA; Remote - CO, posted 2026-06-03
@@ -767,10 +759,10 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://www.samsara.com/company/careers/roles/8227725?gh_jid=8227725
 - **samsara**: Enterprise Customer Success Manager - Public Sector | Remote - AZ; Remote - Dallas; Remote - FL; Remote - GA; Remote - Houston; Remote - PA; Remote - TX, posted 2026-08-14
   https://www.samsara.com/company/careers/roles/8029099?gh_jid=8029099
-- **samsara**: Enterprise Implementation Consultant - Public Sector | Remote - UT, posted 2026-10-26
-  https://www.samsara.com/company/careers/roles/8304710?gh_jid=8304710
 - **samsara**: Enterprise Implementation Consultant - Public Sector | Remote - GA, posted 2026-11-06
   https://www.samsara.com/company/careers/roles/8360093?gh_jid=8360093
+- **samsara**: Enterprise Implementation Consultant - Public Sector | Remote - UT, posted 2026-10-26
+  https://www.samsara.com/company/careers/roles/8304710?gh_jid=8304710
 - **samsara**: Manager, Enterprise Collections | Remote - AL, posted 2026-10-01
   https://www.samsara.com/company/careers/roles/8223751?gh_jid=8223751
 - **samsara**: Public Sector Major Account Executive | Remote - CA; Remote - FL; Remote - OH; Remote - TX, posted 2026-10-26
@@ -783,10 +775,10 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://www.samsara.com/company/careers/roles/8332757?gh_jid=8332757
 - **samsara**: Select Major Account Executive (EST) | Remote - CT; Remote - MA; Remote - NH; Remote - NJ; Remote - NY; Remote - PA; Remote - PA Metro; Remote - RI, posted 2026-06-01
   https://www.samsara.com/company/careers/roles/7663706?gh_jid=7663706
-- **samsara**: Specialist Seller, Enterprise Core (AI Products) | Remote - NY, posted 2026-06-04
-  https://www.samsara.com/company/careers/roles/7982331?gh_jid=7982331
 - **samsara**: Specialist Seller, Enterprise Core (AI Products) | Remote - DC, posted 2026-06-04
   https://www.samsara.com/company/careers/roles/7982336?gh_jid=7982336
+- **samsara**: Specialist Seller, Enterprise Core (AI Products) | Remote - NY, posted 2026-06-04
+  https://www.samsara.com/company/careers/roles/7982331?gh_jid=7982331
 - **samsara**: Specialist Seller, Enterprise Core (Tracking Label) | Remote - CA; Remote - NC, posted 2026-10-26
   https://www.samsara.com/company/careers/roles/8325409?gh_jid=8325409
 - **samsara**: Specialist Seller, Enterprise Core (Tracking Label) | Remote - AZ; Remote - NY; Remote - TX, posted 2026-10-26
@@ -807,6 +799,8 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://jobs.ashbyhq.com/snowflake/f822805c-5f47-46d3-8a01-a5cc78f329dd
 - **snowflake**: Enteprise Account Executive - Norway  | NO-Norway-Remote, posted 2026-10-28
   https://jobs.ashbyhq.com/snowflake/79ee347b-4a14-4a49-b73a-8e2c8297ecf0
+- **snowflake**: Enterprise Account Executive, Acquisition | MY-Malaysia-Remote, posted 2026-11-19
+  https://jobs.ashbyhq.com/snowflake/6f46e934-c796-4564-bc6c-83bb84557d4d
 - **snyk**: Account Director (DACH) | United Kingdom - London Local; Germany - Remote, posted 2026-10-13
   https://jobs.ashbyhq.com/Snyk/8112d813-05a7-4e5a-8f88-ff42d1b747ab
 - **staffbase**: Account Executive Europe | Berlin, Germany; Chemnitz, Sachsen, Germany; Dresden, Sachsen, Germany; Germany Remote; Köln, Nordrhein-Westfalen, Germany; München, Bayern, Germany, posted 2026-11-13
@@ -843,20 +837,20 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://stripe.com/jobs/search?gh_jid=8299651
 - **sumup**: Account Manager (HVM) - German | Barcelona, Barcelona, Spain, posted 2026-04-17
   https://sumup.com/careers/positions/8507799002?gh_jid=8507799002
-- **sumup**: Field Sales Manager (m/w/d) | Aachen, North Rhine-Westphalia, Germany, posted 2025-12-02
-  https://sumup.com/careers/positions/8317464002?gh_jid=8317464002
 - **sumup**: Field Sales Manager (m/w/d) | Münster, North Rhine-Westphalia, Germany, posted 2026-03-18
   https://sumup.com/careers/positions/8468108002?gh_jid=8468108002
-- **sumup**: Field Sales Manager (m/w/d) | Cologne, Germany, posted 2025-07-31
-  https://sumup.com/careers/positions/8082105002?gh_jid=8082105002
 - **sumup**: Field Sales Manager (m/w/d) | Düsseldorf, North Rhine-Westphalia, Germany, posted 2025-07-31
   https://sumup.com/careers/positions/8082062002?gh_jid=8082062002
 - **sumup**: Field Sales Manager (m/w/d) | Dortmund, North Rhine-Westphalia, Germany, posted 2025-08-19
   https://sumup.com/careers/positions/8126118002?gh_jid=8126118002
-- **sumup**: Sales Manager (m/w/d) | Berlin, Germany, posted 2026-07-20
-  https://sumup.com/careers/positions/8640268002?gh_jid=8640268002
+- **sumup**: Field Sales Manager (m/w/d) | Aachen, North Rhine-Westphalia, Germany, posted 2025-12-02
+  https://sumup.com/careers/positions/8317464002?gh_jid=8317464002
+- **sumup**: Field Sales Manager (m/w/d) | Cologne, Germany, posted 2025-07-31
+  https://sumup.com/careers/positions/8082105002?gh_jid=8082105002
 - **sumup**: Sales Manager (m/w/d) | Essen, North Rhine-Westphalia, Germany, posted 2026-02-02
   https://sumup.com/careers/positions/8317991002?gh_jid=8317991002
+- **sumup**: Sales Manager (m/w/d) | Berlin, Germany, posted 2026-07-20
+  https://sumup.com/careers/positions/8640268002?gh_jid=8640268002
 - **sumup**: Strategic Sourcing Manager- Hardware | Berlin, Germany, posted 2026-10-23
   https://sumup.com/careers/positions/8905233002?gh_jid=8905233002
 - **supabase**:  Account Executive (German-Speaking) | Remote, EMEA; Europe, posted 2026-08-26
@@ -877,12 +871,12 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://job-boards.greenhouse.io/torq/jobs/6242190004
 - **torq**: Regional Sales Manager, DACH | Germany, posted 2026-11-05
   https://job-boards.greenhouse.io/torq/jobs/6250771004
-- **trustpilot**: Enterprise Account Executive - DACH | Hamburg, posted 2026-11-16
-  https://corporate.trustpilot.com/careers/job/8248933?gh_jid=8248933
-- **trustpilot**: Enterprise Account Manager - DACH | Hamburg, posted 2026-11-16
-  https://corporate.trustpilot.com/careers/job/8248929?gh_jid=8248929
 - **trustpilot**: Senior Customer Success Manager - DACH  | Hamburg, posted 2026-10-01
   https://corporate.trustpilot.com/careers/job/8219916?gh_jid=8219916
+- **trustpilot**: Senior Enterprise Account Executive - DACH | Hamburg, posted 2026-11-16
+  https://corporate.trustpilot.com/careers/job/8248933?gh_jid=8248933
+- **trustpilot**: Senior Enterprise Account Manager - DACH | Hamburg, posted 2026-11-16
+  https://corporate.trustpilot.com/careers/job/8248929?gh_jid=8248929
 - **twilio**: Strategic Account Executive (German Speaking) | Remote - Spain, posted 2026-04-29
   https://job-boards.greenhouse.io/twilio/jobs/7865849
 - **vanta**: Account Executive, Early Stage | Remote U.S., posted 2026-07-24
@@ -913,10 +907,10 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
   https://job-boards.greenhouse.io/zscaler/jobs/5139790007
 - **zscaler**: Account Executive, Majors | Remote - Germany, posted 2026-07-31
   https://job-boards.greenhouse.io/zscaler/jobs/5197821007
-- **zscaler**: Commercial Account Executive  | Remote - South Africa, posted 2026-10-07
-  https://job-boards.greenhouse.io/zscaler/jobs/5243580007
 - **zscaler**: Commercial Account Executive  | Frankfurt am Main, DEU, posted 2026-10-07
   https://job-boards.greenhouse.io/zscaler/jobs/5217011007
+- **zscaler**: Commercial Account Executive  | Remote - South Africa, posted 2026-10-07
+  https://job-boards.greenhouse.io/zscaler/jobs/5243580007
 - **zscaler**: Commercial Account Executive  | Remote - Norway, posted 2026-10-27
   https://job-boards.greenhouse.io/zscaler/jobs/5270977007
 - **zscaler**: Regional Director, Enterprise | Remote - Germany, posted 2026-09-15
@@ -924,19 +918,37 @@ Boards checked: 119 of 121. Postings read: 15972. Title matches kept: 459. New: 
 - **zscaler**: Sales Account Executive, Enterprise | Madrid, ESP, posted 2026-09-03
   https://job-boards.greenhouse.io/zscaler/jobs/5229760007
 
-## Closed since last run (6)
-- **elevenlabs**: Account Executive  - Korea  | Korea (remote), posted 2026-08-19
-  https://jobs.ashbyhq.com/ElevenLabs/592954c4-0c40-4198-9fa3-2ed82a84518f
-- **snowflake**: Account Executive - Expansion (Energy & Utilities) | DE-Germany-Remote, posted 2026-10-28
-  https://jobs.ashbyhq.com/snowflake/a0e93417-4066-494d-a7ec-25c9df8ec5a6
-- **snowflake**: Enterprise Account Executive | DK-Denmark-Remote, posted 2026-10-13
-  https://jobs.ashbyhq.com/snowflake/8bbbd764-cdd6-4f53-8a3f-096902f2d966
-- **sumup**: Team Lead Account Manager  - English  | Barcelona, Barcelona, Spain, posted 2026-04-23
-  https://sumup.com/careers/positions/8520357002?gh_jid=8520357002
-- **sumup**: Team Lead Account Manager - French | Barcelona, Barcelona, Spain, posted 2026-04-23
-  https://sumup.com/careers/positions/8505871002?gh_jid=8505871002
-- **sumup**: Team Lead Account Manager - German Market | Barcelona, Barcelona, Spain, posted 2026-04-23
-  https://sumup.com/careers/positions/8520346002?gh_jid=8520346002
+## Closed since last run (15)
+- **cursor**: Strategic Account Executive, Federal Sales — Civilian  | Remote, posted 2026-11-09
+  https://jobs.ashbyhq.com/cursor/7bd4ecc4-e5b6-4a95-870a-2ae41a9b40cf
+- **databricks**: Strategic Core Account Executive, Federal System Integrators | Remote - Washington D.C., posted 2025-10-09
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8193165002
+- **datadog**: Enterprise Sales Executive | Colombia, Remote, posted 2026-11-11
+  https://careers.datadoghq.com/detail/7405834/?gh_jid=7405834
+- **datadog**: Strategic Account Executive  | Colombia, Remote, posted 2026-11-11
+  https://careers.datadoghq.com/detail/8356637/?gh_jid=8356637
+- **gitlab**: Strategic Account Executive, France | Remote, posted 2026-10-06
+  https://job-boards.greenhouse.io/gitlab/jobs/8868220002
+- **gitlab**: Strategic Account Executive, Poland | Remote, posted 2026-08-10
+  https://job-boards.greenhouse.io/gitlab/jobs/8675560002
+- **harvey**: Sales Manager, Public Sector | Washington DC (remote), posted 2026-08-19
+  https://jobs.ashbyhq.com/harvey/1b2c2891-8152-4cc5-8bd1-f2cf0a552532
+- **n8n**: Customer Success Manager - Guided - West Coast | Washington State; California; Colorado; Texas (remote), posted 2026-11-19
+  https://jobs.ashbyhq.com/n8n/4b44cb99-be47-425c-bba6-8f9976c71ca8
+- **n8n**: Enterprise Account Executive US Central (Remote US Central) | Texas; Colorado (remote), posted 2026-10-31
+  https://jobs.ashbyhq.com/n8n/592d917f-8dfc-4207-af49-ef48572fe3d2
+- **n8n**: Enterprise Account Executive US West (Remote US West) | California; Washington State (remote), posted 2026-10-31
+  https://jobs.ashbyhq.com/n8n/baafca43-7cd1-4355-b6fa-e11075d8ce54
+- **n8n**: Large Enterprise Account Executive US West (Remote US West) | California; Washington State; Colorado; Texas (remote), posted 2026-10-31
+  https://jobs.ashbyhq.com/n8n/40332dfe-2da2-4655-b343-87d847134b8e
+- **netskope**: Strategic Sales Manager | Germany, posted 2026-08-11
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=8092053
+- **netskope**: Strategic Sales Manager - Major Accounts | Germany, posted 2026-05-20
+  https://www.netskope.com/company/careers/open-positions/?gh_jid=7947250
+- **pennylane**: Customer Success Manager (w/m/d) - Accounting & Taxation | Germany (remote); Berlin Office, posted 2026-08-20
+  https://jobs.ashbyhq.com/pennylane/9b1e4be0-5e7a-4cb6-90e8-1599a6282b52
+- **perk**: Account Executive - Growth Markets   - Italian  | Barcelona (remote), posted 2026-10-19
+  https://jobs.ashbyhq.com/Perk/25f3885e-1ef6-4c2b-9cd8-1f8cac316bcc
 
 ## Boards that failed (2)
 - greenhouse/parloa: HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/
